@@ -1,0 +1,13 @@
+{
+  "name": "test-qa",
+  "version": "1.0.0",
+  "description": "Autonomous ReaLift SDK QA orchestrator",
+  "main": "auto-qa-runner.mjs",
+  "type": "module",
+  "scripts": {
+    "qa": "node auto-qa-runner.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}
