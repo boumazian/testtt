@@ -1,7 +1,7 @@
-# ReaLift SDK — QA Sweep Report: your-shopify-preview-link (preview)
+# ReaLift SDK — QA Sweep Report: 0omwq7ganw75z2n5 (preview)
 
 **Date:** 2026-07-22
-**Target:** `https://your-shopify-preview-link.shopifypreview.com`
+**Target:** `https://0omwq7ganw75z2n5-20780321.shopifypreview.com`
 **Tool:** `auto-qa-runner.mjs` (Playwright)
 **Overall verdict:** ✅ PASS
 
