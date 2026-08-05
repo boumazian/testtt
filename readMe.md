@@ -43,4 +43,9 @@ node auto-qa-runner.mjs "https://your-shopify-preview-link.shopifypreview.com" -
 
 
 
+Track Test Progress
 
+nohup node auto-qa-runner.mjs "https://mpnt2j1w4hdz2k2b-20780321.shopifypreview.com" --settle 25000 --settle-negative 10000 --limit 50 > /home/fadouabo/test-qa/fresh-test.log 2>&1 &
+
+
+tail -f /home/fadouabo/test-qa/fresh-test.log
