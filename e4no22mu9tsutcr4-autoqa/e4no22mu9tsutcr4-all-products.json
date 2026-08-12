@@ -1,0 +1,6822 @@
+[
+  {
+    "handle": "coco-l1959",
+    "product_type": "Leotards & Unitards",
+    "title": "Coco - L1959"
+  },
+  {
+    "handle": "jada-kids-shorts-l1883",
+    "product_type": "Shorts",
+    "title": "Jada Kid's Shorts - L1883"
+  },
+  {
+    "handle": "kinga-l1871",
+    "product_type": "Leotards & Unitards",
+    "title": "Kinga - L1871"
+  },
+  {
+    "handle": "wanda-l1859",
+    "product_type": "Leotards & Unitards",
+    "title": "Wanda - L1859"
+  },
+  {
+    "handle": "julia-l1857",
+    "product_type": "Leotards & Unitards",
+    "title": "Julia - L1857"
+  },
+  {
+    "handle": "hanna-l1847",
+    "product_type": "Leotards & Unitards",
+    "title": "Hanna - L1847"
+  },
+  {
+    "handle": "susie-l1845",
+    "product_type": "Leotards & Unitards",
+    "title": "Susie - L1845"
+  },
+  {
+    "handle": "vera-l1843",
+    "product_type": "Leotards & Unitards",
+    "title": "Vera - L1843"
+  },
+  {
+    "handle": "tilleli-l1743",
+    "product_type": "Leotards & Unitards",
+    "title": "Tilleli - L1743"
+  },
+  {
+    "handle": "farah-l1733",
+    "product_type": "Leotards & Unitards",
+    "title": "Farah - L1733"
+  },
+  {
+    "handle": "rania-l1727",
+    "product_type": "Leotards & Unitards",
+    "title": "Rania - L1727"
+  },
+  {
+    "handle": "allia-l1747",
+    "product_type": "Leotards & Unitards",
+    "title": "Allia - L1747"
+  },
+  {
+    "handle": "tayri-l1741",
+    "product_type": "Leotards & Unitards",
+    "title": "Tayri - L1741"
+  },
+  {
+    "handle": "hiba-l1729",
+    "product_type": "Leotards & Unitards",
+    "title": "Hiba - L1729"
+  },
+  {
+    "handle": "maya-l1745",
+    "product_type": "Leotards & Unitards",
+    "title": "Maya - L1745"
+  },
+  {
+    "handle": "tala-l1705",
+    "product_type": "Leotards & Unitards",
+    "title": "Tala - L1705"
+  },
+  {
+    "handle": "aziza-l1717",
+    "product_type": "Leotards & Unitards",
+    "title": "Aziza - L1717"
+  },
+  {
+    "handle": "tiziri-l1703",
+    "product_type": "Leotards & Unitards",
+    "title": "Tiziri - L1703"
+  },
+  {
+    "handle": "steffy-y-sl05",
+    "product_type": "Leotards & Unitards",
+    "title": "Steffy - Y-SL05"
+  },
+  {
+    "handle": "patty-y-sl03",
+    "product_type": "Leotards & Unitards",
+    "title": "Patty - Y-SL03"
+  },
+  {
+    "handle": "gigi-l837",
+    "product_type": "Leotards & Unitards",
+    "title": "Gigi - L837"
+  },
+  {
+    "handle": "be-you-playtime-pastel-l2091",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Playtime - L2091"
+  },
+  {
+    "handle": "olivia-l1855",
+    "product_type": "Leotards & Unitards",
+    "title": "Olivia - L1855"
+  },
+  {
+    "handle": "anielia-l1853",
+    "product_type": "Leotards & Unitards",
+    "title": "Anielia - L1853"
+  },
+  {
+    "handle": "houda-l1713",
+    "product_type": "Leotards & Unitards",
+    "title": "Houda - L1713"
+  },
+  {
+    "handle": "lalla-l1835",
+    "product_type": "Leotards & Unitards",
+    "title": "Lalla - L1835"
+  },
+  {
+    "handle": "izza-l1815",
+    "product_type": "Leotards & Unitards",
+    "title": "Izza - L1815"
+  },
+  {
+    "handle": "tamara-l1735",
+    "product_type": "Leotards & Unitards",
+    "title": "Tamara - L1735"
+  },
+  {
+    "handle": "tamara-kids-skirt-l1737",
+    "product_type": "Skirts",
+    "title": "Tamara Kid's Skirt - L1737"
+  },
+  {
+    "handle": "hiba-kids-skirt-l1731",
+    "product_type": "Skirts",
+    "title": "Hiba Kid's Skirt - L1731"
+  },
+  {
+    "handle": "hula-kids-shorts-l1723",
+    "product_type": "Shorts",
+    "title": "Hula Kid's Shorts - L1723"
+  },
+  {
+    "handle": "lila-kids-shorts-l1695",
+    "product_type": "Shorts",
+    "title": "Lila Kid's Shorts - L1695"
+  },
+  {
+    "handle": "lilia-kids-shorts-l1683",
+    "product_type": "Shorts",
+    "title": "Lilia Kid's Shorts - L1683"
+  },
+  {
+    "handle": "alisa-kids-leggings-l1823",
+    "product_type": "Leggings",
+    "title": "Alisa Kid's Leggings - L1823"
+  },
+  {
+    "handle": "jada-kids-crop-top-l1879",
+    "product_type": "Shirts & Tops",
+    "title": "Jada Kid's Crop Top - L1879"
+  },
+  {
+    "handle": "nela-kids-leggings-l1877",
+    "product_type": "Leggings",
+    "title": "Nela Kid's Leggings - L1877"
+  },
+  {
+    "handle": "nela-kids-crop-top-l1875",
+    "product_type": "Shirts & Tops",
+    "title": "Nela Kid's Bralette Top - L1875"
+  },
+  {
+    "handle": "alisa-kids-bralette-top-l1821",
+    "product_type": "Shirts & Tops",
+    "title": "Alisa Kid's Bralette Top - L1821"
+  },
+  {
+    "handle": "silia-kids-crop-top-l1677",
+    "product_type": "Shirts & Tops",
+    "title": "Silia Kid's Crop Top - L1677"
+  },
+  {
+    "handle": "lilia-kids-crop-top-l1681",
+    "product_type": "Shirts & Tops",
+    "title": "Lilia Kid's Crop Top - L1681"
+  },
+  {
+    "handle": "polina-l1765",
+    "product_type": "Leotards & Unitards",
+    "title": "Polina - L1765"
+  },
+  {
+    "handle": "daria-l1763",
+    "product_type": "Leotards & Unitards",
+    "title": "Daria - L1763"
+  },
+  {
+    "handle": "milana-l1761",
+    "product_type": "Leotards & Unitards",
+    "title": "Milana - L1761"
+  },
+  {
+    "handle": "zlata-l1759",
+    "product_type": "Leotards & Unitards",
+    "title": "Zlata - L1759"
+  },
+  {
+    "handle": "ekaterina-l1757",
+    "product_type": "Leotards & Unitards",
+    "title": "Ekaterina - L1757"
+  },
+  {
+    "handle": "eleana-l1755",
+    "product_type": "Leotards & Unitards",
+    "title": "Eleana - L1755"
+  },
+  {
+    "handle": "anastasia-l1753",
+    "product_type": "Leotards & Unitards",
+    "title": "Anastasia - L1753"
+  },
+  {
+    "handle": "victoria-l1751",
+    "product_type": "Leotards & Unitards",
+    "title": "Victoria - L1751"
+  },
+  {
+    "handle": "leila-l1693",
+    "product_type": "Leotards & Unitards",
+    "title": "Leila - L1693"
+  },
+  {
+    "handle": "fatima-l1691",
+    "product_type": "Leotards & Unitards",
+    "title": "Fatima - L1691"
+  },
+  {
+    "handle": "ziney-l1689",
+    "product_type": "Leotards & Unitards",
+    "title": "Ziney - L1689"
+  },
+  {
+    "handle": "kenza-l1675",
+    "product_type": "Leotards & Unitards",
+    "title": "Kenza - L1675"
+  },
+  {
+    "handle": "yasmina-l1679",
+    "product_type": "Leotards & Unitards",
+    "title": "Yasmina - L1679"
+  },
+  {
+    "handle": "salma-l1685",
+    "product_type": "Leotards & Unitards",
+    "title": "Salma - L1685"
+  },
+  {
+    "handle": "aicha-l1687",
+    "product_type": "Leotards & Unitards",
+    "title": "Aicha - L1687"
+  },
+  {
+    "handle": "gisele-kids-crop-top-l1633",
+    "product_type": "Shirts & Tops",
+    "title": "Gisele Kid's Crop Top - L1633"
+  },
+  {
+    "handle": "loli-kids-crop-top-l1629",
+    "product_type": "Shirts & Tops",
+    "title": "Loli Kid's Crop Top - L1629"
+  },
+  {
+    "handle": "jules-kids-crop-top-l1609",
+    "product_type": "Shirts & Tops",
+    "title": "Jules Kid's Crop Top - L1609"
+  },
+  {
+    "handle": "zoey-kids-crop-top-l1671",
+    "product_type": "Shirts & Tops",
+    "title": "Zoey Kid's Crop Top - L1671"
+  },
+  {
+    "handle": "zoey-kids-shorts-l1673",
+    "product_type": "Shorts",
+    "title": "Zoey Kid's Shorts - L1673"
+  },
+  {
+    "handle": "diane-kids-skirt-l1663",
+    "product_type": "Skirts",
+    "title": "Diane Kid's Skirt - L1663"
+  },
+  {
+    "handle": "eulalie-kids-skirt-l1659",
+    "product_type": "Skirts",
+    "title": "Eulalie Kid's Skirt - L1659"
+  },
+  {
+    "handle": "seline-kids-skort-l1637",
+    "product_type": "Skirts",
+    "title": "Seline Kid's Skort - L1637"
+  },
+  {
+    "handle": "celine-kids-skirt-l1655",
+    "product_type": "Skirts",
+    "title": "Celine Kid's Skirt - L1655"
+  },
+  {
+    "handle": "loli-kids-shorts-l1631",
+    "product_type": "Shorts",
+    "title": "Loli Kid's Shorts - L1631"
+  },
+  {
+    "handle": "juney-kids-shorts-l1615",
+    "product_type": "Shorts",
+    "title": "Juney Kid's Shorts - L1615"
+  },
+  {
+    "handle": "jules-kids-shorts-l1611",
+    "product_type": "Shorts",
+    "title": "Jules Kid's Shorts - L1611"
+  },
+  {
+    "handle": "nasia-l1669",
+    "product_type": "Leotards & Unitards",
+    "title": "Nasia - L1669"
+  },
+  {
+    "handle": "aria-l1667",
+    "product_type": "Leotards & Unitards",
+    "title": "Aria - L1667"
+  },
+  {
+    "handle": "grace-l1665",
+    "product_type": "Leotards & Unitards",
+    "title": "Grace - L1665"
+  },
+  {
+    "handle": "diane-l1661",
+    "product_type": "Leotards & Unitards",
+    "title": "Diane - L1661"
+  },
+  {
+    "handle": "eulalie-l1657",
+    "product_type": "Leotards & Unitards",
+    "title": "Eulalie - L1657"
+  },
+  {
+    "handle": "mia-kids-shorts-l1579",
+    "product_type": "Shorts",
+    "title": "Mia Kid's Shorts - L1579"
+  },
+  {
+    "handle": "eline-l1581",
+    "product_type": "Leotards & Unitards",
+    "title": "Eline - L1581"
+  },
+  {
+    "handle": "mia-l1577",
+    "product_type": "Leotards & Unitards",
+    "title": "Mia - L1577"
+  },
+  {
+    "handle": "aggie-l1575",
+    "product_type": "Leotards & Unitards",
+    "title": "Aggie - L1575"
+  },
+  {
+    "handle": "kari-l1573",
+    "product_type": "Leotards & Unitards",
+    "title": "Kari - L1573"
+  },
+  {
+    "handle": "juliette-l1647",
+    "product_type": "Leotards & Unitards",
+    "title": "Juliette - L1647"
+  },
+  {
+    "handle": "camille-l1627",
+    "product_type": "Leotards & Unitards",
+    "title": "Camille - L1627"
+  },
+  {
+    "handle": "chloey-l1623",
+    "product_type": "Leotards & Unitards",
+    "title": "Chloey - L1623"
+  },
+  {
+    "handle": "louise-l619",
+    "product_type": "Leotards & Unitards",
+    "title": "Louise - L1619"
+  },
+  {
+    "handle": "jade-l1603",
+    "product_type": "Leotards & Unitards",
+    "title": "Jade - L1603"
+  },
+  {
+    "handle": "ambre-l1599",
+    "product_type": "Leotards & Unitards",
+    "title": "Ambre - L1599"
+  },
+  {
+    "handle": "siren-l1597",
+    "product_type": "Leotards & Unitards",
+    "title": "Siren - L1597"
+  },
+  {
+    "handle": "solvie-l1595",
+    "product_type": "Leotards & Unitards",
+    "title": "Solvie - L1595"
+  },
+  {
+    "handle": "freya-l1593",
+    "product_type": "Leotards & Unitards",
+    "title": "Freya - L1593"
+  },
+  {
+    "handle": "ingrid-l1591",
+    "product_type": "Leotards & Unitards",
+    "title": "Ingrid - L1591"
+  },
+  {
+    "handle": "astrid-l1589",
+    "product_type": "Leotards & Unitards",
+    "title": "Astrid - L1589"
+  },
+  {
+    "handle": "sofie-l1587",
+    "product_type": "Leotards & Unitards",
+    "title": "Sofie - L1587"
+  },
+  {
+    "handle": "linnea-l1561",
+    "product_type": "Leotards & Unitards",
+    "title": "Linnea - L1561"
+  },
+  {
+    "handle": "maja-l1559",
+    "product_type": "Leotards & Unitards",
+    "title": "Maja - L1559"
+  },
+  {
+    "handle": "ella-l1557",
+    "product_type": "Leotards & Unitards",
+    "title": "Ella - L1557"
+  },
+  {
+    "handle": "nora-l1549",
+    "product_type": "Leotards & Unitards",
+    "title": "Nora - L1549"
+  },
+  {
+    "handle": "brio-sd120-adult-white",
+    "product_type": "Shoes",
+    "title": "Brio - SD120 (Adult) White"
+  },
+  {
+    "handle": "brio-sd120-adult-black",
+    "product_type": "Shoes",
+    "title": "Brio - SD120 (Adult) Black"
+  },
+  {
+    "handle": "rachel-l1535",
+    "product_type": "Leotards & Unitards",
+    "title": "Rachel - L1535"
+  },
+  {
+    "handle": "nastia-kids-shorts-l1483",
+    "product_type": "Shorts",
+    "title": "Nastia Kid's Shorts - L1483"
+  },
+  {
+    "handle": "gabby-kids-shorts-l1477",
+    "product_type": "Shorts",
+    "title": "Gabby Kid's Shorts - L1477"
+  },
+  {
+    "handle": "jade-l1489",
+    "product_type": "Leotards & Unitards",
+    "title": "Jade - L1489"
+  },
+  {
+    "handle": "jordan-l1487",
+    "product_type": "Leotards & Unitards",
+    "title": "Jordan - L1487"
+  },
+  {
+    "handle": "shawn-l1485",
+    "product_type": "Leotards & Unitards",
+    "title": "Shawn - L1485"
+  },
+  {
+    "handle": "nastia-l1481",
+    "product_type": "Leotards & Unitards",
+    "title": "Nastia - L1481"
+  },
+  {
+    "handle": "suni-l1473",
+    "product_type": "Leotards & Unitards",
+    "title": "Suni - L1473"
+  },
+  {
+    "handle": "aly-l1479",
+    "product_type": "Leotards & Unitards",
+    "title": "Aly - L1479"
+  },
+  {
+    "handle": "gabby-l1475",
+    "product_type": "Leotards & Unitards",
+    "title": "Gabby - L1475"
+  },
+  {
+    "handle": "simone-l1471",
+    "product_type": "Leotards & Unitards",
+    "title": "Simone - L1471"
+  },
+  {
+    "handle": "ali-l1541",
+    "product_type": "Leotards & Unitards",
+    "title": "Ali - L1541"
+  },
+  {
+    "handle": "jane-kids-shirt-l1469",
+    "product_type": "Shirts & Tops",
+    "title": "Jane Kid's Shirt - L1469"
+  },
+  {
+    "handle": "nina-kids-leggings-l1463",
+    "product_type": "Leggings",
+    "title": "Nina Kid's Leggings - L1463"
+  },
+  {
+    "handle": "reese-kids-skirt-l1459",
+    "product_type": "Skirts",
+    "title": "Reese Kid's Skirt - L1459"
+  },
+  {
+    "handle": "nina-kids-long-sleeve-top-l1461",
+    "product_type": "Shirts & Tops",
+    "title": "Nina Kid's Long Sleeve Top - L1461"
+  },
+  {
+    "handle": "reese-l1457",
+    "product_type": "Leotards & Unitards",
+    "title": "Reese - L1457"
+  },
+  {
+    "handle": "rachel-l1453",
+    "product_type": "Leotards & Unitards",
+    "title": "Rachel - L1453"
+  },
+  {
+    "handle": "tracy-l1449",
+    "product_type": "Leotards & Unitards",
+    "title": "Tracy - L1449"
+  },
+  {
+    "handle": "lola-kids-shirt-l1467",
+    "product_type": "Shirts & Tops",
+    "title": "Lola Kid's Shirt - L1467"
+  },
+  {
+    "handle": "tammi-l1441",
+    "product_type": "Leotards & Unitards",
+    "title": "Tammi - L1441"
+  },
+  {
+    "handle": "tammi-kids-skirt-l1443",
+    "product_type": "Skirts",
+    "title": "Tammi Kid's Skirt - L1443"
+  },
+  {
+    "handle": "loli-kids-leggings-l1421",
+    "product_type": "Leggings",
+    "title": "Loli Kid's Leggings - L1421"
+  },
+  {
+    "handle": "jade-kids-shirt-l1439",
+    "product_type": "Shirts & Tops",
+    "title": "Jade Kid's Shirt - L1439"
+  },
+  {
+    "handle": "juney-kids-shirt-l1433",
+    "product_type": "Shirts & Tops",
+    "title": "Juney Kid's Shirt - L1433"
+  },
+  {
+    "handle": "lala-kids-tank-top-l1429",
+    "product_type": "Shirts & Tops",
+    "title": "Lala Kid's Tank Top - L1429"
+  },
+  {
+    "handle": "loli-kids-crop-top-l1417",
+    "product_type": "Shirts & Tops",
+    "title": "Loli Kid's Crop Top - L1417"
+  },
+  {
+    "handle": "olivia-l1397",
+    "product_type": "Leotards & Unitards",
+    "title": "Olivia - L1397"
+  },
+  {
+    "handle": "eleanor-l1387",
+    "product_type": "Leotards & Unitards",
+    "title": "Eleanor - L1387"
+  },
+  {
+    "handle": "lily-l1383",
+    "product_type": "Leotards & Unitards",
+    "title": "Lily - L1383"
+  },
+  {
+    "handle": "grace-kids-top-l1399",
+    "product_type": "Shirts & Tops",
+    "title": "Grace Kid's Warmup Shrug - L1399"
+  },
+  {
+    "handle": "remy-kids-shirt-l1379",
+    "product_type": "Shirts & Tops",
+    "title": "Remy Kid's Shirt - L1379"
+  },
+  {
+    "handle": "norah-kids-shirt-l1377",
+    "product_type": "Shirts & Tops",
+    "title": "Norah Kid's Shirt - L1377"
+  },
+  {
+    "handle": "nova-kids-shirt-l1375",
+    "product_type": "Shirts & Tops",
+    "title": "Nova Kid's Shirt - L1375"
+  },
+  {
+    "handle": "luna-l1371",
+    "product_type": "Leotards & Unitards",
+    "title": "Luna - L1371"
+  },
+  {
+    "handle": "aggie-l1369",
+    "product_type": "Leotards & Unitards",
+    "title": "Aggie - L1369"
+  },
+  {
+    "handle": "vania-l1367",
+    "product_type": "Leotards & Unitards",
+    "title": "Vania - L1367"
+  },
+  {
+    "handle": "chloe-l1365",
+    "product_type": "Leotards & Unitards",
+    "title": "Chloe - L1365"
+  },
+  {
+    "handle": "amelia-l1359",
+    "product_type": "Leotards & Unitards",
+    "title": "Amelia - L1359"
+  },
+  {
+    "handle": "bianca-l1355",
+    "product_type": "Leotards & Unitards",
+    "title": "Bianca - L1355"
+  },
+  {
+    "handle": "anahi-l1351",
+    "product_type": "Leotards & Unitards",
+    "title": "Anahi - L1351"
+  },
+  {
+    "handle": "sierra-l1327",
+    "product_type": "Leotards & Unitards",
+    "title": "Sierra - L1327"
+  },
+  {
+    "handle": "camila-l1345",
+    "product_type": "Leotards & Unitards",
+    "title": "Camila - L1345"
+  },
+  {
+    "handle": "sophia-l1391",
+    "product_type": "Leotards & Unitards",
+    "title": "Sophia - L1391"
+  },
+  {
+    "handle": "anahi-kids-skirt-l1353",
+    "product_type": "Skirts",
+    "title": "Anahi Kid's Skirt - L1353"
+  },
+  {
+    "handle": "luna-kids-skirt-l1373",
+    "product_type": "Skirts",
+    "title": "Luna Kid's Skirt - L1373"
+  },
+  {
+    "handle": "sophia-kids-skirt-l1393",
+    "product_type": "Shirts & Tops",
+    "title": "Sophia Kid's Skirt - L1393"
+  },
+  {
+    "handle": "zenia-kids-crop-top-l1413",
+    "product_type": "Shirts & Tops",
+    "title": "Zenia Kid's Crop Top - L1413"
+  },
+  {
+    "handle": "zoe-kids-shorts-l1411",
+    "product_type": "Shorts",
+    "title": "Zoe Kid's Shorts - L1411"
+  },
+  {
+    "handle": "zoe-kids-crop-top-l1409",
+    "product_type": "Shirts & Tops",
+    "title": "Zoe Kid's Crop Top - L1409"
+  },
+  {
+    "handle": "sienna-kids-shorts-l1407",
+    "product_type": "Shorts",
+    "title": "Sienna Kid's Shorts - L1407"
+  },
+  {
+    "handle": "aurora-kids-shorts-l1403",
+    "product_type": "Shorts",
+    "title": "Aurora Kid's Shorts - L1403"
+  },
+  {
+    "handle": "aurora-kids-crop-top-l1401",
+    "product_type": "Shirts & Tops",
+    "title": "Aurora Kid's Crop Top - L1401"
+  },
+  {
+    "handle": "sofia-kids-skirt-l1349",
+    "product_type": "Skirts",
+    "title": "Sofia Kid's Skirt - L1349"
+  },
+  {
+    "handle": "sofia-kids-shrug-l1347",
+    "product_type": "Shirts & Tops",
+    "title": "Sofia Kid's Shrug - L1347"
+  },
+  {
+    "handle": "lucia-kids-skirt-l1343",
+    "product_type": "Skirts",
+    "title": "Lucia Kid's Skirt - L1343"
+  },
+  {
+    "handle": "lucia-kids-top-l1341",
+    "product_type": "Shirts & Tops",
+    "title": "Lucia Kid's Top - L1341"
+  },
+  {
+    "handle": "clara-kids-skirt-l1331",
+    "product_type": "Skirts",
+    "title": "Clara Kid's Skirt - L1331"
+  },
+  {
+    "handle": "clara-l1329",
+    "product_type": "Leotards & Unitards",
+    "title": "Clara - L1329"
+  },
+  {
+    "handle": "elodie-l1318",
+    "product_type": "Shirts & Tops",
+    "title": "Elodie Shirt Dress - L1318"
+  },
+  {
+    "handle": "astrid-l1307",
+    "product_type": "Leotards & Unitards",
+    "title": "Astrid - L1307"
+  },
+  {
+    "handle": "sigrid-l1305",
+    "product_type": "Leotards & Unitards",
+    "title": "Sigrid - L1305"
+  },
+  {
+    "handle": "sina-kids-shorts-l1303",
+    "product_type": "Shorts",
+    "title": "Sina Kid's Shorts - L1303"
+  },
+  {
+    "handle": "sina-l1301",
+    "product_type": "Leotards & Unitards",
+    "title": "Sina - L1301"
+  },
+  {
+    "handle": "eira-l1299",
+    "product_type": "Leotards & Unitards",
+    "title": "Eira - L1299"
+  },
+  {
+    "handle": "fenela-l1297",
+    "product_type": "Leotards & Unitards",
+    "title": "Fenela - L1297"
+  },
+  {
+    "handle": "orla-kids-shorts-l1295",
+    "product_type": "Shorts",
+    "title": "Orla Kid's Shorts - L1295"
+  },
+  {
+    "handle": "orla-l1293",
+    "product_type": "Leotards & Unitards",
+    "title": "Orla - L1293"
+  },
+  {
+    "handle": "amalia-l1291",
+    "product_type": "Leotards & Unitards",
+    "title": "Amalia - L1291"
+  },
+  {
+    "handle": "sorina-l1337",
+    "product_type": "Leotards & Unitards",
+    "title": "Sorina - L1337"
+  },
+  {
+    "handle": "ilinca-l1335",
+    "product_type": "Leotards & Unitards",
+    "title": "Ilinca - L1335"
+  },
+  {
+    "handle": "manon-l1333",
+    "product_type": "Leotards & Unitards",
+    "title": "Manon - L1333"
+  },
+  {
+    "handle": "rada-l1289",
+    "product_type": "Leotards & Unitards",
+    "title": "Rada - L1289"
+  },
+  {
+    "handle": "milica-l1287",
+    "product_type": "Leotards & Unitards",
+    "title": "Milica - L1287"
+  },
+  {
+    "handle": "kalina-kids-shorts-l1285",
+    "product_type": "Shorts",
+    "title": "Kalina Kid's Shorts - L1285"
+  },
+  {
+    "handle": "kalina-l1283",
+    "product_type": "Leotards & Unitards",
+    "title": "Kalina - L1283"
+  },
+  {
+    "handle": "danica-l1279",
+    "product_type": "Leotards & Unitards",
+    "title": "Danica - L1279"
+  },
+  {
+    "handle": "iria-kids-shirt-l1281",
+    "product_type": "Shirts & Tops",
+    "title": "Iria Kid's Shirt - L1281"
+  },
+  {
+    "handle": "katie-long-sleeve-crop-top-rde1989",
+    "product_type": "Shirts & Tops",
+    "title": "Katie Long Sleeve Crop Top - RDE1989"
+  },
+  {
+    "handle": "be-you-annie-kids-shirt-mb27",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Annie Kid's Shirt - MB27"
+  },
+  {
+    "handle": "be-you-ponita-kids-crop-top-mb26",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Ponita Kid's Crop Top - MB26"
+  },
+  {
+    "handle": "ronnie-bl230",
+    "product_type": "Shoes",
+    "title": "Ronnie - BL230"
+  },
+  {
+    "handle": "thalia-kids-bralette-top-l1239",
+    "product_type": "Shirts & Tops",
+    "title": "Thalia Kid's Bralette Top - L1239"
+  },
+  {
+    "handle": "mei-kids-crop-top-l1243",
+    "product_type": "Shirts & Tops",
+    "title": "Mei Kid's Crop Top - L1243"
+  },
+  {
+    "handle": "kairi-kids-crop-top-l1235",
+    "product_type": "Shirts & Tops",
+    "title": "Kairi Kid's Crop Top - L1235"
+  },
+  {
+    "handle": "thalia-kids-shorts-l1241",
+    "product_type": "Shorts",
+    "title": "Thalia Kid's Shorts - L1241"
+  },
+  {
+    "handle": "mei-kids-shorts-l1245",
+    "product_type": "Shorts",
+    "title": "Mei Kid's Shorts - L1245"
+  },
+  {
+    "handle": "kairi-kids-shorts-l1237",
+    "product_type": "Shorts",
+    "title": "Kairi Kid's Shorts - L1237"
+  },
+  {
+    "handle": "beatrix-kids-skirt-l1261",
+    "product_type": "Skirts",
+    "title": "Beatrix Kid's Skirt - L1261"
+  },
+  {
+    "handle": "mila-l1273",
+    "product_type": "Leotards & Unitards",
+    "title": "Mila - L1273"
+  },
+  {
+    "handle": "zoya-l1275",
+    "product_type": "Skirt",
+    "title": "Mila Kid's Skirt - L1275"
+  },
+  {
+    "handle": "isadora-l1271",
+    "product_type": "Skirt",
+    "title": "Isadora Kid's Skirt - L1271"
+  },
+  {
+    "handle": "manuela-l1269",
+    "product_type": "Leotards & Unitards",
+    "title": "Isadora - L1269"
+  },
+  {
+    "handle": "yara-l1267",
+    "product_type": "Leotards & Unitards",
+    "title": "Yara - L1267"
+  },
+  {
+    "handle": "luana-l1265",
+    "product_type": "Leotards & Unitards",
+    "title": "Luana - L1265"
+  },
+  {
+    "handle": "beatrix-l1259",
+    "product_type": "Leotards & Unitards",
+    "title": "Beatrix - L1259"
+  },
+  {
+    "handle": "fiona-l1257",
+    "product_type": "Leotards & Unitards",
+    "title": "Fiona - L1257"
+  },
+  {
+    "handle": "maeve-l1253",
+    "product_type": "Leotards & Unitards",
+    "title": "Maeve - L1253"
+  },
+  {
+    "handle": "selena-l1251",
+    "product_type": "Leotards & Unitards",
+    "title": "Selena - L1251"
+  },
+  {
+    "handle": "anastasia-l1249",
+    "product_type": "Leotards & Unitards",
+    "title": "Anastasia - L1249"
+  },
+  {
+    "handle": "evangeline-l1247",
+    "product_type": "Leotards & Unitards",
+    "title": "Evangeline - L1247"
+  },
+  {
+    "handle": "aitana-tank-top-l1218",
+    "product_type": "Shirts & Tops",
+    "title": "Aitana Tank Top - L1218"
+  },
+  {
+    "handle": "marisol-shorts-l1214",
+    "product_type": "Shorts",
+    "title": "Marisol Shorts - L1214"
+  },
+  {
+    "handle": "gia-kids-shorts-l1161",
+    "product_type": "Shorts",
+    "title": "Gia Kid's Shorts - L1161"
+  },
+  {
+    "handle": "catalina-kids-shorts-l1217",
+    "product_type": "Shorts",
+    "title": "Catalina Kid's Shorts - L1217"
+  },
+  {
+    "handle": "lucia-kids-shorts-l1211",
+    "product_type": "Shorts",
+    "title": "Lucia Kid's Shorts - L1211"
+  },
+  {
+    "handle": "valeria-kids-skirt-l1233",
+    "product_type": "Skirts",
+    "title": "Valeria Kid's Skirt - L1233"
+  },
+  {
+    "handle": "valeria-l1231",
+    "product_type": "Leotards & Unitards",
+    "title": "Valeria - L1231"
+  },
+  {
+    "handle": "elin-l1225",
+    "product_type": "Leotards & Unitards",
+    "title": "Elin - L1225"
+  },
+  {
+    "handle": "freja-l1193",
+    "product_type": "Leotards & Unitards",
+    "title": "Freja - L1193"
+  },
+  {
+    "handle": "oceana-l1187",
+    "product_type": "Leotards & Unitards",
+    "title": "Oceana - L1187"
+  },
+  {
+    "handle": "maelys-l1177",
+    "product_type": "Leotards & Unitards",
+    "title": "Maelys - L1177"
+  },
+  {
+    "handle": "ines-l1167",
+    "product_type": "Leotards & Unitards",
+    "title": "Ines - L1167"
+  },
+  {
+    "handle": "elise-l1169",
+    "product_type": "Leotards & Unitards",
+    "title": "Elise - L1169"
+  },
+  {
+    "handle": "noemi-l1165",
+    "product_type": "Leotards & Unitards",
+    "title": "Noemi - L1165"
+  },
+  {
+    "handle": "fiorella-l1157",
+    "product_type": "Leotards & Unitards",
+    "title": "Fiorella - L1157"
+  },
+  {
+    "handle": "gia-l1159",
+    "product_type": "Leotards & Unitards",
+    "title": "Gia - L1159"
+  },
+  {
+    "handle": "alessia-l1155",
+    "product_type": "Leotards & Unitards",
+    "title": "Alessia - L1155"
+  },
+  {
+    "handle": "saskia-l869",
+    "product_type": "Leotards & Unitards",
+    "title": "Saskia - L869"
+  },
+  {
+    "handle": "shayanna-rde1650",
+    "product_type": "Leotards & Unitards",
+    "title": "Shayanna - RDE1650"
+  },
+  {
+    "handle": "camilla-shirt-l1092",
+    "product_type": "Shirts & Tops",
+    "title": "Camilla Pointe Shoe Shirt - L1092"
+  },
+  {
+    "handle": "bianca-leggings-l1094",
+    "product_type": "Leggings",
+    "title": "Bianca Leggings - L1094"
+  },
+  {
+    "handle": "amara-leggings-l1090",
+    "product_type": "Leggings",
+    "title": "Amara Leggings - L1090"
+  },
+  {
+    "handle": "matilda-kids-crop-top-l1107",
+    "product_type": "Shirts & Tops",
+    "title": "Matilda Kid's Crop Top - L1107"
+  },
+  {
+    "handle": "sofia-kids-crop-top-l1085",
+    "product_type": "Shirts & Tops",
+    "title": "Sofia Kid's Crop Top - L1085"
+  },
+  {
+    "handle": "fiorella-kids-shorts-l1113",
+    "product_type": "Shorts",
+    "title": "Fiorella Kid's Shorts - L1113"
+  },
+  {
+    "handle": "matilda-kids-shorts-l1109",
+    "product_type": "Shorts",
+    "title": "Matilda Kid's Shorts - L1109"
+  },
+  {
+    "handle": "giorgia-kids-shorts-l1105",
+    "product_type": "Shorts",
+    "title": "Giorgia Kid's Shorts - L1105"
+  },
+  {
+    "handle": "sofia-kids-shorts-l1087",
+    "product_type": "Shorts",
+    "title": "Sofia Kid's Shorts - L1087"
+  },
+  {
+    "handle": "mimi-kids-skirt-l1071",
+    "product_type": "Skirts",
+    "title": "Mimi Kid's Skirt - L1071"
+  },
+  {
+    "handle": "kiana-kids-skirt-l1067",
+    "product_type": "Skirts",
+    "title": "Kiana Kid's Skirt - L1067"
+  },
+  {
+    "handle": "viola-kids-skirt-l1153",
+    "product_type": "Skirts",
+    "title": "Viola Kid's Skirt - L1153"
+  },
+  {
+    "handle": "beatrice-kids-skirt-l1143",
+    "product_type": "Skirts",
+    "title": "Beatrice Kid's Skort - L1143"
+  },
+  {
+    "handle": "gaia-kids-tank-top-l1137",
+    "product_type": "Shirts & Tops",
+    "title": "Gaia Kid's Tank Top - L1137"
+  },
+  {
+    "handle": "zola-l1147",
+    "product_type": "Leotards & Unitards",
+    "title": "Zola - L1147"
+  },
+  {
+    "handle": "nala-l1145",
+    "product_type": "Leotards & Unitards",
+    "title": "Nala - L1145"
+  },
+  {
+    "handle": "isabella-l1121",
+    "product_type": "Leotards & Unitards",
+    "title": "Isabella - L1121"
+  },
+  {
+    "handle": "zuri-l1065",
+    "product_type": "Leotards & Unitards",
+    "title": "Zuri - L1065"
+  },
+  {
+    "handle": "laila-l1069",
+    "product_type": "Leotards & Unitards",
+    "title": "Laila - L1069"
+  },
+  {
+    "handle": "coral-kids-shorts-l867",
+    "product_type": "Shorts",
+    "title": "Coral Shorts - L866"
+  },
+  {
+    "handle": "coral-shorts-l866",
+    "product_type": "Shorts",
+    "title": "Coral Kid's Shorts - L867"
+  },
+  {
+    "handle": "sonnet-l868",
+    "product_type": "Leotards & Unitards",
+    "title": "Sonnet - L868"
+  },
+  {
+    "handle": "nova-l865",
+    "product_type": "Leotards & Unitards",
+    "title": "Nova - L865"
+  },
+  {
+    "handle": "aria-l864",
+    "product_type": "Leotards & Unitards",
+    "title": "Aria - L864"
+  },
+  {
+    "handle": "lumi-l863",
+    "product_type": "Leotards & Unitards",
+    "title": "Lumi - L863"
+  },
+  {
+    "handle": "sienna-l873",
+    "product_type": "Leotards & Unitards",
+    "title": "Sienna - L873"
+  },
+  {
+    "handle": "petra-l881",
+    "product_type": "Leotards & Unitards",
+    "title": "Petra - L881"
+  },
+  {
+    "handle": "coral-l883",
+    "product_type": "Leotards & Unitards",
+    "title": "Coral - L883"
+  },
+  {
+    "handle": "lavender-dress-l871",
+    "product_type": "Leotards & Unitards",
+    "title": "Lavender Dress - L871"
+  },
+  {
+    "handle": "keiley-l1101",
+    "product_type": "Leotards & Unitards",
+    "title": "Keiley - L1101"
+  },
+  {
+    "handle": "aanya-l915",
+    "product_type": "Leotards & Unitards",
+    "title": "Aanya - L915"
+  },
+  {
+    "handle": "mei-l913",
+    "product_type": "Leotards & Unitards",
+    "title": "Mei - L913"
+  },
+  {
+    "handle": "araceli-l1099",
+    "product_type": "Leotards & Unitards",
+    "title": "Araceli - L1099"
+  },
+  {
+    "handle": "zara-l1079",
+    "product_type": "Leotards & Unitards",
+    "title": "Zara - L1079"
+  },
+  {
+    "handle": "bea-kids-shrug-l935",
+    "product_type": "Shirts & Tops",
+    "title": "Bea Kid's Shrug - L935"
+  },
+  {
+    "handle": "zora-l919",
+    "product_type": "Leotards & Unitards",
+    "title": "Zora - L919"
+  },
+  {
+    "handle": "lyra-l911",
+    "product_type": "Leotards & Unitards",
+    "title": "Lyra - L911"
+  },
+  {
+    "handle": "calliope-l973",
+    "product_type": "Leotards & Unitards",
+    "title": "Calliope - L973"
+  },
+  {
+    "handle": "mabel-l971",
+    "product_type": "Leotards & Unitards",
+    "title": "Mabel - L971"
+  },
+  {
+    "handle": "maeve-kids-shorts-l859",
+    "product_type": "Shorts",
+    "title": "Maeve Kid's Shorts - L859"
+  },
+  {
+    "handle": "frida-shorts-l858",
+    "product_type": "Shorts",
+    "title": "Maeve Shorts - L858"
+  },
+  {
+    "handle": "harlow-l862",
+    "product_type": "Leotards & Unitards",
+    "title": "Harlow - L862"
+  },
+  {
+    "handle": "sialla-l861",
+    "product_type": "Leotards & Unitards",
+    "title": "Sialla - L861"
+  },
+  {
+    "handle": "sia-l860",
+    "product_type": "Leotards & Unitards",
+    "title": "Sia - L860"
+  },
+  {
+    "handle": "frida-l857",
+    "product_type": "Leotards & Unitards",
+    "title": "Frida - L857"
+  },
+  {
+    "handle": "maeve-l856",
+    "product_type": "Leotards & Unitards",
+    "title": "Maeve - L856"
+  },
+  {
+    "handle": "romilly-l855",
+    "product_type": "Leotards & Unitards",
+    "title": "Romilly - L855"
+  },
+  {
+    "handle": "evadne-l854",
+    "product_type": "Leotards & Unitards",
+    "title": "Evadne - L854"
+  },
+  {
+    "handle": "amelie-l853",
+    "product_type": "Leotards & Unitards",
+    "title": "Amelie - L853"
+  },
+  {
+    "handle": "elowen-kids-shirt-l851",
+    "product_type": "Shirts & Tops",
+    "title": "Elowen Kid's Shirt- L851"
+  },
+  {
+    "handle": "lumi-kids-leg-warmer-l849",
+    "product_type": "Leg Warmers",
+    "title": "Lumi Kid's Leg Warmer - L849"
+  },
+  {
+    "handle": "lumi-kids-leggings-l847",
+    "product_type": "Leggings",
+    "title": "Lumi Kid's Leggings - L847"
+  },
+  {
+    "handle": "calla-kids-shirt-l823",
+    "product_type": "Shirts & Tops",
+    "title": "Calla Kid's Shirt - L823"
+  },
+  {
+    "handle": "opal-kids-leg-warmer-l821",
+    "product_type": "Leg Warmers",
+    "title": "Opal Kid's Leg Warmer - L821"
+  },
+  {
+    "handle": "opal-kids-leggings-l819",
+    "product_type": "Leggings",
+    "title": "Opal Kid's Leggings - L819"
+  },
+  {
+    "handle": "opal-kids-shirt-l817",
+    "product_type": "Shirts & Tops",
+    "title": "Opal Kid's Shirt - L817"
+  },
+  {
+    "handle": "jane-l813",
+    "product_type": "Leotards & Unitards",
+    "title": "Jane - L813"
+  },
+  {
+    "handle": "isadora-kids-skirt-l811",
+    "product_type": "Skirts",
+    "title": "Isadora Kid's Skirt - L811"
+  },
+  {
+    "handle": "celine-l805",
+    "product_type": "Leotards & Unitards",
+    "title": "Celine - L805"
+  },
+  {
+    "handle": "aurelia-l803",
+    "product_type": "Leotards & Unitards",
+    "title": "Aurelia - L803"
+  },
+  {
+    "handle": "flora-kids-top-l807",
+    "product_type": "Shirts & Tops",
+    "title": "Flora Kid's Tank Top - L807"
+  },
+  {
+    "handle": "flora-kids-skirt-l809",
+    "product_type": "Skirts",
+    "title": "Flora Kid's Skirt - L809"
+  },
+  {
+    "handle": "clea-kids-shrug-l815",
+    "product_type": "Shirts & Tops",
+    "title": "Clea Kid's Shrug - L815"
+  },
+  {
+    "handle": "gracie-l801",
+    "product_type": "Leotards & Unitards",
+    "title": "Gracie - L801"
+  },
+  {
+    "handle": "claria-l799",
+    "product_type": "Leotards & Unitards",
+    "title": "Claria - L799"
+  },
+  {
+    "handle": "cora-l797",
+    "product_type": "Leotards & Unitards",
+    "title": "Cora - L797"
+  },
+  {
+    "handle": "sofia-romper-l790",
+    "product_type": "Jumpsuits & Rompers",
+    "title": "Sofia Romper - L790"
+  },
+  {
+    "handle": "amelia-top-l788",
+    "product_type": "Shirts & Tops",
+    "title": "Amelia Top - L788"
+  },
+  {
+    "handle": "evie-kids-leggings-l787",
+    "product_type": "Leggings",
+    "title": "Evie Kid's Leggings - L787"
+  },
+  {
+    "handle": "evelyn-leggings-l786",
+    "product_type": "Leggings",
+    "title": "Evelyn Leggings - L786"
+  },
+  {
+    "handle": "alicia-kids-shrug-l771",
+    "product_type": "Shirts & Tops",
+    "title": "Alicia Kid's Shrug - L771"
+  },
+  {
+    "handle": "alice-shrug-l770",
+    "product_type": "Shirts & Tops",
+    "title": "Alice Shrug - L770"
+  },
+  {
+    "handle": "sd34-satin",
+    "product_type": "Shoes",
+    "title": "SD34 - Satin"
+  },
+  {
+    "handle": "sd40vc-stretch-canvas-mocha",
+    "product_type": "Shoes",
+    "title": "SD40VC - Stretch Canvas - Mocha"
+  },
+  {
+    "handle": "sd40vc-stretch-canvas",
+    "product_type": "Shoes",
+    "title": "SD40VC - Stretch Canvas"
+  },
+  {
+    "handle": "zadie-shorts-l545",
+    "product_type": "Shorts",
+    "title": "Zadie Kid's Shorts - L545"
+  },
+  {
+    "handle": "zadie-top-l543",
+    "product_type": "Shirts & Tops",
+    "title": "Zadie Kid's Bralette Top - L543"
+  },
+  {
+    "handle": "ines-l2147",
+    "product_type": "Shirts & Tops",
+    "title": "Ines Kid's Crop Top - L2147"
+  },
+  {
+    "handle": "sybil-l2149",
+    "product_type": "Leotards & Unitards",
+    "title": "Sybil - L2149"
+  },
+  {
+    "handle": "opal-l2145",
+    "product_type": "Leotards & Unitards",
+    "title": "Opal - L2145"
+  },
+  {
+    "handle": "junia-kids-shrug-l617",
+    "product_type": "Shirts & Tops",
+    "title": "Junia Kid's Shrug - L617"
+  },
+  {
+    "handle": "birdie-shrug-l616",
+    "product_type": "Shirts & Tops",
+    "title": "Birdie Shrug - L616"
+  },
+  {
+    "handle": "inigo-l700",
+    "product_type": "Leotards & Unitards",
+    "title": "Inigo - L700"
+  },
+  {
+    "handle": "romilly-l698",
+    "product_type": "Leotards & Unitards",
+    "title": "Romilly - L698"
+  },
+  {
+    "handle": "tamsin-l694",
+    "product_type": "Leotards & Unitards",
+    "title": "Tamsin - L694"
+  },
+  {
+    "handle": "veda-l692",
+    "product_type": "Leotards & Unitards",
+    "title": "Veda - L692"
+  },
+  {
+    "handle": "clover-l751",
+    "product_type": "Leotards & Unitards",
+    "title": "Clover - L751"
+  },
+  {
+    "handle": "calliope-l739",
+    "product_type": "Leotards & Unitards",
+    "title": "Calliope - L739"
+  },
+  {
+    "handle": "cleo-l577",
+    "product_type": "Leotards & Unitards",
+    "title": "Cleo - L577"
+  },
+  {
+    "handle": "be-you-yara-l2051",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Yara - L2051"
+  },
+  {
+    "handle": "willow-l1927",
+    "product_type": "Leotards & Unitards",
+    "title": "Willow - L1927"
+  },
+  {
+    "handle": "maisie-l1867",
+    "product_type": "Leotards & Unitards",
+    "title": "Maisie - L1867"
+  },
+  {
+    "handle": "lola-l1865",
+    "product_type": "Leotards & Unitards",
+    "title": "Lola - L1865"
+  },
+  {
+    "handle": "sasha-l1863",
+    "product_type": "Leotards & Unitards",
+    "title": "Sasha - L1863"
+  },
+  {
+    "handle": "faye-l1911",
+    "product_type": "Leotards & Unitards",
+    "title": "Faye - L1911"
+  },
+  {
+    "handle": "luna-l1913",
+    "product_type": "Leotards & Unitards",
+    "title": "Luna - L1913"
+  },
+  {
+    "handle": "roxy-l1180",
+    "product_type": "Leotards & Unitards",
+    "title": "Roxy - L1180"
+  },
+  {
+    "handle": "stella-l1945",
+    "product_type": "Shorts",
+    "title": "Stella Shorts - L1945"
+  },
+  {
+    "handle": "flora-l835",
+    "product_type": "Leotards & Unitards",
+    "title": "Flora - L835"
+  },
+  {
+    "handle": "clara-l831",
+    "product_type": "Leotards & Unitards",
+    "title": "Clara - L831"
+  },
+  {
+    "handle": "ashton-custom-pro-tap-boot-ta960-size-10-5l",
+    "product_type": "Shoes",
+    "title": "Royal Blue Custom Pro Tap Boot - TA960 (size 10.5L) (Tap Fest Event)"
+  },
+  {
+    "handle": "green-custom-pro-tap-ta880",
+    "product_type": "Shoes",
+    "title": "Green Custom Pro Tap Shoe - TA880 (size 11L) (Tap Fest Event)"
+  },
+  {
+    "handle": "golden-custom-pro-tap-ta880",
+    "product_type": "Shoes",
+    "title": "Golden Custom Pro Tap Shoe - TA880 (size 4.5L) (Tap Fest Event)"
+  },
+  {
+    "handle": "navy-white-custom-pro-tap-ta880",
+    "product_type": "Shoes",
+    "title": "Navy-White Custom Pro Tap Shoe - TA880 (size 10L) (Tap Fest Event)"
+  },
+  {
+    "handle": "boys-tidal-wave-surf-set-3391-3392",
+    "product_type": "Swimwear",
+    "title": "Boy's Tidal Wave Surf Set - 3391 & 3392"
+  },
+  {
+    "handle": "two-piece-swimsuit-set-3386-3387",
+    "product_type": "Swimwear",
+    "title": "Two Piece Swimsuit Set - 3386 & 3387"
+  },
+  {
+    "handle": "desert-oasis-camisole-swimsuit-3407",
+    "product_type": "Swimwear",
+    "title": "Desert Oasis Camisole Swimsuit - 3407"
+  },
+  {
+    "handle": "abstract-splash-swimsuit-3393",
+    "product_type": "Swimwear",
+    "title": "Abstract Splash Swimsuit - 3393"
+  },
+  {
+    "handle": "tutti-frutti-bathing-suit",
+    "product_type": "Swimwear",
+    "title": "Tutti Frutti Reversible Swimsuit - 3384"
+  },
+  {
+    "handle": "reorder-elektra-ring",
+    "product_type": "Ballet Accessories",
+    "title": "Pointe Shoe Ring - EKRing"
+  },
+  {
+    "handle": "lena-l2651-child",
+    "product_type": "Leotards & Unitards",
+    "title": "Lena - L2651"
+  },
+  {
+    "handle": "shana-d352",
+    "product_type": "Leotards & Unitards",
+    "title": "Shana - D352"
+  },
+  {
+    "handle": "child-shimmer-footed-tights-ts101",
+    "product_type": "Hosiery",
+    "title": "Child Shimmer Footed Tights - TS101"
+  },
+  {
+    "handle": "adult-shimmer-footed-tights-ts102",
+    "product_type": "Hosiery",
+    "title": "Adult Shimmer Footed Tights - TS102"
+  },
+  {
+    "handle": "black-friday-tap-bundle-1",
+    "product_type": "",
+    "title": "Tap Shoe Bundle"
+  },
+  {
+    "handle": "tap-bundle-light",
+    "product_type": "",
+    "title": "Tap Bundle Light"
+  },
+  {
+    "handle": "tap-bundle-premium",
+    "product_type": "",
+    "title": "Tap Bundle Premium"
+  },
+  {
+    "handle": "tazer-ta88-adult",
+    "product_type": "Shoes",
+    "title": "Tazer - TA88 (Adult)"
+  },
+  {
+    "handle": "taz-ta87-child",
+    "product_type": "Shoes",
+    "title": "Taz - TA87 (Child)"
+  },
+  {
+    "handle": "theo-ta75",
+    "product_type": "Shoes",
+    "title": "Theo - TA75 (Adult)"
+  },
+  {
+    "handle": "teo-ta74-child",
+    "product_type": "Shoes",
+    "title": "Teo - TA74 (Child)"
+  },
+  {
+    "handle": "taven-ta86-adult",
+    "product_type": "Shoes",
+    "title": "Taven - TA86 (Adult)"
+  },
+  {
+    "handle": "tavi-ta85-child",
+    "product_type": "Shoes",
+    "title": "Tavi - TA85 (Child)"
+  },
+  {
+    "handle": "jive-ii-bl303",
+    "product_type": "Shoes",
+    "title": "Jive II - BL303"
+  },
+  {
+    "handle": "be-you-nat-kids-crop-top-by58c",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Nat Kid's Crop Top - BY58C"
+  },
+  {
+    "handle": "hero-ii-dance-belt-sl246-men",
+    "product_type": "Quilted Dance Belt",
+    "title": "Hero II Dance Belt - SL246 (Men)"
+  },
+  {
+    "handle": "farfalla-sl243",
+    "product_type": "Leotards & Unitards",
+    "title": "Farfalla - SL243"
+  },
+  {
+    "handle": "ivonne-sl244",
+    "product_type": "Leotards & Unitards",
+    "title": "Ivonne - SL244"
+  },
+  {
+    "handle": "kiki-sl240",
+    "product_type": "Leotards & Unitards",
+    "title": "Kiki - SL240"
+  },
+  {
+    "handle": "adeline-sl242b",
+    "product_type": "Leotards & Unitards",
+    "title": "Adeline - SL242B"
+  },
+  {
+    "handle": "deborah-sl239",
+    "product_type": "Leotards & Unitards",
+    "title": "Deborah - SL239"
+  },
+  {
+    "handle": "35-tiler-peck-leotard-event-item",
+    "product_type": "Leotards & Unitards",
+    "title": "$35 Tiler Peck Leotard - Event Item"
+  },
+  {
+    "handle": "be-you-samantha-kids-pants-by16c",
+    "product_type": "Pants",
+    "title": "BE YOU® Samantha Kid's Pants - BY16C"
+  },
+  {
+    "handle": "be-you-infinite-wrap-by84",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Infinite Wrap - BY84"
+  },
+  {
+    "handle": "be-you-alia-shrug-by83",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Alia Shrug - BY83"
+  },
+  {
+    "handle": "lucy-leg-warmer-by82",
+    "product_type": "Leg Warmers",
+    "title": "BE YOU® Lucy Leg Warmer - BY82"
+  },
+  {
+    "handle": "banff-tp177",
+    "product_type": "Leotards & Unitards",
+    "title": "Banff - TP177"
+  },
+  {
+    "handle": "tahoe-tp176",
+    "product_type": "Leotards & Unitards",
+    "title": "Tahoe - TP176"
+  },
+  {
+    "handle": "aspen-tp175",
+    "product_type": "Leotards & Unitards",
+    "title": "Aspen - TP175"
+  },
+  {
+    "handle": "be-you-ticiane-by57",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Ticiane - BY57"
+  },
+  {
+    "handle": "be-you-constanza-by54",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Constanza - BY54"
+  },
+  {
+    "handle": "vail-tp174",
+    "product_type": "Leotards & Unitards",
+    "title": "Vail - TP174"
+  },
+  {
+    "handle": "be-you-renata-shorts-by46",
+    "product_type": "Shorts",
+    "title": "BE YOU® Renata Shorts - BY46"
+  },
+  {
+    "handle": "be-you-renata-pants-by45",
+    "product_type": "Pants",
+    "title": "BE YOU® Renata Pants - BY45"
+  },
+  {
+    "handle": "be-you-elvira-long-sleeve-crop-top-by44",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Elvira Long Sleeve Floral Shrug - BY44"
+  },
+  {
+    "handle": "be-you-sia-by69c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Sia - BY69C"
+  },
+  {
+    "handle": "be-you-micha-by66c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Micha - BY66C"
+  },
+  {
+    "handle": "be-you-tici-by57c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Tici - BY57C"
+  },
+  {
+    "handle": "be-you-cynthia-curvy-sizes-by52cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Cynthia - Curvy Sizes - BY52CV"
+  },
+  {
+    "handle": "be-you-amelia-curvy-sizes-by49cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Amelia - Curvy Sizes - BY49CV"
+  },
+  {
+    "handle": "be-you-paulina-curvy-sizes-by55cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Paulina - Curvy Sizes - BY55CV"
+  },
+  {
+    "handle": "be-you-poliana-by55",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Poliana - BY55"
+  },
+  {
+    "handle": "be-you-luciane-by53",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Luciane - BY53"
+  },
+  {
+    "handle": "be-you-tessalia-by56",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Tessalia - BY56"
+  },
+  {
+    "handle": "be-you-cindy-by52",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Cindy - BY52"
+  },
+  {
+    "handle": "be-you-acsa-by51",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Acsa - BY51"
+  },
+  {
+    "handle": "be-you-maristela-by50",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Maristela - BY50"
+  },
+  {
+    "handle": "be-you-marisa-by47",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Marisa - BY47"
+  },
+  {
+    "handle": "be-you-doris-by48",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Doris - BY48"
+  },
+  {
+    "handle": "be-you-lia-by49",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Lia - BY49"
+  },
+  {
+    "handle": "be-you-naiara-kids-pull-on-skirt-by77c",
+    "product_type": "Skirts",
+    "title": "BE YOU® Naiara Kid's Pull On Skirt - BY77C"
+  },
+  {
+    "handle": "be-you-naarah-skirt-curvy-sizes-by80cv",
+    "product_type": "Skirts",
+    "title": "BE YOU® Naarah Skirt - Curvy Sizes - BY80CV"
+  },
+  {
+    "handle": "be-you-nara-pull-on-skirt-by78",
+    "product_type": "Skirts",
+    "title": "BE YOU® Nara Pull On Skirt - BY78"
+  },
+  {
+    "handle": "be-you-alicia-pull-on-skirt-by75",
+    "product_type": "Skirts",
+    "title": "BE YOU® Alicia Pull On Skirt - BY75"
+  },
+  {
+    "handle": "be-you-cira-wrap-skirt-by79",
+    "product_type": "Skirts",
+    "title": "BE YOU® Cira Wrap Skirt - BY79"
+  },
+  {
+    "handle": "be-you-ophelia-pull-on-skirt-by76",
+    "product_type": "Skirts",
+    "title": "BE YOU® Ophelia Pull On Skirt - BY76"
+  },
+  {
+    "handle": "be-you-naiara-pull-on-skirt-by77",
+    "product_type": "Skirts",
+    "title": "BE YOU® Naiara Pull On Skirt - BY77"
+  },
+  {
+    "handle": "be-you-mavi-by88c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Mavi - BY88C"
+  },
+  {
+    "handle": "be-you-mel-by87c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Mel - BY87C"
+  },
+  {
+    "handle": "be-you-lila-by86c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Lila - BY86C"
+  },
+  {
+    "handle": "be-you-nala-by85c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Nala - BY85C"
+  },
+  {
+    "handle": "be-you-lala-by74c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Lala - BY74C"
+  },
+  {
+    "handle": "be-you-laila-by74",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Laila - BY74"
+  },
+  {
+    "handle": "be-you-hana-by73c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Hana - BY73C"
+  },
+  {
+    "handle": "be-you-yohana-by73",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Yohana - BY73"
+  },
+  {
+    "handle": "be-you-amelia-unitard-by61",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Amelia Unitard - BY61"
+  },
+  {
+    "handle": "be-you-natalia-shorts-by60",
+    "product_type": "Shorts",
+    "title": "BE YOU® Natalia Shorts - BY60"
+  },
+  {
+    "handle": "be-you-zuriel-curvy-sizes-by71cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Zuriel - Curvy Sizes - BY71CV"
+  },
+  {
+    "handle": "be-you-michaelina-curvy-sizes-by66cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Michaelina - Curvy Sizes - BY66CV"
+  },
+  {
+    "handle": "be-you-aurina-curvy-sizes-by67cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Aurina - Curvy Sizes - BY67CV"
+  },
+  {
+    "handle": "be-you-gaia-top-by70",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Gaia Top - BY70"
+  },
+  {
+    "handle": "be-you-val-by72",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Val - BY72"
+  },
+  {
+    "handle": "be-you-zuri-by71",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Zuri - BY71"
+  },
+  {
+    "handle": "be-you-siena-by69",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Siena - BY69"
+  },
+  {
+    "handle": "be-you-sueli-by68",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Sueli - BY68"
+  },
+  {
+    "handle": "be-you-aurea-by67",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Aurea - BY67"
+  },
+  {
+    "handle": "be-you-michela-by66",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Michela - BY66"
+  },
+  {
+    "handle": "be-you-lucila-by63",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Lucila - BY63"
+  },
+  {
+    "handle": "be-you-dalila-by65",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Dalila - BY65"
+  },
+  {
+    "handle": "be-you-kelly-by62",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Kelly - BY62"
+  },
+  {
+    "handle": "be-you-ravena-by64",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Ravena - BY64"
+  },
+  {
+    "handle": "be-you-natalia-crop-top-by58",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Natalia Crop Top - BY58"
+  },
+  {
+    "handle": "be-you-acsa-by51b",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Acsa - BY51B"
+  },
+  {
+    "handle": "be-you-zuzu-by71c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Zuzu - BY71C"
+  },
+  {
+    "handle": "be-you-lila-by65c",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Lila - BY65C"
+  },
+  {
+    "handle": "amazon-item-sl10",
+    "product_type": "Leotards & Unitards",
+    "title": "Amazon Item - SL10"
+  },
+  {
+    "handle": "amazon-item-sd16",
+    "product_type": "Shoes",
+    "title": "Amazon Item - SD16"
+  },
+  {
+    "handle": "amazon-item-ts96-3-pack",
+    "product_type": "Tights",
+    "title": "Amazon Item - TS96 (3 pack)"
+  },
+  {
+    "handle": "amazon-item-ts78-3-pack",
+    "product_type": "Tights",
+    "title": "Amazon Item - TS78 (3 pack)"
+  },
+  {
+    "handle": "amazon-item-ts82",
+    "product_type": "Tights",
+    "title": "Amazon Item - TS82 (3 pack)"
+  },
+  {
+    "handle": "amazon-item-ac34",
+    "product_type": "Ballet Accessories",
+    "title": "Amazon Item - AC34"
+  },
+  {
+    "handle": "amazon-item-ac33",
+    "product_type": "Ballet Accessories",
+    "title": "Amazon Item - AC33"
+  },
+  {
+    "handle": "amazon-item-ac54",
+    "product_type": "Clothing Accessories",
+    "title": "Amazon Item - AC54"
+  },
+  {
+    "handle": "blossom-py01",
+    "product_type": "Shoes",
+    "title": "Blossom - PY01"
+  },
+  {
+    "handle": "jedi-jz55s-child",
+    "product_type": "Shoes",
+    "title": "Jedi - JZ55s (Child)"
+  },
+  {
+    "handle": "tampa-tap-fest-exclusive",
+    "product_type": "Shoes",
+    "title": "Ocean Waves Custom Pro Tap Shoe - TA880"
+  },
+  {
+    "handle": "event-item-e8778",
+    "product_type": "Leg Warmers",
+    "title": "Event Item - E8778"
+  },
+  {
+    "handle": "brio-sd120-child",
+    "product_type": "Shoes",
+    "title": "Brio - SD120 (Child)"
+  },
+  {
+    "handle": "ronde-renverse-tp153",
+    "product_type": "Leotards & Unitards",
+    "title": "Ronde Renversé - TP153"
+  },
+  {
+    "handle": "adagio-tp150",
+    "product_type": "Leotards & Unitards",
+    "title": "Adagio - TP150"
+  },
+  {
+    "handle": "keanu-biketard-rde2724-men",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Keanu Biketard - RDE2724 (Men)"
+  },
+  {
+    "handle": "15-mystery-leo-event-item",
+    "product_type": "Ballet Accessories",
+    "title": "$20 Leotard - Event Item"
+  },
+  {
+    "handle": "tan-ba26-men",
+    "product_type": "Shoes",
+    "title": "Final Sale - BA26 (Men)"
+  },
+  {
+    "handle": "jessy-romper-d371",
+    "product_type": "Jumpsuits & Rompers",
+    "title": "Jessy Hoodie Romper - D371"
+  },
+  {
+    "handle": "lorelai-dress-d370",
+    "product_type": "Dress",
+    "title": "Lorelai Dress - D370"
+  },
+  {
+    "handle": "samantha-d351",
+    "product_type": "Leotards & Unitards",
+    "title": "Samantha - D351"
+  },
+  {
+    "handle": "sd60s-child",
+    "product_type": "Shoes",
+    "title": "SD60s (child)"
+  },
+  {
+    "handle": "naia-d320",
+    "product_type": "Leotards & Unitards",
+    "title": "Naia - D320"
+  },
+  {
+    "handle": "trin-leggings-f14270",
+    "product_type": "Leggings",
+    "title": "Trin Leggings - F14270"
+  },
+  {
+    "handle": "rory-dress-d335",
+    "product_type": "Dress",
+    "title": "Rory Dress - D335"
+  },
+  {
+    "handle": "rory-shirt-d333",
+    "product_type": "Shirts & Tops",
+    "title": "Rory Shirt - D333"
+  },
+  {
+    "handle": "be-you-thomas-biketard-by24-men",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Thomas Biketard - BY24 (Men)"
+  },
+  {
+    "handle": "shiny-bralette-f14453",
+    "product_type": "Sports Bra",
+    "title": "Shiny Bralette - F14453"
+  },
+  {
+    "handle": "shiny-leggings-f14452",
+    "product_type": "Leggings",
+    "title": "Shiny Leggings - F14452"
+  },
+  {
+    "handle": "linna-d319",
+    "product_type": "Leotards & Unitards",
+    "title": "Linna - D319"
+  },
+  {
+    "handle": "raina-d317",
+    "product_type": "Leotards & Unitards",
+    "title": "Raina - D317"
+  },
+  {
+    "handle": "rainy-d316",
+    "product_type": "Leotards & Unitards",
+    "title": "Rainy - D316"
+  },
+  {
+    "handle": "linda-d403",
+    "product_type": "Leotards & Unitards",
+    "title": "Linda - D403"
+  },
+  {
+    "handle": "jill-stirrup-leggings-d365",
+    "product_type": "Leggings",
+    "title": "Jill Stirrup Leggings - D365"
+  },
+  {
+    "handle": "georgia-skort-d331",
+    "product_type": "Skort",
+    "title": "Georgia Skort - D331"
+  },
+  {
+    "handle": "jane-tank-top-d330",
+    "product_type": "Shirts & Tops",
+    "title": "Jane Tank Top - D330"
+  },
+  {
+    "handle": "tobias-ta852v",
+    "product_type": "Shoes",
+    "title": "Tobias - TA852V"
+  },
+  {
+    "handle": "tate-ta28-child",
+    "product_type": "Shoes",
+    "title": "Tate - TA28s (Child)"
+  },
+  {
+    "handle": "be-you-esthenia-leg-warmers-by13",
+    "product_type": "Leg Warmers",
+    "title": "BE YOU® Esthenia Leg Warmers - BY13"
+  },
+  {
+    "handle": "15-leotard-event-item",
+    "product_type": "Ballet Accessories",
+    "title": "$20 Mystery Leotard - Event Item"
+  },
+  {
+    "handle": "canvas-bullet-ba45-child",
+    "product_type": "Shoes",
+    "title": "Stretch Canvas Bullet - BA45 (Child)"
+  },
+  {
+    "handle": "leather-bullet-ba49-child",
+    "product_type": "Shoes",
+    "title": "Leather Bullet - BA49 (Child)"
+  },
+  {
+    "handle": "lysi-d290",
+    "product_type": "Leotards & Unitards",
+    "title": "Lysi - D290"
+  },
+  {
+    "handle": "be-you-naarah-skirt-by25cv",
+    "product_type": "Skirts",
+    "title": "BE YOU® Naarah Skirt - Curvy Sizes - BY25CV"
+  },
+  {
+    "handle": "loree-lo07-lo17",
+    "product_type": "Leotards & Unitards",
+    "title": "Loree - LO17"
+  },
+  {
+    "handle": "jody-lo05-lo15",
+    "product_type": "Leotards & Unitards",
+    "title": "Jody - LO05, LO15"
+  },
+  {
+    "handle": "child-fishnet-tights-ts31",
+    "product_type": "Hosiery",
+    "title": "Child Fishnet Tights - TS31"
+  },
+  {
+    "handle": "fishnet-tights-ts33",
+    "product_type": "Hosiery",
+    "title": "Child Stretch Fishnet Tights - TS33"
+  },
+  {
+    "handle": "be-you-ellie-kids-unicorn-crop-top-mb52c",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Ellie Kid's Unicorn Crop Top - MB52C"
+  },
+  {
+    "handle": "be-you-dreamy-kids-shorts-mb57c",
+    "product_type": "Shorts",
+    "title": "BE YOU® Ellie Kid's Shorts - MB57C"
+  },
+  {
+    "handle": "be-you-dreamy-kids-leggings-mb59c",
+    "product_type": "Leggings",
+    "title": "BE YOU® Dreamy Kid's Leggings - MB59C"
+  },
+  {
+    "handle": "be-you-ellie-kids-ballet-top-mb58c",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Ellie Kid's Ballet Lover Top - MB58C"
+  },
+  {
+    "handle": "mini-ballerina-unicorn-backpack-mb72",
+    "product_type": "Handbags, Wallets & Cases",
+    "title": "BE YOU® Mini Ballerina Unicorn Handbag - MB72"
+  },
+  {
+    "handle": "rachel-warmup-booties-mb65",
+    "product_type": "Shoes",
+    "title": "BE YOU® Rachel Warmup Booties - MB65"
+  },
+  {
+    "handle": "be-you-poli-kids-shirt-dress-mb28",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Poli Kid's Shirt Dress - MB28"
+  },
+  {
+    "handle": "be-you-annie-hoodie-mb50",
+    "product_type": "Coats & Jackets",
+    "title": "BE YOU® Annie Hoodie - MB50"
+  },
+  {
+    "handle": "be-you-midnight-leggings-mb51",
+    "product_type": "Leggings",
+    "title": "BE YOU® Midnight Leggings - MB51"
+  },
+  {
+    "handle": "be-you-tap-shirt-mb54",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Tap Shirt - MB54"
+  },
+  {
+    "handle": "be-you-poliana-shirt-mb53",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Poliana Shirt - MB53"
+  },
+  {
+    "handle": "be-you-alia-mb63",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Alia - MB63"
+  },
+  {
+    "handle": "be-you-alli-mb62",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Alli - MB62"
+  },
+  {
+    "handle": "be-you-milli-mb55",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Milli Shirt Dress - MB55"
+  },
+  {
+    "handle": "be-you-ballerina-crop-top-mb52",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Ballerina Crop Top - MB52"
+  },
+  {
+    "handle": "sky-blue-custom-pro-tap-ta880",
+    "product_type": "Shoes",
+    "title": "Sky Blue Custom Pro Tap Shoe - TA880 (size 4L)"
+  },
+  {
+    "handle": "be-you-polly-mb21-mb29",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Polly Kid's Crop Top - MB29"
+  },
+  {
+    "handle": "be-you-annabel-shorts-mb49",
+    "product_type": "Shorts",
+    "title": "BE YOU® Annabel Shorts - MB49"
+  },
+  {
+    "handle": "be-you-annabel-jacket-mb48",
+    "product_type": "Coats & Jackets",
+    "title": "BE YOU® Annabel Jacket - MB48"
+  },
+  {
+    "handle": "be-you-ocean-pants-mb47",
+    "product_type": "Pants",
+    "title": "BE YOU® Ocean Pants - MB47"
+  },
+  {
+    "handle": "ballet-duffel-bag-mb20-mb73",
+    "product_type": "Luggage & Bags",
+    "title": "BE YOU® Ballet Duffel Bag - MB73"
+  },
+  {
+    "handle": "be-you-adina-mb35",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Adina - MB35"
+  },
+  {
+    "handle": "bali-shirt-mb22-mb30",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Bali Shirt - MB30"
+  },
+  {
+    "handle": "aviva-skirt-mb36",
+    "product_type": "Skirts",
+    "title": "BE YOU® Aviva Wrap Skirt - MB36"
+  },
+  {
+    "handle": "bernard-ba25a",
+    "product_type": "Shoes",
+    "title": "Bernard - BA25A"
+  },
+  {
+    "handle": "bee-machila-mb017",
+    "product_type": "Backpacks",
+    "title": "BE YOU® Ballet Backpack - MB17, MB69"
+  },
+  {
+    "handle": "lets-dance-shirt-mb34",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Let's Dance Shirt - MB34"
+  },
+  {
+    "handle": "mabel-jacket-mb33",
+    "product_type": "Coats & Jackets",
+    "title": "BE YOU® Mabel Jacket - MB33"
+  },
+  {
+    "handle": "polina-mb02-mb27",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Polina Shirt - MB02"
+  },
+  {
+    "handle": "poli-mb01-mb26",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Poli Crop Top - MB01"
+  },
+  {
+    "handle": "rubius-ba13",
+    "product_type": "Shoes",
+    "title": "Rubius - BA13 (Child)"
+  },
+  {
+    "handle": "lava-kids-pull-on-skirt-d6732-v6732",
+    "product_type": "Skirts",
+    "title": "Lava Kid's Pull On Skirt - D6732, V6732"
+  },
+  {
+    "handle": "tatum-ta206",
+    "product_type": "Shoes",
+    "title": "Tatum - TA206"
+  },
+  {
+    "handle": "robina-ch793",
+    "product_type": "Shoes",
+    "title": "Robina - CH793"
+  },
+  {
+    "handle": "tallulah-ta205",
+    "product_type": "Shoes",
+    "title": "Tallulah - TA205"
+  },
+  {
+    "handle": "lory-bl128",
+    "product_type": "Shoes",
+    "title": "Lory - BL128"
+  },
+  {
+    "handle": "jelena-jz100",
+    "product_type": "Shoes",
+    "title": "Jelena - JZ100"
+  },
+  {
+    "handle": "joandra-jz101",
+    "product_type": "Shoes",
+    "title": "Jordan - JZ101"
+  },
+  {
+    "handle": "rosey-bl160",
+    "product_type": "Shoes",
+    "title": "Rosey - BL160"
+  },
+  {
+    "handle": "roda-bl196",
+    "product_type": "Shoes",
+    "title": "Roda - BL196"
+  },
+  {
+    "handle": "radha-bl170",
+    "product_type": "Shoes",
+    "title": "Radha - BL170"
+  },
+  {
+    "handle": "cait-ch03",
+    "product_type": "Shoes",
+    "title": "Cait - CH03"
+  },
+  {
+    "handle": "darci-crop-top-tp84",
+    "product_type": "Shirts & Tops",
+    "title": "Darci Crop Top - TP84"
+  },
+  {
+    "handle": "marika-leggings-tp94",
+    "product_type": "Leggings",
+    "title": "Marika Leggings - TP94"
+  },
+  {
+    "handle": "marika-crop-top-tp92",
+    "product_type": "Shirts & Tops",
+    "title": "Marika Crop Top - TP92"
+  },
+  {
+    "handle": "be-you-coroline-by32cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Coraline - Curvy Sizes - BY32CV"
+  },
+  {
+    "handle": "be-you-cora-by32",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Cora - BY32"
+  },
+  {
+    "handle": "be-you-nelia-top-by36",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Nelia Sweater - BY36"
+  },
+  {
+    "handle": "be-you-nelia-pants-by35",
+    "product_type": "Pants",
+    "title": "BE YOU® Nelia Warmup Pants - BY35"
+  },
+  {
+    "handle": "be-you-thalia-by33",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Thalia - BY33"
+  },
+  {
+    "handle": "be-you-kenia-by31",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Kenia - BY31"
+  },
+  {
+    "handle": "be-you-johanna-by43cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Johanna - Curvy Sizes - BY43CV"
+  },
+  {
+    "handle": "be-you-yara-by30",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Yara - BY30"
+  },
+  {
+    "handle": "be-you-joanna-by43",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Joanna - BY43"
+  },
+  {
+    "handle": "be-you-mercedes-by42",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Mercedes - BY42"
+  },
+  {
+    "handle": "be-you-dione-by41",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Dione - BY41"
+  },
+  {
+    "handle": "be-you-harp-by29",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Harp - BY29"
+  },
+  {
+    "handle": "gale-gy03-child",
+    "product_type": "Shoes",
+    "title": "Gale - GY03 (Child)"
+  },
+  {
+    "handle": "mambo-bl300-bl301-child",
+    "product_type": "Shoes",
+    "title": "Mambo - BL300, BL301 (Child)"
+  },
+  {
+    "handle": "matilda-ro42-child",
+    "product_type": "Shoes",
+    "title": "Matilda - RO42 (Child)"
+  },
+  {
+    "handle": "magdalina-ro02-child",
+    "product_type": "Shoes",
+    "title": "Magdalina - RO02 (Child)"
+  },
+  {
+    "handle": "candice-ch02-child",
+    "product_type": "Shoes",
+    "title": "Candice - CH02 (Child)"
+  },
+  {
+    "handle": "celine-ch50-child",
+    "product_type": "Shoes",
+    "title": "Celine - CH50 (Child)"
+  },
+  {
+    "handle": "cecilia-warmup-overalls-ck304",
+    "product_type": "Jumpsuits & Rompers",
+    "title": "Ballet Warmup Romper - CK304"
+  },
+  {
+    "handle": "be-you-neli-by28",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Neli - BY28"
+  },
+  {
+    "handle": "tato-ta39-child",
+    "product_type": "Shoes",
+    "title": "Torie - TA39s (Child)"
+  },
+  {
+    "handle": "be-you-sabrina-by27cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Sabrina - Curvy Sizes - BY27CV"
+  },
+  {
+    "handle": "be-you-salina-by27",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Salina - BY27"
+  },
+  {
+    "handle": "be-you-selene-leggings-by38",
+    "product_type": "Leggings",
+    "title": "BE YOU® Selene Leggings - BY38"
+  },
+  {
+    "handle": "be-you-selene-crop-top-by37",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Selene Crop Top - BY37"
+  },
+  {
+    "handle": "be-you-jarid-unitard-by23",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Jarid Unitard - BY23"
+  },
+  {
+    "handle": "be-you-leda-leggings-by22",
+    "product_type": "Leggings",
+    "title": "BE YOU® Leda Leggings - BY22"
+  },
+  {
+    "handle": "be-you-leda-crop-top-by21",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Leda Crop Top - BY21"
+  },
+  {
+    "handle": "jeanye-jz09-child",
+    "product_type": "Shoes",
+    "title": "Jeanye - JZ09 (Child)"
+  },
+  {
+    "handle": "glenda-md11-child",
+    "product_type": "Shoes",
+    "title": "Glenda - MD11 (Child)"
+  },
+  {
+    "handle": "diamond-sd140-child",
+    "product_type": "Shoes",
+    "title": "Diamond - SD140 (Child)"
+  },
+  {
+    "handle": "genevieve-md10-child",
+    "product_type": "Shoes",
+    "title": "Genevieve - MD10 (Child)"
+  },
+  {
+    "handle": "yagp-bp01",
+    "product_type": "Backpacks",
+    "title": "YAGP x So Danca Backpack - BP01"
+  },
+  {
+    "handle": "joanne-rde8008",
+    "product_type": "Leotards & Unitards",
+    "title": "Joanne - RDE8008"
+  },
+  {
+    "handle": "green-black-custom-pro-tap-ta880",
+    "product_type": "Shoes",
+    "title": "Green-Black Custom Pro Tap Shoe - TA880 (size 11L)"
+  },
+  {
+    "handle": "black-blue-custom-pro-tap-ta880-limited-edition",
+    "product_type": "Shoes",
+    "title": "Black-Blue Custom Pro Tap Shoe - TA880 (size 11L)"
+  },
+  {
+    "handle": "joyce-ta800",
+    "product_type": "Shoes",
+    "title": "Joyce - TA800 (Women)"
+  },
+  {
+    "handle": "jean-jz05-child",
+    "product_type": "Shoes",
+    "title": "Jean - JZ05 (Child)"
+  },
+  {
+    "handle": "laney-sd11-adult",
+    "product_type": "Shoes",
+    "title": "Laney - SD11 (Adult)"
+  },
+  {
+    "handle": "be-you-brisa-shorts-by20",
+    "product_type": "Shorts",
+    "title": "BE YOU® Brisa Shorts - BY20"
+  },
+  {
+    "handle": "be-you-brisa-leggings-by19",
+    "product_type": "Leggings",
+    "title": "BE YOU® Brisa Leggings - BY19"
+  },
+  {
+    "handle": "be-you-lulu-by10",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Lulu - BY10"
+  },
+  {
+    "handle": "be-you-jadinha-by07cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Jadinha - Curvy Sizes - BY07CV"
+  },
+  {
+    "handle": "be-you-jada-by07",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Jada - BY07"
+  },
+  {
+    "handle": "be-you-ayse-by06cv",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Ayse - Curvy Sizes - BY06CV"
+  },
+  {
+    "handle": "be-you-deby-by05",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Deby - BY05"
+  },
+  {
+    "handle": "be-you-zena-by04",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Zena - BY04"
+  },
+  {
+    "handle": "be-you-desi-by02",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Desi - BY02"
+  },
+  {
+    "handle": "verde-sd122vg-child",
+    "product_type": "Shoes",
+    "title": "Verde - SD122VG (Child)"
+  },
+  {
+    "handle": "loralee-ba24-adult",
+    "product_type": "Shoes",
+    "title": "Loralee - BA24 (Adult)"
+  },
+  {
+    "handle": "nyla-ba14-adult",
+    "product_type": "Shoes",
+    "title": "Nyla - BA14 (Adult)"
+  },
+  {
+    "handle": "dani-ba40a-child",
+    "product_type": "Shoes",
+    "title": "Dani - BA40A (Child)"
+  },
+  {
+    "handle": "jocelyn-jz45a-child",
+    "product_type": "Shoes",
+    "title": "Jocelyn - JZ45A Suede Sole (Child)"
+  },
+  {
+    "handle": "jaden-jz40-child",
+    "product_type": "Shoes",
+    "title": "Jaden - JZ40 (Child)"
+  },
+  {
+    "handle": "extend-sports-bra-f15143",
+    "product_type": "Sports Bra",
+    "title": "Glacier Lake Crop Top - F15143"
+  },
+  {
+    "handle": "be-you-duna-by01c-child",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Duna - BY01C"
+  },
+  {
+    "handle": "sleek-racerback-bralette-f14288",
+    "product_type": "Sports Bra",
+    "title": "Sleek Racerback Bralette - F14288"
+  },
+  {
+    "handle": "jet-blue-yoga-leggings-f14248",
+    "product_type": "Leggings",
+    "title": "Jet Blue Yoga Leggings - F14248"
+  },
+  {
+    "handle": "classic-pilates-leggings-f14218",
+    "product_type": "Leggings",
+    "title": "Classic Pilates Leggings - F14218"
+  },
+  {
+    "handle": "bordeaux-fitness-capri-leggings-f14209",
+    "product_type": "Leggings",
+    "title": "Bordeaux Fitness Capri Leggings - F14209"
+  },
+  {
+    "handle": "silhouette-leggings-f14194",
+    "product_type": "Leggings",
+    "title": "Silhouette Leggings - F14194"
+  },
+  {
+    "handle": "blackout-bralette-f11207",
+    "product_type": "Sports Bra",
+    "title": "Blackout Bralette - F11207"
+  },
+  {
+    "handle": "black-blend-pilates-leggings-f14318",
+    "product_type": "Leggings",
+    "title": "Black Blend Pilates Leggings - F14318"
+  },
+  {
+    "handle": "orchid-pilates-leggings-f14306",
+    "product_type": "Leggings",
+    "title": "Orchid Pilates Leggings - F14306"
+  },
+  {
+    "handle": "mighty-force-crop-top-f14305",
+    "product_type": "Sports Bra",
+    "title": "Mighty Force Crop Top - F14305"
+  },
+  {
+    "handle": "powerhouse-bralette-f14168",
+    "product_type": "Sports Bra",
+    "title": "Powerhouse Bralette - F14168"
+  },
+  {
+    "handle": "reversible-fitness-leggings-f13626",
+    "product_type": "Leggings",
+    "title": "Reversible Fitness Leggings - F13626"
+  },
+  {
+    "handle": "immersive-training-leggings-f13585",
+    "product_type": "Leggings",
+    "title": "Immersive Training Leggings - F13585"
+  },
+  {
+    "handle": "spiderweb-bralette-f13559",
+    "product_type": "Sports Bra",
+    "title": "Spiderweb Bralette - F13559"
+  },
+  {
+    "handle": "checkmate-fitness-leggings-f13607",
+    "product_type": "Leggings",
+    "title": "Checkmate Fitness Leggings - F13607"
+  },
+  {
+    "handle": "thunder-bralette-f13543",
+    "product_type": "Sports Bra",
+    "title": "Thunder Bralette - F13543"
+  },
+  {
+    "handle": "stella-bralette-f13520",
+    "product_type": "Sports Bra",
+    "title": "Stella Bralette - F13520"
+  },
+  {
+    "handle": "mens-tank-top-f13661",
+    "product_type": "Shirts & Tops",
+    "title": "Workout Crew Top - F13661 (Men)"
+  },
+  {
+    "handle": "mens-tank-top-f13659",
+    "product_type": "Shirts & Tops",
+    "title": "Workout Tank Top - F13659 (Men)"
+  },
+  {
+    "handle": "mens-racerback-top-f13624",
+    "product_type": "Shirts & Tops",
+    "title": "Workout Racer Back Tank - F13624 (Men)"
+  },
+  {
+    "handle": "laney-cotton-d3170",
+    "product_type": "Leotards & Unitards",
+    "title": "Laney Cotton - D3170"
+  },
+  {
+    "handle": "jueny-kids-shorts-d3674",
+    "product_type": "Shorts",
+    "title": "Jueny Kid's Shorts - D3674"
+  },
+  {
+    "handle": "be-you-maya-kids-shorts-l2551",
+    "product_type": "Shorts",
+    "title": "BE YOU® Maya Kid's Shorts - L2551"
+  },
+  {
+    "handle": "be-you-maya-kid-s-top-l2549",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Maya Kid’s Bralette Top - L2549"
+  },
+  {
+    "handle": "desi-capri-leggings-d4671",
+    "product_type": "Pants",
+    "title": "Desi Capri Pants - D4671"
+  },
+  {
+    "handle": "genie-shorts-d4085",
+    "product_type": "Shorts",
+    "title": "Genie Shorts - D4085"
+  },
+  {
+    "handle": "juicy-capri-leggings-d375",
+    "product_type": "Pants",
+    "title": "Juicy Capri Pants - D375"
+  },
+  {
+    "handle": "lindy-d355",
+    "product_type": "Leotards & Unitards",
+    "title": "Lindy - D355"
+  },
+  {
+    "handle": "fawn-d242",
+    "product_type": "Leotards & Unitards",
+    "title": "Fawn - D242"
+  },
+  {
+    "handle": "lori-d252",
+    "product_type": "Leotards & Unitards",
+    "title": "Lori - D252"
+  },
+  {
+    "handle": "irina-d210",
+    "product_type": "Leotards & Unitards",
+    "title": "Irina - D210"
+  },
+  {
+    "handle": "joslina-d193",
+    "product_type": "Leotards & Unitards",
+    "title": "Joslina Lycra - D193"
+  },
+  {
+    "handle": "sloane-slo23",
+    "product_type": "Leotards & Unitards",
+    "title": "Sloane - SLO23"
+  },
+  {
+    "handle": "be-you-julia-top-rde2083",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Julia Tank Top - RDE2083"
+  },
+  {
+    "handle": "colettes-pull-on-skirt-l2127",
+    "product_type": "Skirts",
+    "title": "Colette's Kid's Pull On Skirt - L2127"
+  },
+  {
+    "handle": "be-you-zephyr-leggings-rde2310",
+    "product_type": "Leggings",
+    "title": "BE YOU® Zephyr Leggings - RDE2310"
+  },
+  {
+    "handle": "be-you-aerial-shorts-rde2332",
+    "product_type": "Shorts",
+    "title": "BE YOU® Aerial Shorts - RDE2332"
+  },
+  {
+    "handle": "amelie-kids-pull-on-skirt-l2131",
+    "product_type": "Skirts",
+    "title": "Amelie Kid's Pull On Skirt - L2131"
+  },
+  {
+    "handle": "amelie-l2129",
+    "product_type": "Leotards & Unitards",
+    "title": "Amelie - L2129"
+  },
+  {
+    "handle": "sunset-streak-l2141",
+    "product_type": "Leotards & Unitards",
+    "title": "Sunset Streak - L2141"
+  },
+  {
+    "handle": "fancy-free-shorts-tp39",
+    "product_type": "Shorts",
+    "title": "Fancy Free Shorts - TP39"
+  },
+  {
+    "handle": "be-you-bendy-leggings-rde2224",
+    "product_type": "Leggings",
+    "title": "BE YOU® Bendy Leggings - RDE2224"
+  },
+  {
+    "handle": "be-you-brisa-top-by18",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Brisa Top - BY18"
+  },
+  {
+    "handle": "tara-tp112",
+    "product_type": "Leotards & Unitards",
+    "title": "Tara Unitard - TP112"
+  },
+  {
+    "handle": "misty-tp110",
+    "product_type": "Leotards & Unitards",
+    "title": "Misty - TP110"
+  },
+  {
+    "handle": "jewels-top-tp48",
+    "product_type": "Shirts & Tops",
+    "title": "Jewels Crop Top - TP48"
+  },
+  {
+    "handle": "be-you-prismatica-leggings-rde1862",
+    "product_type": "Leggings",
+    "title": "BE YOU® Prismatica Leggings - RDE1862"
+  },
+  {
+    "handle": "be-you-vortex-leggings-rde1819",
+    "product_type": "Leggings",
+    "title": "BE YOU® Vortex Leggings - RDE1819"
+  },
+  {
+    "handle": "be-you-arabesque-kids-top-l2121",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Arabesque Kid's Tank Top - L2121"
+  },
+  {
+    "handle": "be-you-aurelia-kids-top-l2119",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Aurelia Kid's Shirt - L2119"
+  },
+  {
+    "handle": "livia-kids-leggings-l2115",
+    "product_type": "Leggings",
+    "title": "BE YOU® Livia Kid's Leggings - L2115"
+  },
+  {
+    "handle": "be-you-playtime-pastels-pull-on-skirt-l2093",
+    "product_type": "Skirts",
+    "title": "BE YOU® Playtime Kid's Wrap Skirt - L2093"
+  },
+  {
+    "handle": "be-you-doodle-daydream-l2095",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Doodle Daydream - L2095"
+  },
+  {
+    "handle": "be-you-lunaspark-l2097",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Luna Spark - L2097"
+  },
+  {
+    "handle": "be-you-nova-kids-shorts-l2109",
+    "product_type": "Shorts",
+    "title": "BE YOU® Nova Kid's Shorts - L2109"
+  },
+  {
+    "handle": "be-you-nova-kid-s-top-l2105",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Nova Kid’s Top - L2105"
+  },
+  {
+    "handle": "fancy-free-top-tp38",
+    "product_type": "Shirts & Tops",
+    "title": "Fancy Free Crop Top - TP38"
+  },
+  {
+    "handle": "tschai-pas-tp33",
+    "product_type": "Leotards & Unitards",
+    "title": "Tschai Pas - TP33"
+  },
+  {
+    "handle": "be-you-bia-l2137",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Bia - L2137"
+  },
+  {
+    "handle": "be-you-samantha-pants-by16",
+    "product_type": "Pants",
+    "title": "BE YOU® Samantha Pants - BY16"
+  },
+  {
+    "handle": "be-you-esther-pants-by15",
+    "product_type": "Pants",
+    "title": "BE YOU® Esther Warmup Pants - BY15"
+  },
+  {
+    "handle": "poppy-skirt-rde2398",
+    "product_type": "Skirts",
+    "title": "Poppy Skirt - RDE2398"
+  },
+  {
+    "handle": "julia-tank-top-rde1752",
+    "product_type": "Shirts & Tops",
+    "title": "Julia Tank Top - RDE1752"
+  },
+  {
+    "handle": "jess-kids-top-l2103",
+    "product_type": "Shirts & Tops",
+    "title": "Jess Kid's Top - L2103"
+  },
+  {
+    "handle": "be-you-beatriz-kid-s-top-l2099",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Beatriz Kid’s Crop Top - L2099"
+  },
+  {
+    "handle": "be-you-sofia-l2089",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Sofia - L2089"
+  },
+  {
+    "handle": "mokina-cotton-d6096",
+    "product_type": "Leotards & Unitards",
+    "title": "Mokina Cotton - V6096"
+  },
+  {
+    "handle": "danica-kids-leggings-l2067",
+    "product_type": "Leggings",
+    "title": "Danica Kid's Leggings - L2067"
+  },
+  {
+    "handle": "be-you-dandara-l2061",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Dandara - L2061"
+  },
+  {
+    "handle": "be-you-pia-top-rde2690",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Pia Crop Top - RDE2690"
+  },
+  {
+    "handle": "veiluxe-body-liner-rde8099",
+    "product_type": "Leotards & Unitards",
+    "title": "Briar Body Liner - RDE8099"
+  },
+  {
+    "handle": "be-you-rita-leggings-rde2770",
+    "product_type": "Leggings",
+    "title": "BE YOU® Rita Leggings - RDE2770"
+  },
+  {
+    "handle": "be-you-rita-top-rde2768",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Rita Crop Top - RDE2768"
+  },
+  {
+    "handle": "be-you-rita-rde2758",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Rita - RDE2758"
+  },
+  {
+    "handle": "be-you-karina-rde2756",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Karina - RDE2756"
+  },
+  {
+    "handle": "be-you-mayan-top-rde2732",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Maya Half Sleeve Sheer Top - RDE2732"
+  },
+  {
+    "handle": "be-you-naiara-rde2738",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Naiara - RDE2738"
+  },
+  {
+    "handle": "be-you-maya-shorts-rde2550",
+    "product_type": "Shorts",
+    "title": "BE YOU® Maya Shorts - RDE2550"
+  },
+  {
+    "handle": "be-you-maya-top-rde2548",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Maya Bralette Top - RDE2548"
+  },
+  {
+    "handle": "brise-kids-skort-tp157c",
+    "product_type": "Skort",
+    "title": "Brisé Kid's Skort - TP157C"
+  },
+  {
+    "handle": "brise-kids-top-tp156c",
+    "product_type": "Shirts & Tops",
+    "title": "Brisé Kid's Crop Top - TP156C"
+  },
+  {
+    "handle": "corina-ch58",
+    "product_type": "Shoes",
+    "title": "Corina - CH58"
+  },
+  {
+    "handle": "ariel-shorts-d3085",
+    "product_type": "Shorts",
+    "title": "Ariel Kid's Shorts - D3085"
+  },
+  {
+    "handle": "striata-l1921",
+    "product_type": "Leotards & Unitards",
+    "title": "Striata - L1921"
+  },
+  {
+    "handle": "be-you-harmony-kids-top-l2685",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Harmony Kid's Top - L2685"
+  },
+  {
+    "handle": "brise-leggings-tp158",
+    "product_type": "Leggings",
+    "title": "Brisé Leggings - TP158"
+  },
+  {
+    "handle": "rex-tank-top-rde2504-men",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Rex Tank Top - RDE2504 (Men)"
+  },
+  {
+    "handle": "removeable-alina-pointe-shoe-shanks-als-shank",
+    "product_type": "Ballet Accessories",
+    "title": "Alina Pointe Shoe Removeable Shanks - ALS Shank"
+  },
+  {
+    "handle": "flow-sports-bra-f15126",
+    "product_type": "Sports Bra",
+    "title": "Flow Bralette - F15126"
+  },
+  {
+    "handle": "synergy-sports-bra-f15182",
+    "product_type": "Sports Bra",
+    "title": "Synergy Bralette - F15182"
+  },
+  {
+    "handle": "emerge-training-legging-f13544",
+    "product_type": "Leggings",
+    "title": "Emerge Training Leggings - F13544"
+  },
+  {
+    "handle": "sustain-fitness-legging-f13619",
+    "product_type": "Leggings",
+    "title": "Sustain Fitness Leggings - F13619"
+  },
+  {
+    "handle": "shimmer-training-legging-f14169",
+    "product_type": "Leggings",
+    "title": "Shimmer Pilates Leggings - F14169"
+  },
+  {
+    "handle": "mens-shirt-f13501",
+    "product_type": "Shirts & Tops",
+    "title": "Emerald Green Shirt - F13501 (Men)"
+  },
+  {
+    "handle": "be-you-pia-kid-s-leggings-l2693",
+    "product_type": "Leggings",
+    "title": "BE YOU® Pia Kid’s Leggings - L2693"
+  },
+  {
+    "handle": "be-you-zephyrine-rde2712",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Zephyrine - RDE2712"
+  },
+  {
+    "handle": "be-you-rosalea-rde2704",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Rosalea - RDE2704"
+  },
+  {
+    "handle": "be-you-odette-rde2568",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Odette - RDE2568"
+  },
+  {
+    "handle": "lilou-kids-top-l2665",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Lilou Kid's Crop Top - L2665"
+  },
+  {
+    "handle": "mens-long-sleeve-shirt-f13503",
+    "product_type": "Shirts & Tops",
+    "title": "Workout Long Sleeve Shirt - F13503 (Men)"
+  },
+  {
+    "handle": "be-you-riviera-rde2546",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Riviera - RDE2546"
+  },
+  {
+    "handle": "be-you-shailene-rde2714",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Shailene - RDE2714"
+  },
+  {
+    "handle": "be-you-vittoria-rde2696",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Vittoria - RDE2696"
+  },
+  {
+    "handle": "be-you-alessandra-rde2686",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Alessandra - RDE2686"
+  },
+  {
+    "handle": "be-you-lilou-kids-leggings-l2667",
+    "product_type": "Leggings",
+    "title": "BE YOU® Lilou Kid's Leggings - L2667"
+  },
+  {
+    "handle": "be-you-margarida-top-rde2626",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Margarida Crop Top - RDE2626"
+  },
+  {
+    "handle": "ecarte-tp148",
+    "product_type": "Leotards & Unitards",
+    "title": "Écarté - TP148"
+  },
+  {
+    "handle": "india-top-tp132",
+    "product_type": "Shirts & Tops",
+    "title": "India Crop Top - TP132"
+  },
+  {
+    "handle": "isabella-tp122",
+    "product_type": "Leotards & Unitards",
+    "title": "Isabella - TP122"
+  },
+  {
+    "handle": "sterling-tp118",
+    "product_type": "Leotards & Unitards",
+    "title": "Sterling - TP118"
+  },
+  {
+    "handle": "be-you-cinzia-top-rde2574",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Cinzia Top - RDE2574"
+  },
+  {
+    "handle": "be-you-khaleesi-romper-rde2472",
+    "product_type": "Jumpsuits & Rompers",
+    "title": "BE YOU® Khaleesi Romper - RDE2472"
+  },
+  {
+    "handle": "be-you-elin-top-rde2470",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Elin Top - RDE2470"
+  },
+  {
+    "handle": "be-you-ben-shorts-rde2726-men",
+    "product_type": "Shorts",
+    "title": "BE YOU® Ben Shorts - RDE2726 (Men)"
+  },
+  {
+    "handle": "be-you-fleurine-rde2602",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Fleurine - RDE2602"
+  },
+  {
+    "handle": "be-you-evangeline-rde2600",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Evangeline - RDE2600"
+  },
+  {
+    "handle": "frank-tank-top-d300-men",
+    "product_type": "Shirts & Tops",
+    "title": "Vivacious Ballet Shirt - RDE2496 (Men)"
+  },
+  {
+    "handle": "sansia-dress-rde2682",
+    "product_type": "Jumpsuits & Rompers",
+    "title": "Sansia Dress - RDE2682"
+  },
+  {
+    "handle": "be-you-pia-leggings-rde2692",
+    "product_type": "Leggings",
+    "title": "BE YOU® Pia Leggings - RDE2692"
+  },
+  {
+    "handle": "be-you-ariadne-rde2716",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Ariadne - RDE2716"
+  },
+  {
+    "handle": "lilou-leggings-rde2666",
+    "product_type": "Pants",
+    "title": "Lilou Leggings - RDE2666"
+  },
+  {
+    "handle": "lilou-top-rde2664",
+    "product_type": "Shirts & Tops",
+    "title": "Lilou Top - RDE2664"
+  },
+  {
+    "handle": "be-you-cerise-top-rde2708",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Cerise Crop Top - RDE2708"
+  },
+  {
+    "handle": "be-you-anita-top-rde2722",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Anita Crop Top - RDE2722"
+  },
+  {
+    "handle": "be-you-leilani-rde2710",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Leilani - RDE2710"
+  },
+  {
+    "handle": "be-you-pamela-rde2740",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Pamela - RDE2740"
+  },
+  {
+    "handle": "cordelia-skirt-curvy-sizes-tp67",
+    "product_type": "Skirts",
+    "title": "Cordelia Skirt - Curvy Sizes - TP67"
+  },
+  {
+    "handle": "camille-skirt-curvy-sizes-tp66",
+    "product_type": "Skirts",
+    "title": "Camille Skirt - Curvy Sizes - TP66"
+  },
+  {
+    "handle": "4-seasons-leggings-tp63",
+    "product_type": "Leggings",
+    "title": "4 Seasons Leggings - TP63"
+  },
+  {
+    "handle": "4-seasons-top-tp62",
+    "product_type": "Shirts & Tops",
+    "title": "4 Seasons Crop Top - TP62"
+  },
+  {
+    "handle": "odette-tp60",
+    "product_type": "Leotards & Unitards",
+    "title": "Odette - TP60"
+  },
+  {
+    "handle": "pc2-tp58",
+    "product_type": "Leotards & Unitards",
+    "title": "PC2 - TP58"
+  },
+  {
+    "handle": "stripes-bandeau-tp56",
+    "product_type": "Shirts & Tops",
+    "title": "Stripes Bandeau Top - TP56"
+  },
+  {
+    "handle": "kristy-d407",
+    "product_type": "Leotards & Unitards",
+    "title": "Kristy - D407"
+  },
+  {
+    "handle": "stars-top-tp55",
+    "product_type": "Shirts & Tops",
+    "title": "Stars Long Sleeve Top - TP55"
+  },
+  {
+    "handle": "be-you-mirabella-rde2694",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Mirabella - RDE2694"
+  },
+  {
+    "handle": "be-you-selena-rde2672",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Selena - RDE2672"
+  },
+  {
+    "handle": "jewels-shorts-tp64",
+    "product_type": "Shorts",
+    "title": "Jewels Shorts - TP64"
+  },
+  {
+    "handle": "ashton-cl03",
+    "product_type": "Shoes",
+    "title": "Ashton - CL03 (Adult)"
+  },
+  {
+    "handle": "be-you-amalia-rde2642",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Amalia - RDE2642"
+  },
+  {
+    "handle": "momo-d6758",
+    "product_type": "Leotards & Unitards",
+    "title": "Momo Nylon - D6758"
+  },
+  {
+    "handle": "terry-d6165",
+    "product_type": "Leotards & Unitards",
+    "title": "Terry - D6165, V6165"
+  },
+  {
+    "handle": "be-you-giordana-rde2526",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Giordana - RDE2526"
+  },
+  {
+    "handle": "laila-crop-top-rde2458",
+    "product_type": "Shirts & Tops",
+    "title": "Laila Crop Top - RDE2458"
+  },
+  {
+    "handle": "laila-shorts-rde2460",
+    "product_type": "Shorts",
+    "title": "Laila Shorts - RDE2460"
+  },
+  {
+    "handle": "bianca-l2787-child",
+    "product_type": "Leotards & Unitards",
+    "title": "Bianca - L2787 - So Dancer Exclusive"
+  },
+  {
+    "handle": "be-you-naiara-skirt-rde2798",
+    "product_type": "Skirts",
+    "title": "BE YOU® Naiara Pull On Skirt - RDE2798"
+  },
+  {
+    "handle": "harem-pants-rde2510",
+    "product_type": "Pants",
+    "title": "BE YOU® Harem Pants - RDE2510"
+  },
+  {
+    "handle": "andrea-short-romper-rde2480",
+    "product_type": "Jumpsuits & Rompers",
+    "title": "Andrea Short Romper - RDE2480"
+  },
+  {
+    "handle": "be-you-giulia-rde2462",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Giulia - RDE2462"
+  },
+  {
+    "handle": "meline-rde2416",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Meline - RDE2416"
+  },
+  {
+    "handle": "brise-skort-tp157",
+    "product_type": "Skort",
+    "title": "Brisé Skort - TP157"
+  },
+  {
+    "handle": "brise-top-tp156",
+    "product_type": "Shirts & Tops",
+    "title": "Brisé Crop Top - TP156"
+  },
+  {
+    "handle": "lacey-e8778",
+    "product_type": "Leg Warmers",
+    "title": "Lacey Leg Warmer - E8778"
+  },
+  {
+    "handle": "duffel-bag-bp05",
+    "product_type": "Luggage & Bags",
+    "title": "Duffel Bag - BP05"
+  },
+  {
+    "handle": "studio-pants-sp01",
+    "product_type": "Pants",
+    "title": "Studio Pants - SP01"
+  },
+  {
+    "handle": "mini-black-backpack-bg604",
+    "product_type": "Backpacks",
+    "title": "Mini Black Backpack - BG604"
+  },
+  {
+    "handle": "ballet-handbag-bg718",
+    "product_type": "Handbags, Wallets & Cases",
+    "title": "Ballet Handbag - BG718"
+  },
+  {
+    "handle": "ballet-backpack-bg717",
+    "product_type": "Handbags, Wallets & Cases",
+    "title": "Mini Ballerina Backpack - BG717"
+  },
+  {
+    "handle": "alina-iii-pointe-shoe-p93",
+    "product_type": "Shoes",
+    "title": "Alina III Pointe Shoe - P93"
+  },
+  {
+    "handle": "alina-iv-pointe-shoe-p95",
+    "product_type": "Shoes",
+    "title": "Alina IV Pointe Shoe - P95"
+  },
+  {
+    "handle": "penny-d400",
+    "product_type": "Leotards & Unitards",
+    "title": "Penny - D400"
+  },
+  {
+    "handle": "kenley-d398",
+    "product_type": "Leotards & Unitards",
+    "title": "Kenley - D398"
+  },
+  {
+    "handle": "angel-kids-capri-d3671",
+    "product_type": "Legging",
+    "title": "Angel Kid's Capri Pants - D3671"
+  },
+  {
+    "handle": "krafty-leggings-rde2066",
+    "product_type": "Pants",
+    "title": "Krafty Leggings - RDE2066"
+  },
+  {
+    "handle": "coraly-blue-jeans-shorts-jeggings-rde1673",
+    "product_type": "Shorts",
+    "title": "Kid's Jeans Shorts \"Jorts\" - RDE1673"
+  },
+  {
+    "handle": "elevate-training-legging-f15153",
+    "product_type": "Leggings",
+    "title": "Elevate Hickory Leggings - F15153"
+  },
+  {
+    "handle": "empower-training-short-f15147",
+    "product_type": "Shorts",
+    "title": "Empowered Bike Shorts - F15147"
+  },
+  {
+    "handle": "vitality-sports-bra-f15118",
+    "product_type": "Sports Bra",
+    "title": "Vitality Crop Top - F15118"
+  },
+  {
+    "handle": "flex-sports-bra-f15102",
+    "product_type": "Sports Bra",
+    "title": "Flex Bralette - F15102"
+  },
+  {
+    "handle": "elevate-sports-bra-f15152",
+    "product_type": "Sports Bra",
+    "title": "Elevate Hickory Bralette - F15152"
+  },
+  {
+    "handle": "paso-doble-skirt-b1788",
+    "product_type": "Skirts",
+    "title": "Paso Doble Skirt - B1788"
+  },
+  {
+    "handle": "foxtrot-skirt-d391",
+    "product_type": "Skirts",
+    "title": "Foxtrot Skirt - D391"
+  },
+  {
+    "handle": "julie-v7096",
+    "product_type": "Leotards & Unitards",
+    "title": "Julie - D7096, V7096"
+  },
+  {
+    "handle": "stacey-bralette-es13666",
+    "product_type": "Shirts & Tops",
+    "title": "Stacey Bralette - ES13666"
+  },
+  {
+    "handle": "aggie-d358",
+    "product_type": "Leotards & Unitards",
+    "title": "Aggie - D358"
+  },
+  {
+    "handle": "allie-d253",
+    "product_type": "Leotards & Unitards",
+    "title": "Allie - D253"
+  },
+  {
+    "handle": "alice-shorts-d4503",
+    "product_type": "Shorts",
+    "title": "Alice Shorts - D4503, RDE1668"
+  },
+  {
+    "handle": "anna-d1991",
+    "product_type": "Leotards & Unitards",
+    "title": "Anna - D1991, LO06"
+  },
+  {
+    "handle": "derick-d376",
+    "product_type": "Shirts & Tops",
+    "title": "Derick Grant Tap Shirt - D376 (Men)"
+  },
+  {
+    "handle": "lili-d250",
+    "product_type": "Leotards & Unitards",
+    "title": "Lili - D250"
+  },
+  {
+    "handle": "cami-bralette-rde1756",
+    "product_type": "Sports Bra",
+    "title": "Cami Bralette - RDE1756"
+  },
+  {
+    "handle": "tabatha-warmup-romper-rde2238",
+    "product_type": "Jumpsuits & Rompers",
+    "title": "Tabatha Romper - RDE2238"
+  },
+  {
+    "handle": "cory-kids-blue-jeggings-rde1664",
+    "product_type": "Pants",
+    "title": "Kid's Blue \"Jeggings\" - RDE1664"
+  },
+  {
+    "handle": "georginna-d4674",
+    "product_type": "Shorts",
+    "title": "Georginna Shorts - D4674"
+  },
+  {
+    "handle": "harmony-vest-f14342",
+    "product_type": "Coats & Jackets",
+    "title": "Harmony Vest - F14342"
+  },
+  {
+    "handle": "promote-training-legging-f15178",
+    "product_type": "Leggings",
+    "title": "Sleek Navy Leggings - F15178"
+  },
+  {
+    "handle": "illuminate-sports-bra-f15166",
+    "product_type": "Sports Bra",
+    "title": "Midnight Black Bralette - F15166"
+  },
+  {
+    "handle": "be-you-callie-rde2622",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Callie Cardigan - RDE2622"
+  },
+  {
+    "handle": "lupi-rde2218",
+    "product_type": "Skirts",
+    "title": "BE YOU® Lupi Wrap Skirt - RDE2218"
+  },
+  {
+    "handle": "maggie-lo04",
+    "product_type": "Leotards & Unitards",
+    "title": "Maggie - LO04, LO14"
+  },
+  {
+    "handle": "vik-d3503",
+    "product_type": "Shorts",
+    "title": "Vik Kid's Shorts - D3503, L1309"
+  },
+  {
+    "handle": "geanie-d357",
+    "product_type": "Leotards & Unitards",
+    "title": "Geanie - D357"
+  },
+  {
+    "handle": "georgia-d216",
+    "product_type": "Leotards & Unitards",
+    "title": "Georgia - D216"
+  },
+  {
+    "handle": "jade-d6500",
+    "product_type": "Leotards & Unitards",
+    "title": "Jade Lycra - D6500"
+  },
+  {
+    "handle": "mandy-d176",
+    "product_type": "Leotards & Unitards",
+    "title": "Mandy - D176"
+  },
+  {
+    "handle": "jenie-d163",
+    "product_type": "Leotards & Unitards",
+    "title": "Jenie - D163"
+  },
+  {
+    "handle": "gina-d162",
+    "product_type": "Leotards & Unitards",
+    "title": "Gina - D162"
+  },
+  {
+    "handle": "vally-d239",
+    "product_type": "Leotards & Unitards",
+    "title": "Vally - D239"
+  },
+  {
+    "handle": "jessy-d181",
+    "product_type": "Leotards & Unitards",
+    "title": "Jessy - D181"
+  },
+  {
+    "handle": "atlanta-d240",
+    "product_type": "Leotards & Unitards",
+    "title": "Atlanta - D240"
+  },
+  {
+    "handle": "snuggle-pl2056",
+    "product_type": "Pants",
+    "title": "Snuggle Warmup Pants - PL2056"
+  },
+  {
+    "handle": "twirl-dress-d385",
+    "product_type": "Dress",
+    "title": "Twirl Salsa Dress - D385"
+  },
+  {
+    "handle": "juju-kids-cropped-pants-d3532",
+    "product_type": "Legging",
+    "title": "Juju Kid's Crapri Pants - D3532"
+  },
+  {
+    "handle": "jessie-rde1522",
+    "product_type": "Leotards & Unitards",
+    "title": "Jessie - RDE1522"
+  },
+  {
+    "handle": "mens-tap-dancer-shirt-d1052-men",
+    "product_type": "Shirts & Tops",
+    "title": "Men's Tap Dancer Shirt - D1052 (Men)"
+  },
+  {
+    "handle": "mens-tap-dance-muscle-tank-d1054-men",
+    "product_type": "Shirts & Tops",
+    "title": "Men's Tap Dancer Muscle Tank - D1054 (Men)"
+  },
+  {
+    "handle": "stella-rde1881",
+    "product_type": "Leotards & Unitards",
+    "title": "Stella - RDE1881"
+  },
+  {
+    "handle": "evert-rde1885",
+    "product_type": "Leotards & Unitards",
+    "title": "Evert - RDE1885"
+  },
+  {
+    "handle": "keeley-d378",
+    "product_type": "Leotards & Unitards",
+    "title": "Keeley - D378"
+  },
+  {
+    "handle": "candy-d1328",
+    "product_type": "Leotards & Unitards",
+    "title": "Candy - D1328"
+  },
+  {
+    "handle": "shannin-d264",
+    "product_type": "Leotards & Unitards",
+    "title": "Shannin - D264"
+  },
+  {
+    "handle": "anna-d262",
+    "product_type": "Leotards & Unitards",
+    "title": "Anna - D262"
+  },
+  {
+    "handle": "janey-d218",
+    "product_type": "Leotards & Unitards",
+    "title": "Janey - D218"
+  },
+  {
+    "handle": "camila-d214",
+    "product_type": "Leotards & Unitards",
+    "title": "Camila - D214"
+  },
+  {
+    "handle": "miki-d6100",
+    "product_type": "Leotards & Unitards",
+    "title": "Miki Cotton - D6100, V6100"
+  },
+  {
+    "handle": "mimi-d190",
+    "product_type": "Leotards & Unitards",
+    "title": "Mimi - D190"
+  },
+  {
+    "handle": "flo-d165",
+    "product_type": "Leotards & Unitards",
+    "title": "Flo - D165"
+  },
+  {
+    "handle": "joy-d164",
+    "product_type": "Leotards & Unitards",
+    "title": "Joy - D164"
+  },
+  {
+    "handle": "juliana-d153",
+    "product_type": "Leotards & Unitards",
+    "title": "Juliana - D153"
+  },
+  {
+    "handle": "jessica-shorts-d4586",
+    "product_type": "Shorts",
+    "title": "Jessica Shorts - D4586"
+  },
+  {
+    "handle": "bella-shorts-d4502",
+    "product_type": "Shorts",
+    "title": "Bella Shorts - D4502, LO09"
+  },
+  {
+    "handle": "anne-d1491",
+    "product_type": "Leotards & Unitards",
+    "title": "Anne - D1491"
+  },
+  {
+    "handle": "mimi-d829",
+    "product_type": "Leotards & Unitards",
+    "title": "Mimi - D829"
+  },
+  {
+    "handle": "josie-d715",
+    "product_type": "Leotards & Unitards",
+    "title": "Josie - D715"
+  },
+  {
+    "handle": "madeline-d150",
+    "product_type": "Leotards & Unitards",
+    "title": "Madeline - D150"
+  },
+  {
+    "handle": "pear-d404",
+    "product_type": "Leotards & Unitards",
+    "title": "Pear - D404, D2828"
+  },
+  {
+    "handle": "cherry-d402",
+    "product_type": "Leotards & Unitards",
+    "title": "Cherry - D402"
+  },
+  {
+    "handle": "jinny-d255",
+    "product_type": "Leotards & Unitards",
+    "title": "Jinny - D255"
+  },
+  {
+    "handle": "bia-d243",
+    "product_type": "Leotards & Unitards",
+    "title": "Bia - D243"
+  },
+  {
+    "handle": "be-you-marlee-rde2620",
+    "product_type": "Shirts & Tops",
+    "title": "BE YOU® Marlee Cardigan - RDE2620"
+  },
+  {
+    "handle": "mika-d6600",
+    "product_type": "Leotards & Unitards",
+    "title": "Mika Lycra - D6600"
+  },
+  {
+    "handle": "josey-d192",
+    "product_type": "Leotards & Unitards",
+    "title": "Josey - D192"
+  },
+  {
+    "handle": "jojo-d151",
+    "product_type": "Leotards & Unitards",
+    "title": "Jojo - D151"
+  },
+  {
+    "handle": "jennay-d254",
+    "product_type": "Leotards & Unitards",
+    "title": "Jennay - D254"
+  },
+  {
+    "handle": "nina-lo08",
+    "product_type": "Leotards & Unitards",
+    "title": "Nina - LO08, LO18"
+  },
+  {
+    "handle": "jade-d1564",
+    "product_type": "Shirts & Tops",
+    "title": "Jade Long Sleeve Crop Top - D1564"
+  },
+  {
+    "handle": "d155",
+    "product_type": "Leotards & Unitards",
+    "title": "Larraine - D155"
+  },
+  {
+    "handle": "reverse-turn-skirt-d382",
+    "product_type": "Shirts & Tops",
+    "title": "Reverse Turn Top - D382"
+  },
+  {
+    "handle": "swing-skirt-d381",
+    "product_type": "Skirts",
+    "title": "Swing Skirt - D381"
+  },
+  {
+    "handle": "waltz-skirt-d383",
+    "product_type": "Skirts",
+    "title": "Waltz Skirt - D383"
+  },
+  {
+    "handle": "swing-dress-d384",
+    "product_type": "Dress",
+    "title": "Swing Contemporary Dress - D384"
+  },
+  {
+    "handle": "tracy-d311",
+    "product_type": "Leotards & Unitards",
+    "title": "Tracy - D311"
+  },
+  {
+    "handle": "niki-d314",
+    "product_type": "Leotards & Unitards",
+    "title": "Niki - D314"
+  },
+  {
+    "handle": "daniela-d315",
+    "product_type": "Leotards & Unitards",
+    "title": "Daniela - D315"
+  },
+  {
+    "handle": "nikita-d313",
+    "product_type": "Leotards & Unitards",
+    "title": "Nikita - D313"
+  },
+  {
+    "handle": "everlynn-rde1883",
+    "product_type": "Leotards & Unitards",
+    "title": "Everlynn - RDE1883"
+  },
+  {
+    "handle": "crissy-l754",
+    "product_type": "Leotards & Unitards",
+    "title": "Crissy - L754"
+  },
+  {
+    "handle": "everly-rde1882",
+    "product_type": "Leotards & Unitards",
+    "title": "Everly - RDE1882"
+  },
+  {
+    "handle": "jenny-d278",
+    "product_type": "Leotards & Unitards",
+    "title": "Jenny - D278"
+  },
+  {
+    "handle": "gabriela-rde1821",
+    "product_type": "Leotards & Unitards",
+    "title": "Gabriela - RDE1821"
+  },
+  {
+    "handle": "meres-rde1812",
+    "product_type": "Leotards & Unitards",
+    "title": "Meres - RDE1812"
+  },
+  {
+    "handle": "julia-rde1563",
+    "product_type": "Leotards & Unitards",
+    "title": "Julia - RDE1563"
+  },
+  {
+    "handle": "alice-d302",
+    "product_type": "Leotards & Unitards",
+    "title": "Alice - D302"
+  },
+  {
+    "handle": "sherry-d291",
+    "product_type": "Leotards & Unitards",
+    "title": "Sherry - D291"
+  },
+  {
+    "handle": "laura-d265",
+    "product_type": "Leotards & Unitards",
+    "title": "Laura - D265"
+  },
+  {
+    "handle": "laney-sd11",
+    "product_type": "Shoes",
+    "title": "Laney - SD11 (Child)"
+  },
+  {
+    "handle": "judy-d6000",
+    "product_type": "Leotards & Unitards",
+    "title": "Jade Cotton - D6000, V6000"
+  },
+  {
+    "handle": "morgan-top-d4672",
+    "product_type": "Shirts & Tops",
+    "title": "Morgan Top - D4672"
+  },
+  {
+    "handle": "cherry-kids-shorts-d3586",
+    "product_type": "Shorts",
+    "title": "Cherry Kid's Shorts - D3586"
+  },
+  {
+    "handle": "vally-d3502",
+    "product_type": "Shorts",
+    "title": "Lilly Kid's Shorts - D3502, L1313"
+  },
+  {
+    "handle": "jaylee-rde2340",
+    "product_type": "Leotards & Unitards",
+    "title": "Jaylee - RDE2340"
+  },
+  {
+    "handle": "peach-pull-on-skirt-d741-l741",
+    "product_type": "Skirts",
+    "title": "Peach Pull On Kid's Skirt - D741, L741"
+  },
+  {
+    "handle": "harriet-d356",
+    "product_type": "Leotards & Unitards",
+    "title": "Harriet - D356"
+  },
+  {
+    "handle": "luna-d353",
+    "product_type": "Leotards & Unitards",
+    "title": "Luna - D353"
+  },
+  {
+    "handle": "nikki-d339",
+    "product_type": "Leotards & Unitards",
+    "title": "Nikki - D339"
+  },
+  {
+    "handle": "juliana-d292",
+    "product_type": "Leotards & Unitards",
+    "title": "Juliana - D292"
+  },
+  {
+    "handle": "bathilda-d273",
+    "product_type": "Leotards & Unitards",
+    "title": "Bathilda - D273"
+  },
+  {
+    "handle": "joslin-d193-d6094",
+    "product_type": "Leotards & Unitards",
+    "title": "Joslina Cotton - D6094, V6094"
+  },
+  {
+    "handle": "vikki-d157",
+    "product_type": "Shorts",
+    "title": "Vikki Kid's Shorts - D157"
+  },
+  {
+    "handle": "janey-sd10",
+    "product_type": "Shoes",
+    "title": "Janey - SD10 (Child)"
+  },
+  {
+    "handle": "romina-rde2582",
+    "product_type": "Leotards & Unitards",
+    "title": "Romina - RDE2582"
+  },
+  {
+    "handle": "lucie-d152",
+    "product_type": "Leotards & Unitards",
+    "title": "Lucie - D152"
+  },
+  {
+    "handle": "olympia-d154",
+    "product_type": "Leotards & Unitards",
+    "title": "Olympia - D154"
+  },
+  {
+    "handle": "mandy-lo02",
+    "product_type": "Leotards & Unitards",
+    "title": "Mandy - LO02, LO12"
+  },
+  {
+    "handle": "child-waist-belt-with-buckle-d1701",
+    "product_type": "Belts",
+    "title": "Kid's Waist Belt - V1701"
+  },
+  {
+    "handle": "remy-bl174",
+    "product_type": "Shoes",
+    "title": "Remy - BL174"
+  },
+  {
+    "handle": "peep-bl172",
+    "product_type": "Shoes",
+    "title": "Peep - BL172"
+  },
+  {
+    "handle": "rita-bl144",
+    "product_type": "Shoes",
+    "title": "Rita - BL144"
+  },
+  {
+    "handle": "lila-ba30",
+    "product_type": "Shoes",
+    "title": "Lila - BA30 (Child)"
+  },
+  {
+    "handle": "nevey-bae90s",
+    "product_type": "Shoes",
+    "title": "Nevey - BAE90s (Child)"
+  },
+  {
+    "handle": "glenna-ba23",
+    "product_type": "Shoes",
+    "title": "Glenna - BA23 (Child)"
+  },
+  {
+    "handle": "geralyn-ba17",
+    "product_type": "Shoes",
+    "title": "Geralyn - BA17 (Child)"
+  },
+  {
+    "handle": "nyla-ba14",
+    "product_type": "Shoes",
+    "title": "Nyla - BA14 (Child)"
+  },
+  {
+    "handle": "bl104",
+    "product_type": "Shoes",
+    "title": "Roy - BL104 (Men)"
+  },
+  {
+    "handle": "custom-tap-boot-ta960a",
+    "product_type": "Shoes",
+    "title": "Custom Pro Tap Boot - TA960A (Unisex)"
+  },
+  {
+    "handle": "custom-tap-boot-ta960",
+    "product_type": "Shoes",
+    "title": "Custom Pro Tap Boot - TA960 (Unisex)"
+  },
+  {
+    "handle": "jacks-ac51",
+    "product_type": "Drill & Screwdriver Accessories",
+    "title": "Jacks - AC51"
+  },
+  {
+    "handle": "hero-rde8144",
+    "product_type": "Quilted Dance Belt",
+    "title": "Hero Dance Belt - RDE8144, (Men)"
+  },
+  {
+    "handle": "ramona-bl124",
+    "product_type": "Shoes",
+    "title": "Ramona - BL124"
+  },
+  {
+    "handle": "bess-d345",
+    "product_type": "Leotards & Unitards",
+    "title": "Bess Body Liner - D345"
+  },
+  {
+    "handle": "bessie-d245",
+    "product_type": "Leotards & Unitards",
+    "title": "Bessie Kid's Body Liner - D245"
+  },
+  {
+    "handle": "meilani-body-liner-ug214",
+    "product_type": "Leotards & Unitards",
+    "title": "Meilani Body Liner - UG214"
+  },
+  {
+    "handle": "arianna-sl209",
+    "product_type": "Leotards & Unitards",
+    "title": "Arianna - SL209"
+  },
+  {
+    "handle": "be-you-ayesha-by06c-child",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Ayesha - BY06C"
+  },
+  {
+    "handle": "be-you-aisha-by06",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Aisha - BY06"
+  },
+  {
+    "handle": "be-you-martina-by05c-child",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Martina - BY05C"
+  },
+  {
+    "handle": "be-you-nydia-by09c-child",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Nydia - BY09C"
+  },
+  {
+    "handle": "be-you-nydia-by09",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Nydia - BY09"
+  },
+  {
+    "handle": "be-you-noemi-by08",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Noemi - BY08"
+  },
+  {
+    "handle": "be-you-mirella-by03",
+    "product_type": "Leotards & Unitards",
+    "title": "BE YOU® Mirella - BY03"
+  },
+  {
+    "handle": "vernon-md22",
+    "product_type": "Shoes",
+    "title": "Vernon - MD22"
+  },
+  {
+    "handle": "vf-35",
+    "product_type": "Shoes",
+    "title": "Virtual Pointe Shoe Fitting"
+  },
+  {
+    "handle": "spin-me-round-spiral-pins-ac56",
+    "product_type": "Hair Accessories",
+    "title": "Spin me Round Spiral Pins - AC56"
+  },
+  {
+    "handle": "see-through-elastic-yard-roll-ac03",
+    "product_type": "Ribbons & Trim",
+    "title": "See Through Elastic Yard Roll - AC03"
+  },
+  {
+    "handle": "pointe-shoe-toe-pads-mb14",
+    "product_type": "Shoe Accessories",
+    "title": "Pointe Shoe Toe Pads - MB14, MB67"
+  },
+  {
+    "handle": "sd16-light-grey-child",
+    "product_type": "Shoes",
+    "title": "SD16 - (child)"
+  },
+  {
+    "handle": "bun-kit-ac35",
+    "product_type": "Hair Accessories",
+    "title": "Bun Kits - AC35"
+  },
+  {
+    "handle": "ribbons-with-elastic-inserts-set-of-4-ac04",
+    "product_type": "Ribbons & Trim",
+    "title": "Ribbons with Elastic Inserts (Set of 4) - AC04"
+  },
+  {
+    "handle": "ballet-bag-mb04",
+    "product_type": "Luggage & Bags",
+    "title": "Ballet Bag - MB04, MB64"
+  },
+  {
+    "handle": "bolero-ballroom-shoe-bl308-bl309",
+    "product_type": "Shoes",
+    "title": "Bolero - BL308, BL309"
+  },
+  {
+    "handle": "event-item-ebg01",
+    "product_type": "Activewear",
+    "title": "EBG01 - Event Item"
+  },
+  {
+    "handle": "myti-child-sizes-tp91",
+    "product_type": "Leotards & Unitards",
+    "title": "Myti - TP91"
+  },
+  {
+    "handle": "princess-tp90",
+    "product_type": "Leotards & Unitards",
+    "title": "Princess - TP90"
+  },
+  {
+    "handle": "tiler-tp78",
+    "product_type": "Leotards & Unitards",
+    "title": "Tiler - TP78"
+  },
+  {
+    "handle": "sweetcheeks-child-sizes-tp75",
+    "product_type": "Leotards & Unitards",
+    "title": "Sweetcheeks - TP75"
+  },
+  {
+    "handle": "sweetheart-tp74",
+    "product_type": "Leotards & Unitards",
+    "title": "Event Item - Sweetheart - TP74"
+  },
+  {
+    "handle": "heeling-powers-ac53",
+    "product_type": "Shoe Accessories",
+    "title": "Silicone Heel Protector - AC53"
+  },
+  {
+    "handle": "swirly-whirl-drawstring-bag-bp03",
+    "product_type": "Backpacks",
+    "title": "So Danca Drawstring Bags - BP03"
+  },
+  {
+    "handle": "ac57-so-lacey-perfume",
+    "product_type": "Health and Beauty",
+    "title": "So Lacey Perfume - AC57"
+  },
+  {
+    "handle": "mini-tap-shoe-keychain-kc02",
+    "product_type": "Keychains",
+    "title": "Mini Tap Shoe Keychain - KC02"
+  },
+  {
+    "handle": "keila-sl178",
+    "product_type": "Leotards & Unitards",
+    "title": "Keila - SL178"
+  },
+  {
+    "handle": "keth-yagp-jacket",
+    "product_type": "Coats & Jackets",
+    "title": "YAGP x So Danca Windbreaker Jacket"
+  },
+  {
+    "handle": "dew-drop-jacket-tp57",
+    "product_type": "Shirts & Tops",
+    "title": "Dew Drop Jacket - TP57"
+  },
+  {
+    "handle": "natalia-child-sizes-tp54",
+    "product_type": "Leotards & Unitards",
+    "title": "Natalia - TP54"
+  },
+  {
+    "handle": "other-dances-tp53",
+    "product_type": "Leotards & Unitards",
+    "title": "Rayla - TP53"
+  },
+  {
+    "handle": "patricia-child-sizes-tp43",
+    "product_type": "Leotards & Unitards",
+    "title": "Patricia - TP43"
+  },
+  {
+    "handle": "who-cares-tp42",
+    "product_type": "Leotards & Unitards",
+    "title": "Who Cares? - TP42"
+  },
+  {
+    "handle": "raymonda-tp49",
+    "product_type": "Leotards & Unitards",
+    "title": "Raymonda - TP49"
+  },
+  {
+    "handle": "maria-kids-skirt-tpe11",
+    "product_type": "Skirts",
+    "title": "Maria Kid's Pull On Skirt - TP11"
+  },
+  {
+    "handle": "maria-skirt-tp10",
+    "product_type": "Skirts",
+    "title": "Maria Pull On Skirt - TP10"
+  },
+  {
+    "handle": "ribbon-yard-roll-ac01",
+    "product_type": "Ribbons & Trim",
+    "title": "Ribbon Yard Roll - AC01"
+  },
+  {
+    "handle": "4-piece-ribbon-ac07",
+    "product_type": "Ribbons & Trim",
+    "title": "Pointe Shoe Accessory Set - AC07"
+  },
+  {
+    "handle": "kya-socks-md23-md24",
+    "product_type": "Socks",
+    "title": "Kya Socks - MD23, MD24"
+  },
+  {
+    "handle": "tato-ta39",
+    "product_type": "Shoes",
+    "title": "Torina - TA39L (Adult)"
+  },
+  {
+    "handle": "fp-599",
+    "product_type": "Ballet Accessories",
+    "title": "Stickers - Event Item"
+  },
+  {
+    "handle": "quade-ta29",
+    "product_type": "Shoes",
+    "title": "Quade - TA29 (Child)"
+  },
+  {
+    "handle": "quirin-ta30",
+    "product_type": "Shoes",
+    "title": "Quirin - TA30 (Adult)"
+  },
+  {
+    "handle": "jaxon-jz86s",
+    "product_type": "Shoes",
+    "title": "Jaxon - JZ86s (Child)"
+  },
+  {
+    "handle": "jaxon-jz86l-adult",
+    "product_type": "Shoes",
+    "title": "Jaxon - JZ86L (Adult)"
+  },
+  {
+    "handle": "shoelaces-ac54",
+    "product_type": "Shoelaces",
+    "title": "Shoelaces - AC54"
+  },
+  {
+    "handle": "level-up-ac28-ac29",
+    "product_type": "Shoe Accessories",
+    "title": "Pointe Shoe Toe Levelers - AC28, AC29"
+  },
+  {
+    "handle": "cloud-9-ac36",
+    "product_type": "Shoe Accessories",
+    "title": "Cloud 9 Toe Pads - AC36"
+  },
+  {
+    "handle": "spray-rosin-ac34",
+    "product_type": "Ballet Accessories",
+    "title": "Spray Rosin - AC34"
+  },
+  {
+    "handle": "dont-brush-me-off-ac50",
+    "product_type": "Shoe Brushes",
+    "title": "Don't Brush Me Off! - AC50"
+  },
+  {
+    "handle": "nila-kids-shorts-sl225",
+    "product_type": "Shorts",
+    "title": "Nila Kid's Shorts - SL225"
+  },
+  {
+    "handle": "nila-shorts-sl223",
+    "product_type": "Shorts",
+    "title": "Nila Shorts - SL223"
+  },
+  {
+    "handle": "sydney-kids-shorts-sl221",
+    "product_type": "Shorts",
+    "title": "Sydney Kid's Shorts - SL221"
+  },
+  {
+    "handle": "sydney-shorts-sl219",
+    "product_type": "Shorts",
+    "title": "Sydney Shorts - SL219"
+  },
+  {
+    "handle": "cordelia-curvy-skirt-sl235",
+    "product_type": "Skirts",
+    "title": "Cordelia Wrap Skirt - Curvy Sizes - SL235"
+  },
+  {
+    "handle": "kay-kids-pants-sl162",
+    "product_type": "Activewear",
+    "title": "Kay Kid's Pants - SL162"
+  },
+  {
+    "handle": "hay-kids-jacket-sl161",
+    "product_type": "Shirts & Tops",
+    "title": "Hay Kid's Jacket - SL161"
+  },
+  {
+    "handle": "wave-kids-pull-on-skirt-sl217",
+    "product_type": "Skirts",
+    "title": "Wave Kid's Pull On Skirt - SL217"
+  },
+  {
+    "handle": "wave-skirt-sl216",
+    "product_type": "Skirts",
+    "title": "Wave Pull On Skirt - SL216"
+  },
+  {
+    "handle": "naya-kids-top-sl224",
+    "product_type": "Shirts & Tops",
+    "title": "Naya Kid's Top - SL224"
+  },
+  {
+    "handle": "naya-top-sl222",
+    "product_type": "Shirts & Tops",
+    "title": "Naya Top - SL222"
+  },
+  {
+    "handle": "sloane-kids-top-sl220",
+    "product_type": "Shirts & Tops",
+    "title": "Sloane Kid's Top - SL220"
+  },
+  {
+    "handle": "sloane-top-sl218",
+    "product_type": "Shirts & Tops",
+    "title": "Sloane Top - SL218"
+  },
+  {
+    "handle": "polea-sl213",
+    "product_type": "Leotards & Unitards",
+    "title": "Polea - Curvy Sizes - SL213"
+  },
+  {
+    "handle": "gemina-sl212",
+    "product_type": "Leotards & Unitards",
+    "title": "Gemina - Curvy Sizes - SL212"
+  },
+  {
+    "handle": "maren-sl210",
+    "product_type": "Leotards & Unitards",
+    "title": "Maren - Curvy Sizes - SL210"
+  },
+  {
+    "handle": "marla-sl211",
+    "product_type": "Leotards & Unitards",
+    "title": "Marla - Curvy Sizes - SL211"
+  },
+  {
+    "handle": "anala-sl226",
+    "product_type": "Shirts & Tops",
+    "title": "Anala Sheer Long Sleeve Crop Top - SL226"
+  },
+  {
+    "handle": "vivara-sl177",
+    "product_type": "Shirts & Tops",
+    "title": "Vivara Mock Wrap - SL177"
+  },
+  {
+    "handle": "sissy-sl215",
+    "product_type": "Leotards & Unitards",
+    "title": "Sissy - SL215"
+  },
+  {
+    "handle": "sierra-sl214",
+    "product_type": "Leotards & Unitards",
+    "title": "Sierra - SL214"
+  },
+  {
+    "handle": "joyful-soles-bt50",
+    "product_type": "Shoes",
+    "title": "Joyful Soles Slippers - BT50"
+  },
+  {
+    "handle": "wynter-booties-bt30",
+    "product_type": "Shoes",
+    "title": "Wynter Warmup Booties - BT30"
+  },
+  {
+    "handle": "lacey-charms",
+    "product_type": "Charms & Pendants",
+    "title": "Lacey Schwimmer Shoe Charms - AC39,40,41"
+  },
+  {
+    "handle": "janus-jz45-child",
+    "product_type": "Shoes",
+    "title": "Janus - JZ45 Rubber Sole (Child)"
+  },
+  {
+    "handle": "sd120-mocha",
+    "product_type": "Shoes",
+    "title": "Brio - SD120 (Adult) Mocha"
+  },
+  {
+    "handle": "sl236-so-danca-hoodie",
+    "product_type": "Shirts & Tops",
+    "title": "Só Dança Hoodie - SL236"
+  },
+  {
+    "handle": "jace-jz85",
+    "product_type": "Shoes",
+    "title": "Jace - JZ85 (Adult)"
+  },
+  {
+    "handle": "java-jz43-child",
+    "product_type": "Shoes",
+    "title": "Java - JZ43 (Child)"
+  },
+  {
+    "handle": "jeanye-jz09",
+    "product_type": "Shoes",
+    "title": "Jeanye - JZ09 (Adult)"
+  },
+  {
+    "handle": "shoe-charms-ac45-49",
+    "product_type": "Charms & Pendants",
+    "title": "Shoe Charms - AC45-49"
+  },
+  {
+    "handle": "gift-wrapping",
+    "product_type": "",
+    "title": "Gift Wrapping"
+  },
+  {
+    "handle": "promo-t-shirt",
+    "product_type": "Activewear",
+    "title": "Tap Shirt - Event Item"
+  },
+  {
+    "handle": "mambo-bl300-bl301",
+    "product_type": "Shoes",
+    "title": "Mambo - BL300, BL301 (Adult)"
+  },
+  {
+    "handle": "cha-cha-bl304-bl305",
+    "product_type": "Shoes",
+    "title": "Cha Cha - BL304, BL305"
+  },
+  {
+    "handle": "jive-bl302",
+    "product_type": "Shoes",
+    "title": "Jive - BL302"
+  },
+  {
+    "handle": "tiler-peck-keychain-kc40",
+    "product_type": "Keychains",
+    "title": "Tiler Peck Mini Pointe Shoe Keychain - KC40"
+  },
+  {
+    "handle": "von-ch791vg",
+    "product_type": "Shoes",
+    "title": "Von - CH791VG"
+  },
+  {
+    "handle": "toe-tally-covered-toe-pads-ht07",
+    "product_type": "Shoe Accessories",
+    "title": "Pointe Shoe Toe-tally Covered Toe Pads - HT07"
+  },
+  {
+    "handle": "joniz-jz84as",
+    "product_type": "Shoes",
+    "title": "Joniz - JZ84As Suede Sole (Child)"
+  },
+  {
+    "handle": "jayze-jz84al",
+    "product_type": "Shoes",
+    "title": "Jayze - JZ84AL Suede Sole (Adult)"
+  },
+  {
+    "handle": "tillie-sl172",
+    "product_type": "Leotards & Unitards",
+    "title": "Tillie - SL172"
+  },
+  {
+    "handle": "truly-sl171",
+    "product_type": "Leotards & Unitards",
+    "title": "Truly - SL171"
+  },
+  {
+    "handle": "toshie-sd40c-stretch-canvas",
+    "product_type": "Shoes",
+    "title": "Toshie - SD40VC - Stretch Canvas"
+  },
+  {
+    "handle": "sd09c-stretch-canvas-sand-b",
+    "product_type": "Shoes",
+    "title": "SD09C - Stretch Canvas - Sand"
+  },
+  {
+    "handle": "claudia-sd09c-stretch-canvas",
+    "product_type": "Shoes",
+    "title": "Claudia - SD09C - Stretch Canvas"
+  },
+  {
+    "handle": "keilia-sl179",
+    "product_type": "Leotards & Unitards",
+    "title": "Keilia - SL179"
+  },
+  {
+    "handle": "marguerite-leggings-tp17",
+    "product_type": "Leggings",
+    "title": "Marguerite Leggings - TP17"
+  },
+  {
+    "handle": "marguerite-top-tp16",
+    "product_type": "Shirts & Tops",
+    "title": "Marguerite Long Sleeve Top - TP16"
+  },
+  {
+    "handle": "debbie-shorts-tp13",
+    "product_type": "Shorts",
+    "title": "Debbie Shorts - TP13"
+  },
+  {
+    "handle": "debbie-top-tp12",
+    "product_type": "Shirts & Tops",
+    "title": "Debbie Crop Top - TP12"
+  },
+  {
+    "handle": "tina-tpe09",
+    "product_type": "Leotards & Unitards",
+    "title": "Tina - TPE09"
+  },
+  {
+    "handle": "natasha-tpe22",
+    "product_type": "Leotards & Unitards",
+    "title": "Event Item - Natasha - TPE22"
+  },
+  {
+    "handle": "cali-backpack-bp04",
+    "product_type": "Backpacks",
+    "title": "Cali Backpack - BP04"
+  },
+  {
+    "handle": "flex-ac30",
+    "product_type": "Ballet Accessories",
+    "title": "Flex Kit - AC30"
+  },
+  {
+    "handle": "raphaela-bl504",
+    "product_type": "Shoes",
+    "title": "Raphaela - BL504"
+  },
+  {
+    "handle": "shipping",
+    "product_type": "",
+    "title": "Shipping"
+  },
+  {
+    "handle": "glue-teus-maximus-ac33",
+    "product_type": "Ballet Accessories",
+    "title": "GLUE-teus-MAXIMUS - AC33"
+  },
+  {
+    "handle": "jz75l",
+    "product_type": "Shoes",
+    "title": "JZ75L"
+  },
+  {
+    "handle": "tights-ts99",
+    "product_type": "Hosiery",
+    "title": "Child Mock Seamed Convertible Tights - TS99"
+  },
+  {
+    "handle": "tights-ts100",
+    "product_type": "Hosiery",
+    "title": "Adult Mock Seamed Convertible Tights - TS100"
+  },
+  {
+    "handle": "the-tutu-bag-bg699",
+    "product_type": "Backpacks",
+    "title": "The Tutu Bag - BG699"
+  },
+  {
+    "handle": "breast-cancer-awareness-tap-boots",
+    "product_type": "Shoes",
+    "title": "Breast Cancer Awareness Custom Pro Tap Boot - TA960"
+  },
+  {
+    "handle": "spirited-tap-boot-ta960",
+    "product_type": "Shoes",
+    "title": "Black-White Custom Pro Tap Boot - TA960"
+  },
+  {
+    "handle": "claudia-pointe-shoe-2",
+    "product_type": "Shoes",
+    "title": "SD09 - Satin"
+  },
+  {
+    "handle": "sd60l-adult-7",
+    "product_type": "",
+    "title": "SD60L (Adult)"
+  },
+  {
+    "handle": "rayna-shorts-sl170",
+    "product_type": "Shorts",
+    "title": "Rayna Child Shorts - SL170"
+  },
+  {
+    "handle": "raya-shorts-sl169",
+    "product_type": "Shorts",
+    "title": "Raya Adult Shorts - SL169"
+  },
+  {
+    "handle": "tham-ta68",
+    "product_type": "",
+    "title": "Tham - TA68 (Adult)"
+  },
+  {
+    "handle": "randy-bl188",
+    "product_type": "",
+    "title": "Randy - BL188"
+  },
+  {
+    "handle": "courtney-ch95",
+    "product_type": "",
+    "title": "Courtney - CH95"
+  },
+  {
+    "handle": "chloe-ch53",
+    "product_type": "",
+    "title": "Chloe - CH53"
+  },
+  {
+    "handle": "reorder-alina-ii",
+    "product_type": "Shoes",
+    "title": "Alina II Pointe Shoe - P90"
+  },
+  {
+    "handle": "reorder-alina-i",
+    "product_type": "Shoes",
+    "title": "Alina I Pointe Shoe - P88"
+  },
+  {
+    "handle": "ember-kids-top-sl206",
+    "product_type": "Shirts & Tops",
+    "title": "Ember Kid's Crop Top - SL206"
+  },
+  {
+    "handle": "ember-top-sl205",
+    "product_type": "Shirts & Tops",
+    "title": "Ember Crop Top - SL205"
+  },
+  {
+    "handle": "mystery-bag-leotard",
+    "product_type": "Leotards & Unitards",
+    "title": "Mystery Leotard"
+  },
+  {
+    "handle": "footsie-rolls-ac26",
+    "product_type": "Exercise Balls",
+    "title": "Footsie Rolls - AC26"
+  },
+  {
+    "handle": "harper-sl186",
+    "product_type": "Leotards & Unitards",
+    "title": "Harper - SL186"
+  },
+  {
+    "handle": "mirielle-sl208",
+    "product_type": "Leotards & Unitards",
+    "title": "Mirielle - SL208"
+  },
+  {
+    "handle": "show-kids-top-sl200",
+    "product_type": "Shirts & Tops",
+    "title": "Show Kid's Crop Top - SL200"
+  },
+  {
+    "handle": "show-top-sl199",
+    "product_type": "Shirts & Tops",
+    "title": "Show Crop Top - SL199"
+  },
+  {
+    "handle": "tricia-sl196",
+    "product_type": "Leotards & Unitards",
+    "title": "Tricia - Curvy Sizes - SL196"
+  },
+  {
+    "handle": "rida-sl207",
+    "product_type": "Shirts & Tops",
+    "title": "Rida Mock Wrap - SL207"
+  },
+  {
+    "handle": "frida-sl191",
+    "product_type": "Shirts & Tops",
+    "title": "Frida Mock Wrap - SL191"
+  },
+  {
+    "handle": "keilani-sl173",
+    "product_type": "Leotards & Unitards",
+    "title": "Keilani - SL173"
+  },
+  {
+    "handle": "tamsin-ta27",
+    "product_type": "Shoes",
+    "title": "Tamsin - TA27 (Adult)"
+  },
+  {
+    "handle": "tate-ta28",
+    "product_type": "Shoes",
+    "title": "Tate - TA28L (Adult)"
+  },
+  {
+    "handle": "merrick-md21",
+    "product_type": "Shoes",
+    "title": "Merrick - MD21"
+  },
+  {
+    "handle": "ruby-sd150",
+    "product_type": "Shoes",
+    "title": "Ruby - SD150"
+  },
+  {
+    "handle": "diamond-sd140",
+    "product_type": "Shoes",
+    "title": "Diamond - SD140 (Adult)"
+  },
+  {
+    "handle": "glow-control-towel",
+    "product_type": "Activewear",
+    "title": "Glow Control Towel - AC27"
+  },
+  {
+    "handle": "tyra-sl195",
+    "product_type": "Leotards & Unitards",
+    "title": "Tyra - Curvy Sizes -  SL195"
+  },
+  {
+    "handle": "briony-sl194",
+    "product_type": "Leotards & Unitards",
+    "title": "Briony - Curvy Sizes - SL194"
+  },
+  {
+    "handle": "leanne-sl193",
+    "product_type": "Leotards & Unitards",
+    "title": "Leanne - Curvy Sizes - SL193"
+  },
+  {
+    "handle": "kirsty-sl202",
+    "product_type": "Leotards & Unitards",
+    "title": "Kirsty - SL202"
+  },
+  {
+    "handle": "kirsten-sl201",
+    "product_type": "Leotards & Unitards",
+    "title": "Kirsten - SL201"
+  },
+  {
+    "handle": "miley-sl192",
+    "product_type": "Leotards & Unitards",
+    "title": "Miley - Curvy Sizes - SL192"
+  },
+  {
+    "handle": "kenna-sl197",
+    "product_type": "Leotards & Unitards",
+    "title": "Kenna - Curvy Sizes - SL197"
+  },
+  {
+    "handle": "nivi-leggings-sl198",
+    "product_type": "Pants",
+    "title": "Klera Leggings - Curvy Sizes - SL198"
+  },
+  {
+    "handle": "izzy-kids-leggings-sl204",
+    "product_type": "Pants",
+    "title": "Izzy Kid's Jazz Flared Pants - SL204"
+  },
+  {
+    "handle": "izzy-leggings-sl203",
+    "product_type": "Pants",
+    "title": "Izzy Jazz Flared Pants - SL203"
+  },
+  {
+    "handle": "hairclip",
+    "product_type": "Hair Accessories",
+    "title": "Casey - Hairclip"
+  },
+  {
+    "handle": "yvonna-sl184",
+    "product_type": "Leotards & Unitards",
+    "title": "Yvonna - Curvy Sizes - SL184"
+  },
+  {
+    "handle": "gal-sl183",
+    "product_type": "Leotards & Unitards",
+    "title": "Gal - Curvy Sizes - SL183"
+  },
+  {
+    "handle": "amaya-sl182",
+    "product_type": "Leotards & Unitards",
+    "title": "Amaya - Curvy Sizes - SL182"
+  },
+  {
+    "handle": "edileia-sl185",
+    "product_type": "Leotards & Unitards",
+    "title": "Edileia - Curvy Sizes - SL185"
+  },
+  {
+    "handle": "briar-sd110l",
+    "product_type": "Shoes",
+    "title": "Briar - SD110L (Adult)"
+  },
+  {
+    "handle": "ta35-toddler-55",
+    "product_type": "Shoes",
+    "title": "TA35 - Tan"
+  },
+  {
+    "handle": "ta35-toddler-69",
+    "product_type": "Shoes",
+    "title": "TA35 - Caramel"
+  },
+  {
+    "handle": "ta35-toddler-7",
+    "product_type": "Shoes",
+    "title": "TA35 - White"
+  },
+  {
+    "handle": "jz43-6",
+    "product_type": "Shoes",
+    "title": "JZ43 (Adult)"
+  },
+  {
+    "handle": "sd130-black",
+    "product_type": "Shoes",
+    "title": "SD130 - Black"
+  },
+  {
+    "handle": "sd130-white",
+    "product_type": "Shoes",
+    "title": "SD130 - White"
+  },
+  {
+    "handle": "sd130-sand",
+    "product_type": "Shoes",
+    "title": "SD130 - Sand"
+  },
+  {
+    "handle": "sd130-suntan",
+    "product_type": "Shoes",
+    "title": "SD130 - Suntan"
+  },
+  {
+    "handle": "sd69s-black",
+    "product_type": "Shoes",
+    "title": "SD69s - Black"
+  },
+  {
+    "handle": "sd69s-red",
+    "product_type": "Shoes",
+    "title": "SD69s - Red"
+  },
+  {
+    "handle": "sd69s-sand",
+    "product_type": "Shoes",
+    "title": "SD69s - Sand"
+  },
+  {
+    "handle": "sd69s-suntan",
+    "product_type": "Shoes",
+    "title": "SD69s - Suntan"
+  },
+  {
+    "handle": "sd69s-mocha",
+    "product_type": "Shoes",
+    "title": "SD69s - Mocha"
+  },
+  {
+    "handle": "sd69l-black",
+    "product_type": "Shoes",
+    "title": "SD69L - adult"
+  },
+  {
+    "handle": "sd09-pink-e",
+    "product_type": "Shoes",
+    "title": "SD09 - Satin"
+  },
+  {
+    "handle": "sd09-white-b",
+    "product_type": "Shoes",
+    "title": "SD09 - Satin"
+  },
+  {
+    "handle": "sd16-adult-7",
+    "product_type": "Shoes",
+    "title": "SD16 - White - (adult)"
+  },
+  {
+    "handle": "sd16-adult-70",
+    "product_type": "Shoes",
+    "title": "SD16 - Suntan - (adult)"
+  },
+  {
+    "handle": "sd16-adult-9",
+    "product_type": "Shoes",
+    "title": "SD16 - Sand - (adult)"
+  },
+  {
+    "handle": "sd16-adult-120",
+    "product_type": "Shoes",
+    "title": "SD16 - Mocha - (adult)"
+  },
+  {
+    "handle": "sd16-adult-68",
+    "product_type": "Shoes",
+    "title": "SD16 - Light Grey - (adult)"
+  },
+  {
+    "handle": "bliss-sd16-child",
+    "product_type": "Shoes",
+    "title": "Bliss Stretch Canvas - SD16 (Child)"
+  },
+  {
+    "handle": "sd16vg-child-9",
+    "product_type": "Shoes",
+    "title": "SD16VG - (adult)"
+  },
+  {
+    "handle": "toshie-pointe-shoe-9",
+    "product_type": "Shoes",
+    "title": "SD40 - Satin"
+  },
+  {
+    "handle": "toshie-pointe-shoe-7",
+    "product_type": "Shoes",
+    "title": "SD40 - Satin"
+  },
+  {
+    "handle": "toshie-pointe-shoe-6",
+    "product_type": "Shoes",
+    "title": "SD40 - Satin"
+  },
+  {
+    "handle": "toshie-pointe-shoe-5",
+    "product_type": "Shoes",
+    "title": "SD40 - Satin"
+  },
+  {
+    "handle": "toshie-pointe-shoe-3",
+    "product_type": "Shoes",
+    "title": "SD40 - Satin"
+  },
+  {
+    "handle": "toshie-pointe-shoe-2",
+    "product_type": "Shoes",
+    "title": "SD40 - Satin"
+  },
+  {
+    "handle": "claudia-pointe-shoe-4",
+    "product_type": "Shoes",
+    "title": "SD09 - Satin"
+  },
+  {
+    "handle": "sd69s-white",
+    "product_type": "Shoes",
+    "title": "SD69s - White"
+  },
+  {
+    "handle": "evelyn-skirt-sl227",
+    "product_type": "Skirts",
+    "title": "Evelyn Skirt - SL227"
+  },
+  {
+    "handle": "sd16vg-child",
+    "product_type": "Shoes",
+    "title": "Verdi - SD16VG (Child)"
+  },
+  {
+    "handle": "booties-bt40",
+    "product_type": "Shoes",
+    "title": "Wesley Warmup Booties - BT40"
+  },
+  {
+    "handle": "lucille-sl174",
+    "product_type": "Leotards & Unitards",
+    "title": "Lucille - SL174"
+  },
+  {
+    "handle": "luci-sl175",
+    "product_type": "Leotards & Unitards",
+    "title": "Luci - SL175"
+  },
+  {
+    "handle": "yvonnette-sl166",
+    "product_type": "Leotards & Unitards",
+    "title": "Yvonnette - SL166"
+  },
+  {
+    "handle": "yvonne-sl165",
+    "product_type": "Leotards & Unitards",
+    "title": "Yvonne - SL165"
+  },
+  {
+    "handle": "quartz-ta26",
+    "product_type": "Shoes",
+    "title": "Quartz - TA26 (Adult)"
+  },
+  {
+    "handle": "quin-ta25",
+    "product_type": "Shoes",
+    "title": "Quin - TA25 (Child)"
+  },
+  {
+    "handle": "braydon-slb75l",
+    "product_type": "Shoes",
+    "title": "Braydon - SLB75L (Adult)"
+  },
+  {
+    "handle": "bray-slb75s",
+    "product_type": "Shoes",
+    "title": "Bray - SLB75s (Child)"
+  },
+  {
+    "handle": "silicone-toe-pads-ht03",
+    "product_type": "Shoe Accessories",
+    "title": "Pointe Shoe Silicone Toe Pads - HT03"
+  },
+  {
+    "handle": "nylon-toe-pads-ht02",
+    "product_type": "Shoe Accessories",
+    "title": "Pointe Shoe Toe Pads - HT02"
+  },
+  {
+    "handle": "sorsha-sl176",
+    "product_type": "Leotards & Unitards",
+    "title": "Sorsha - SL176"
+  },
+  {
+    "handle": "riya-adult-body-liner-shorts-ug211",
+    "product_type": "Bodyliner",
+    "title": "Riya Adult Body Liner Shorts - UG211"
+  },
+  {
+    "handle": "lyra-adult-body-liner-briefs-ug210",
+    "product_type": "Bodyliner",
+    "title": "Lyra Adult Body Liner Briefs - UG210"
+  },
+  {
+    "handle": "luella-tank-body-liner-ug213",
+    "product_type": "Camisole Bodyliner",
+    "title": "Luella Tank Body Liner - UG213"
+  },
+  {
+    "handle": "paloma-body-liner-ug212",
+    "product_type": "Camisole Bodyliner",
+    "title": "Paloma Camisole Body Liner - UG212"
+  },
+  {
+    "handle": "chana-body-liner-top-ug209",
+    "product_type": "Bodyliner",
+    "title": "Chana Body Liner Top - UG209"
+  },
+  {
+    "handle": "nina-dance-bra-top-ug203",
+    "product_type": "Bodyliner",
+    "title": "Nina Child Body Liner Bra - UG203"
+  },
+  {
+    "handle": "stark-biketard-ug217",
+    "product_type": "One-Pieces",
+    "title": "Stark Biketard - UG217 (Men)"
+  },
+  {
+    "handle": "tyrian-leotard-ug218",
+    "product_type": "One-Pieces",
+    "title": "Tyrian Leotard - UG218 (Men)"
+  },
+  {
+    "handle": "beau-tights-ug216",
+    "product_type": "Tights",
+    "title": "Beau Tights - UG216 (Men)"
+  },
+  {
+    "handle": "milo-top-ug215",
+    "product_type": "Shirts & Tops",
+    "title": "Milo Top - UG215 (Men)"
+  },
+  {
+    "handle": "logan-shorts-ug222",
+    "product_type": "Shorts",
+    "title": "Logan Biker Shorts - UG222 (Men)"
+  },
+  {
+    "handle": "luca-shorts-ug221",
+    "product_type": "Shorts",
+    "title": "Luca Shorts - UG221 (Men)"
+  },
+  {
+    "handle": "maverick-ug220",
+    "product_type": "Quilted Dance Belt",
+    "title": "Maverick Dance Belt - UG220 (Men)"
+  },
+  {
+    "handle": "leonardo-ug219",
+    "product_type": "Quilted Dance Belt",
+    "title": "Leonardo Dance Belt - UG219 (Men)"
+  },
+  {
+    "handle": "tap-shoe-cover-ac25",
+    "product_type": "Shoes",
+    "title": "Tap Shoe Cover - AC25"
+  },
+  {
+    "handle": "baxley-sd130",
+    "product_type": "Shoes",
+    "title": "Baxley - SD130"
+  },
+  {
+    "handle": "breast-cancer-awareness-ta880e",
+    "product_type": "Shoes",
+    "title": "Breast Cancer Awareness Custom Pro Tap Shoe - TA880 (Women)"
+  },
+  {
+    "handle": "fran-sl168",
+    "product_type": "Leotards & Unitards",
+    "title": "Fran - SL168"
+  },
+  {
+    "handle": "franca-sl167",
+    "product_type": "Leotards & Unitards",
+    "title": "Franca - SL167"
+  },
+  {
+    "handle": "tarryn-ta851v",
+    "product_type": "Shoes",
+    "title": "Tarryn - TA851V"
+  },
+  {
+    "handle": "camille-sl234",
+    "product_type": "Skirts",
+    "title": "Camille Wrap Skirt - Curvy Sizes - SL234"
+  },
+  {
+    "handle": "titus-ta861v",
+    "product_type": "Shoes",
+    "title": "Titus - TA861V"
+  },
+  {
+    "handle": "violet-sd124vg-child",
+    "product_type": "Shoes",
+    "title": "Violet - SD124VG (Child)"
+  },
+  {
+    "handle": "gatsby-cl02",
+    "product_type": "Shoes",
+    "title": "Gatsby - CL02 (Adult)"
+  },
+  {
+    "handle": "breeze-cl01s",
+    "product_type": "Shoes",
+    "title": "Breeze - CL01s (Child)"
+  },
+  {
+    "handle": "breezy-cl01l",
+    "product_type": "Shoes",
+    "title": "Breezy - CL01L (Adult)"
+  },
+  {
+    "handle": "zola-ta47s",
+    "product_type": "Shoes",
+    "title": "Zola - TA47s (Child)"
+  },
+  {
+    "handle": "muriel-ro14",
+    "product_type": "Shoes",
+    "title": "Muriel - RO14"
+  },
+  {
+    "handle": "kylie-kids-top-sl146",
+    "product_type": "Shirts & Tops",
+    "title": "Kylie Kid's Top - SL146"
+  },
+  {
+    "handle": "kylia-top-sl145",
+    "product_type": "Shirts & Tops",
+    "title": "Kylia Top - SL145"
+  },
+  {
+    "handle": "layla-kids-top-sl144",
+    "product_type": "Shirts & Tops",
+    "title": "Layla Kid's Top - SL144"
+  },
+  {
+    "handle": "layla-top-sl143",
+    "product_type": "Shirts & Tops",
+    "title": "Layla Top - SL143"
+  },
+  {
+    "handle": "greta-kids-top-sl142",
+    "product_type": "Shirts & Tops",
+    "title": "Greta Kid's Top - SL142"
+  },
+  {
+    "handle": "greta-top-sl141",
+    "product_type": "Shirts & Tops",
+    "title": "Greta Top - SL141"
+  },
+  {
+    "handle": "gillian-sl123",
+    "product_type": "Leotards & Unitards",
+    "title": "Gillian - SL123"
+  },
+  {
+    "handle": "christabel-sl122",
+    "product_type": "Leotards & Unitards",
+    "title": "Christabel - SL122"
+  },
+  {
+    "handle": "talulla-sl121",
+    "product_type": "Leotards & Unitards",
+    "title": "Talulla - SL121"
+  },
+  {
+    "handle": "lucinda-sl120",
+    "product_type": "Leotards & Unitards",
+    "title": "Lucinda - SL120"
+  },
+  {
+    "handle": "yoli-skirt-sl148",
+    "product_type": "Skirts",
+    "title": "Yoli Child Pull On Skirt - SL148"
+  },
+  {
+    "handle": "yolanda-skirt-sl147",
+    "product_type": "Skirts",
+    "title": "Yolanda Pull On Skirt - SL147"
+  },
+  {
+    "handle": "yasmina-skirt-sl150",
+    "product_type": "Skirts",
+    "title": "Yasmina Kid's Pull On Skirt - SL150"
+  },
+  {
+    "handle": "yasmin-skirt-sl149",
+    "product_type": "Skirts",
+    "title": "Yasmin Pull On Skirt - SL149"
+  },
+  {
+    "handle": "klera-kids-leggings-sl156",
+    "product_type": "Leggings",
+    "title": "Klera Kid's Leggings - SL156"
+  },
+  {
+    "handle": "klera-pants-sl155",
+    "product_type": "Leggings",
+    "title": "Klera Leggings - SL155"
+  },
+  {
+    "handle": "fara-kids-pants-sl154",
+    "product_type": "Leggings",
+    "title": "Fara Kid's Capri Pants - SL154"
+  },
+  {
+    "handle": "fara-leggings-sl153",
+    "product_type": "Pants",
+    "title": "Fara Capri Pants - SL153"
+  },
+  {
+    "handle": "ekta-kids-leggings-sl152",
+    "product_type": "Leggings",
+    "title": "Ekta Kid's Below the Knee Leggings - SL152"
+  },
+  {
+    "handle": "ekta-pants-sl151",
+    "product_type": "Leggings",
+    "title": "Ekta Below the Knee Leggings - SL151"
+  },
+  {
+    "handle": "nikita-sl140",
+    "product_type": "Leotards & Unitards",
+    "title": "Nikita - SL140"
+  },
+  {
+    "handle": "fab-deb-sl139",
+    "product_type": "Leotards & Unitards",
+    "title": "Fab Deb - SL139"
+  },
+  {
+    "handle": "gemette-sl128",
+    "product_type": "Leotards & Unitards",
+    "title": "Gemette - SL128"
+  },
+  {
+    "handle": "gem-sl127",
+    "product_type": "Leotards & Unitards",
+    "title": "Gem - SL127"
+  },
+  {
+    "handle": "enya-sl133",
+    "product_type": "Leotards & Unitards",
+    "title": "Enya - SL133"
+  },
+  {
+    "handle": "gionata-sl126",
+    "product_type": "Leotards & Unitards",
+    "title": "Gionata - SL126"
+  },
+  {
+    "handle": "edda-sl115",
+    "product_type": "Leotards & Unitards",
+    "title": "Edda - SL115"
+  },
+  {
+    "handle": "editta-sl116",
+    "product_type": "Leotards & Unitards",
+    "title": "Editta - SL116"
+  },
+  {
+    "handle": "java-jz43",
+    "product_type": "Shoes",
+    "title": "Java - JZ43 (Adult)"
+  },
+  {
+    "handle": "joelle-sl132",
+    "product_type": "Leotards & Unitards",
+    "title": "Joelle - SL132"
+  },
+  {
+    "handle": "josephine-sl131",
+    "product_type": "Leotards & Unitards",
+    "title": "Josephine - SL131"
+  },
+  {
+    "handle": "charmaine-sl119",
+    "product_type": "Leotards & Unitards",
+    "title": "Charmaine - SL119"
+  },
+  {
+    "handle": "flametta-sl114",
+    "product_type": "Leotards & Unitards",
+    "title": "Flametta - SL114"
+  },
+  {
+    "handle": "flamma-sl113",
+    "product_type": "Leotards & Unitards",
+    "title": "Flamma - SL113"
+  },
+  {
+    "handle": "so-danca-usa-gift-card-1",
+    "product_type": "Gift Card",
+    "title": "Só Dança Gift Cards"
+  },
+  {
+    "handle": "sd34",
+    "product_type": "Shoes",
+    "title": "Aurora - SD34 - Satin"
+  },
+  {
+    "handle": "perla-sl136",
+    "product_type": "Leotards & Unitards",
+    "title": "Perla - SL136"
+  },
+  {
+    "handle": "copy-of-cindy-ch60l-1",
+    "product_type": "Shoes",
+    "title": "Cyra - CH60s (Child)"
+  },
+  {
+    "handle": "ch62",
+    "product_type": "Shoes",
+    "title": "Callista - CH62 (Adult)"
+  },
+  {
+    "handle": "cloud-booties-bt20",
+    "product_type": "Shoes",
+    "title": "Cloud Warmup Booties - BT20"
+  },
+  {
+    "handle": "kai-pants-sl158",
+    "product_type": "Pants",
+    "title": "Kai Pants - SL158"
+  },
+  {
+    "handle": "hai-jacket-sl157",
+    "product_type": "Coats & Jackets",
+    "title": "Hai Jacket - SL157"
+  },
+  {
+    "handle": "winn-bt10",
+    "product_type": "Shoes",
+    "title": "Avocado Warmup Booties - BT10"
+  },
+  {
+    "handle": "jessie-jk01",
+    "product_type": "Coats & Jackets",
+    "title": "So Danca Jacket - JK01"
+  },
+  {
+    "handle": "zenith-ta200",
+    "product_type": "Shoes",
+    "title": "Zenith - TA200"
+  },
+  {
+    "handle": "rebecca-bl156",
+    "product_type": "Shoes",
+    "title": "Rebecca - BL156"
+  },
+  {
+    "handle": "bailey-sd48s",
+    "product_type": "Shoes",
+    "title": "Bailey - SD48s (Child)"
+  },
+  {
+    "handle": "bridget-sd48l",
+    "product_type": "Shoes",
+    "title": "Bridget - SD48L (Adult)"
+  },
+  {
+    "handle": "franco-kid-top-sl112",
+    "product_type": "Shirts & Tops",
+    "title": "Franco Kid's Top - SL112 (Boys)"
+  },
+  {
+    "handle": "jacob-kids-tights-sl160",
+    "product_type": "Pants",
+    "title": "Jacob Boy Tights - SL160 (Boys)"
+  },
+  {
+    "handle": "jacob-tights-sl159",
+    "product_type": "Tights",
+    "title": "Jacob Men Tights - SL159 (Men)"
+  },
+  {
+    "handle": "terrie-ta47l",
+    "product_type": "Shoes",
+    "title": "Terrie - TA47L (Adult)"
+  },
+  {
+    "handle": "jennifer-sl06",
+    "product_type": "Leotards & Unitards",
+    "title": "Jennifer - SL06"
+  },
+  {
+    "handle": "you-mocha-me-crazy-ac19",
+    "product_type": "Clothing Accessories",
+    "title": "You Mocha Me Crazy - AC19"
+  },
+  {
+    "handle": "melinda-ro12l",
+    "product_type": "Shoes",
+    "title": "Melinda - RO12L"
+  },
+  {
+    "handle": "melody-ro12s",
+    "product_type": "Shoes",
+    "title": "Melody - RO12s"
+  },
+  {
+    "handle": "joni-jz84s",
+    "product_type": "Shoes",
+    "title": "Joni - JZ84s Rubber Sole (Child)"
+  },
+  {
+    "handle": "jay-jz84l",
+    "product_type": "Shoes",
+    "title": "Jay - JZ84L Rubber Sole (Adult)"
+  },
+  {
+    "handle": "pratish-sl03",
+    "product_type": "Leotards & Unitards",
+    "title": "Patrish - SL03"
+  },
+  {
+    "handle": "cindy-ch60l",
+    "product_type": "Shoes",
+    "title": "Cindy - CH60L (Adult)"
+  },
+  {
+    "handle": "teigan-ta780b",
+    "product_type": "Shoes",
+    "title": "Teigan - TA780B (Men)"
+  },
+  {
+    "handle": "taliyah-ta880b",
+    "product_type": "Shoes",
+    "title": "Taliyah - TA880B (Women)"
+  },
+  {
+    "handle": "tinley-ta880a",
+    "product_type": "Shoes",
+    "title": "Tinley - TA880A (Women)"
+  },
+  {
+    "handle": "tanner-ta780a",
+    "product_type": "Shoes",
+    "title": "Tanner - TA780A (Men)"
+  },
+  {
+    "handle": "tyrone-ta780c",
+    "product_type": "Shoes",
+    "title": "Tyrone - TA780C (Men)"
+  },
+  {
+    "handle": "tamia-ta880d",
+    "product_type": "Shoes",
+    "title": "Tamia - TA880D (Women)"
+  },
+  {
+    "handle": "titus-ta780d",
+    "product_type": "Shoes",
+    "title": "Titus - TA780D (Men)"
+  },
+  {
+    "handle": "tianna-ta880c",
+    "product_type": "Shoes",
+    "title": "Tianna - TA880C (Women)"
+  },
+  {
+    "handle": "jada-jz75l",
+    "product_type": "Shoes",
+    "title": "Jada - JZ75L (Adult)"
+  },
+  {
+    "handle": "trinity-ta880",
+    "product_type": "Shoes",
+    "title": "Trinity - TA880 (Women)"
+  },
+  {
+    "handle": "tristan-ta780",
+    "product_type": "Shoes",
+    "title": "Tristan - TA780 (Men)"
+  },
+  {
+    "handle": "tambourine-ta860",
+    "product_type": "Shoes",
+    "title": "Tambourine - TA860"
+  },
+  {
+    "handle": "tempo-ta850",
+    "product_type": "Shoes",
+    "title": "Tempo - TA850"
+  },
+  {
+    "handle": "star-dk69",
+    "product_type": "Shoes",
+    "title": "Star Child Sneaker - DK69"
+  },
+  {
+    "handle": "tamlin-ta805v",
+    "product_type": "Shoes",
+    "title": "Tamlin - TA805V (Women)"
+  },
+  {
+    "handle": "tayla-ta800v",
+    "product_type": "Shoes",
+    "title": "Tayla - TA800V (Women)"
+  },
+  {
+    "handle": "timber-ta705v",
+    "product_type": "Shoes",
+    "title": "Timber - TA705V (Men)"
+  },
+  {
+    "handle": "theron-ta700v",
+    "product_type": "Shoes",
+    "title": "Theron - TA700V (Men)"
+  },
+  {
+    "handle": "paolina-sl130",
+    "product_type": "Leotards & Unitards",
+    "title": "Paolina - SL130"
+  },
+  {
+    "handle": "paola-sl129",
+    "product_type": "Leotards & Unitards",
+    "title": "Paola - SL129"
+  },
+  {
+    "handle": "gaia-sl117",
+    "product_type": "Leotards & Unitards",
+    "title": "Gaia - SL117"
+  },
+  {
+    "handle": "galilea-sl118",
+    "product_type": "Leotards & Unitards",
+    "title": "Galilea - SL118"
+  },
+  {
+    "handle": "carly-ch09",
+    "product_type": "Shoes",
+    "title": "Carly - CH09"
+  },
+  {
+    "handle": "sl94",
+    "product_type": "Headbands",
+    "title": "Kid's Ballet Headband - SL94"
+  },
+  {
+    "handle": "gioconda-sl96",
+    "product_type": "Leotards & Unitards",
+    "title": "Gioconda - SL96"
+  },
+  {
+    "handle": "lorna-sl106",
+    "product_type": "Leotards & Unitards",
+    "title": "Lorna - SL106"
+  },
+  {
+    "handle": "lorena-sl105",
+    "product_type": "Leotards & Unitards",
+    "title": "Lorena - SL105"
+  },
+  {
+    "handle": "lory-sl104",
+    "product_type": "Leotards & Unitards",
+    "title": "Lory - SL104"
+  },
+  {
+    "handle": "tap-keychain-kc14",
+    "product_type": "Keychains",
+    "title": "Tap Keychain - KC14"
+  },
+  {
+    "handle": "vero-sbsd1",
+    "product_type": "Luggage & Bags",
+    "title": "Vero Bag - SBSD1"
+  },
+  {
+    "handle": "lois-sl93",
+    "product_type": "Skirts",
+    "title": "Lois Pull On Skirt - SL93"
+  },
+  {
+    "handle": "sl134",
+    "product_type": "Leotards & Unitards",
+    "title": "Eva - SL134"
+  },
+  {
+    "handle": "sbsd-parent",
+    "product_type": "",
+    "title": "Sticker Patches - SBSD"
+  },
+  {
+    "handle": "ts87",
+    "product_type": "Hosiery",
+    "title": "Child Fishnet Tights - TS87"
+  },
+  {
+    "handle": "nancy-skirt-sl66",
+    "product_type": "Skirts",
+    "title": "Nancy Wrap Skirt - SL66"
+  },
+  {
+    "handle": "toulon-skirt-sl65",
+    "product_type": "Skirts",
+    "title": "Toulon Child Wrap Skirt - SL65"
+  },
+  {
+    "handle": "marley-sl21",
+    "product_type": "Leotards & Unitards",
+    "title": "Marley - SL21"
+  },
+  {
+    "handle": "loire-sl64",
+    "product_type": "Skirts",
+    "title": "Loire Wrap Skirt - SL64"
+  },
+  {
+    "handle": "mari-sl20",
+    "product_type": "Leotards & Unitards",
+    "title": "Mari - SL20"
+  },
+  {
+    "handle": "lynn-sl19",
+    "product_type": "Leotards & Unitards",
+    "title": "Lynn - SL19"
+  },
+  {
+    "handle": "marilyn-sl18",
+    "product_type": "Leotards & Unitards",
+    "title": "Marilyn - SL18"
+  },
+  {
+    "handle": "florence-skirt-sl61",
+    "product_type": "Skirts",
+    "title": "Florence Pull On Child Skirt - SL61"
+  },
+  {
+    "handle": "ankara-skirt-sl60",
+    "product_type": "Skirts",
+    "title": "Ankara Wrap Skirt - SL60"
+  },
+  {
+    "handle": "alli-sl83",
+    "product_type": "Shorts",
+    "title": "Alli - SL83"
+  },
+  {
+    "handle": "bellino-skirt-sl63",
+    "product_type": "Skirts",
+    "title": "Bellino Pull On Child Skirt - SL63"
+  },
+  {
+    "handle": "loretta-sl22",
+    "product_type": "Leotards & Unitards",
+    "title": "Loretta - SL22"
+  },
+  {
+    "handle": "allison-sl82",
+    "product_type": "Shorts",
+    "title": "Allison - SL82"
+  },
+  {
+    "handle": "tilly-sl17",
+    "product_type": "Leotards & Unitards",
+    "title": "Tilly - SL17"
+  },
+  {
+    "handle": "matilda-sl16",
+    "product_type": "Leotards & Unitards",
+    "title": "Matilda - SL16"
+  },
+  {
+    "handle": "camilla-sl14",
+    "product_type": "Leotards & Unitards",
+    "title": "Camilla - SL14"
+  },
+  {
+    "handle": "millie-sl11",
+    "product_type": "Leotards & Unitards",
+    "title": "Millie - SL11"
+  },
+  {
+    "handle": "cami-sl15",
+    "product_type": "Leotards & Unitards",
+    "title": "Cami  - SL15"
+  },
+  {
+    "handle": "olivia-sl08",
+    "product_type": "Leotards & Unitards",
+    "title": "Olivia - SL08"
+  },
+  {
+    "handle": "jenny-sl07",
+    "product_type": "Leotards & Unitards",
+    "title": "Jenny - SL07"
+  },
+  {
+    "handle": "patricia-sl02",
+    "product_type": "Leotards & Unitards",
+    "title": "Patricia - SL02"
+  },
+  {
+    "handle": "amelia-sl10",
+    "product_type": "Leotards & Unitards",
+    "title": "Amelia - SL10"
+  },
+  {
+    "handle": "stephanie-sl04",
+    "product_type": "Leotards & Unitards",
+    "title": "Stephanie - SL04"
+  },
+  {
+    "handle": "steffi-sl05",
+    "product_type": "Leotards & Unitards",
+    "title": "Steffi - SL05"
+  },
+  {
+    "handle": "aubrey-sl80",
+    "product_type": "Shorts",
+    "title": "Aubrey - SL80"
+  },
+  {
+    "handle": "beatrice-sl12",
+    "product_type": "Leotards & Unitards",
+    "title": "Beatrice - SL12"
+  },
+  {
+    "handle": "livy-sl09",
+    "product_type": "Leotards & Unitards",
+    "title": "Livy - SL09"
+  },
+  {
+    "handle": "sl81",
+    "product_type": "Shorts",
+    "title": "Bree - SL81"
+  },
+  {
+    "handle": "trissie-sl13",
+    "product_type": "Leotards & Unitards",
+    "title": "Trissie - SL13"
+  },
+  {
+    "handle": "ts95",
+    "product_type": "Hosiery",
+    "title": "Child Mesh Seamed Convertible Tights - TS95"
+  },
+  {
+    "handle": "ts96",
+    "product_type": "Hosiery",
+    "title": "Adult Mesh Seamed Convertible Tights - TS96"
+  },
+  {
+    "handle": "ts98",
+    "product_type": "Hosiery",
+    "title": "Adult Fishnet Tights - TS98"
+  },
+  {
+    "handle": "polina-sl135",
+    "product_type": "Leotards & Unitards",
+    "title": "Polina - SL135"
+  },
+  {
+    "handle": "desiree-sl109",
+    "product_type": "Leotards & Unitards",
+    "title": "Desiree - SL109"
+  },
+  {
+    "handle": "marcelle-sl137",
+    "product_type": "Leotards & Unitards",
+    "title": "Marcelle - SL137"
+  },
+  {
+    "handle": "dorotea-dance-brief-ug208",
+    "product_type": "Bodyliner",
+    "title": "Dorotea Adult Body Liner Briefs - UG208"
+  },
+  {
+    "handle": "sabrina-ug204",
+    "product_type": "Bodyliner",
+    "title": "Sabrina Adult Body Liner Bra - UG204"
+  },
+  {
+    "handle": "antonella-ug202",
+    "product_type": "Camisole Bodyliner",
+    "title": "Antonella Body Liner - UG202"
+  },
+  {
+    "handle": "ts78",
+    "product_type": "Hosiery",
+    "title": "Adult Stirrup Tights - TS78"
+  },
+  {
+    "handle": "ts70",
+    "product_type": "Hosiery",
+    "title": "Adult Footless Tights - TS70"
+  },
+  {
+    "handle": "ts74",
+    "product_type": "Hosiery",
+    "title": "Adult Footed Tights - TS74"
+  },
+  {
+    "handle": "ts81",
+    "product_type": "Hosiery",
+    "title": "Child Convertible Tights - TS81"
+  },
+  {
+    "handle": "tea-ug207",
+    "product_type": "Bodyliner",
+    "title": "Tea Child Body Liner Brief - UG207"
+  },
+  {
+    "handle": "ts77",
+    "product_type": "Hosiery",
+    "title": "Child Stirrup Tights - TS77"
+  },
+  {
+    "handle": "ella-ug201",
+    "product_type": "Leotards & Unitards",
+    "title": "Ella Child Body Liner- UG201"
+  },
+  {
+    "handle": "ts73",
+    "product_type": "Hosiery",
+    "title": "Child Footed Tights - TS73"
+  },
+  {
+    "handle": "ts69",
+    "product_type": "Hosiery",
+    "title": "Child Footless Tights - TS69"
+  },
+  {
+    "handle": "ts82",
+    "product_type": "Hosiery",
+    "title": "Adult Convertible Tights - TS82"
+  },
+  {
+    "handle": "pointe-shoe-cover-ac12",
+    "product_type": "Apparel & Accessories",
+    "title": "Pointe Shoe Cover - AC12, MB68"
+  },
+  {
+    "handle": "marlie-sl125",
+    "product_type": "Leotards & Unitards",
+    "title": "Marlie - SL125"
+  },
+  {
+    "handle": "marvel-md18",
+    "product_type": "Shoes",
+    "title": "Marvel - MD18"
+  },
+  {
+    "handle": "pointe-keychain-kc40",
+    "product_type": "Keychains",
+    "title": "Mini Pointe Shoe Keychain - KC40"
+  },
+  {
+    "handle": "mini-sneaker-keychain-kc06",
+    "product_type": "Keychains",
+    "title": "Mini Dance Sneaker Keychain - KC06"
+  },
+  {
+    "handle": "mini-jazz-boot-keychain-kc05",
+    "product_type": "Keychains",
+    "title": "Mini Jazz Boot Keychain - KC05"
+  },
+  {
+    "handle": "mini-jazz-shoe-keychain-kc04",
+    "product_type": "Apparel & Accessories",
+    "title": "Mini Jazz Shoe Keychain - KC04"
+  },
+  {
+    "handle": "ashley-sl27",
+    "product_type": "Leotards & Unitards",
+    "title": "Ashley - SL27"
+  },
+  {
+    "handle": "margaret-sl25",
+    "product_type": "Leotards & Unitards",
+    "title": "Margaret - SL25"
+  },
+  {
+    "handle": "maggie-sl26",
+    "product_type": "Leotards & Unitards",
+    "title": "Maggie - SL26"
+  },
+  {
+    "handle": "lyon-skirt-sl67",
+    "product_type": "Skirts",
+    "title": "Lyon Wrap Skirt - SL67"
+  },
+  {
+    "handle": "marlena-sl124",
+    "product_type": "Leotards & Unitards",
+    "title": "Marlena - SL124"
+  },
+  {
+    "handle": "franco-top-sl111",
+    "product_type": "Shirts & Tops",
+    "title": "Franco Top - SL111 (Men)"
+  },
+  {
+    "handle": "lyonese-skirt-sl68",
+    "product_type": "Skirts",
+    "title": "Lyonese Child Wrap Skirt - SL68"
+  },
+  {
+    "handle": "tory-ta04",
+    "product_type": "Shoes",
+    "title": "Tory - TA04 (Child)"
+  },
+  {
+    "handle": "claudia-sd09",
+    "product_type": "Shoes",
+    "title": "Claudia - SD09 - Satin"
+  },
+  {
+    "handle": "sd40v",
+    "product_type": "Shoes",
+    "title": "Toshie - SD40V - Satin"
+  },
+  {
+    "handle": "mystery-bags",
+    "product_type": "Mystery Bag",
+    "title": "Mystery Blind Bag - 4 items total"
+  },
+  {
+    "handle": "home-stretch-ac18",
+    "product_type": "Ribbons & Trim",
+    "title": "Home Stretch Ribbons - AC18"
+  },
+  {
+    "handle": "tap-shoe-cover-ac11",
+    "product_type": "Shoes",
+    "title": "Tap Shoe Cover - AC11"
+  },
+  {
+    "handle": "sew-what-st01",
+    "product_type": "Stitch Kit",
+    "title": "Sew What? Stitch Kit - ST01"
+  },
+  {
+    "handle": "renee-bl502",
+    "product_type": "Shoes",
+    "title": "Renee - BL502"
+  },
+  {
+    "handle": "roxanne-bl33",
+    "product_type": "Shoes",
+    "title": "Roxanne - BL33"
+  },
+  {
+    "handle": "rosalina-bl166",
+    "product_type": "Shoes",
+    "title": "Rosalina - BL166"
+  },
+  {
+    "handle": "mischa-ba42",
+    "product_type": "Shoes",
+    "title": "Mischa Turners - BA42"
+  },
+  {
+    "handle": "miki-md16",
+    "product_type": "Shoes",
+    "title": "Miki Turners - MD16"
+  },
+  {
+    "handle": "ta38",
+    "product_type": "Shoes",
+    "title": "Tali - TA38 (Adult)"
+  },
+  {
+    "handle": "ta37",
+    "product_type": "Shoes",
+    "title": "Taki - TA37 (Child)"
+  },
+  {
+    "handle": "slt34",
+    "product_type": "Shoes",
+    "title": "Tamar - SLT34 (Adult)"
+  },
+  {
+    "handle": "gy10s",
+    "product_type": "Shoes",
+    "title": "Gwyn - GY10s (Child)"
+  },
+  {
+    "handle": "gwynet-gy10l",
+    "product_type": "Shoes",
+    "title": "Gwynet - GY10L (Adult)"
+  },
+  {
+    "handle": "bl198",
+    "product_type": "Shoes",
+    "title": "Rinnah - BL198"
+  },
+  {
+    "handle": "rava-bl194",
+    "product_type": "Shoes",
+    "title": "Rava - BL194"
+  },
+  {
+    "handle": "rylee-shoe",
+    "product_type": "Shoes",
+    "title": "Rylee - BL190"
+  },
+  {
+    "handle": "jemy-z83s",
+    "product_type": "Shoes",
+    "title": "Jemy - JZ83s (Child)"
+  },
+  {
+    "handle": "jem-jz83l",
+    "product_type": "Shoes",
+    "title": "Jem - JZ83L (Adult)"
+  },
+  {
+    "handle": "jazy-jz82s",
+    "product_type": "Shoes",
+    "title": "Jazy - JZ82s (Child)"
+  },
+  {
+    "handle": "jaz-jz82l",
+    "product_type": "Shoes",
+    "title": "Jaz - JZ82L (Adult)"
+  },
+  {
+    "handle": "jedi-jz55l",
+    "product_type": "Shoes",
+    "title": "Jedi - JZ55L (Adult)"
+  },
+  {
+    "handle": "ryder-bl192",
+    "product_type": "Shoes",
+    "title": "Ryder - BL192"
+  },
+  {
+    "handle": "wade-ta70",
+    "product_type": "Shoes",
+    "title": "Wade - TA70 (Adult)"
+  },
+  {
+    "handle": "vernon-ba45vg",
+    "product_type": "Shoes",
+    "title": "Vegan Bullet - BA45VG (Adult)"
+  },
+  {
+    "handle": "chrissie-ch40",
+    "product_type": "Shoes",
+    "title": "Chrissie - CH40"
+  },
+  {
+    "handle": "caroline-ch110",
+    "product_type": "Shoes",
+    "title": "Caroline - CH110"
+  },
+  {
+    "handle": "cybil-ch102",
+    "product_type": "Shoes",
+    "title": "Cybil - CH102"
+  },
+  {
+    "handle": "caitlin-ch01",
+    "product_type": "Shoes",
+    "title": "Caitlin - CH01"
+  },
+  {
+    "handle": "rory-bl54",
+    "product_type": "Shoes",
+    "title": "Rory - BL54"
+  },
+  {
+    "handle": "malibu-ba41",
+    "product_type": "Shoes",
+    "title": "Malibu Turners - BA41"
+  },
+  {
+    "handle": "dani-ba40a",
+    "product_type": "Shoes",
+    "title": "Dani - BA40A (Adult)"
+  },
+  {
+    "handle": "cynthia-ch103",
+    "product_type": "Shoes",
+    "title": "Cynthia - CH103"
+  },
+  {
+    "handle": "janis-slj10",
+    "product_type": "Shoes",
+    "title": "Janis - SLJ10 (Adult)"
+  },
+  {
+    "handle": "ba49",
+    "product_type": "Shoes",
+    "title": "Leather Bullet - BA49 (Adult)"
+  },
+  {
+    "handle": "slj40",
+    "product_type": "Shoes",
+    "title": "Jae - SLJ40 (Child)"
+  },
+  {
+    "handle": "raeni-bl184",
+    "product_type": "Shoes",
+    "title": "Raeni - BL184"
+  },
+  {
+    "handle": "radost-bl106",
+    "product_type": "Shoes",
+    "title": "Radost - BL106 (Men)"
+  },
+  {
+    "handle": "bl182",
+    "product_type": "Shoes",
+    "title": "Radison - BL182"
+  },
+  {
+    "handle": "rabah-bl180",
+    "product_type": "Shoes",
+    "title": "Rabah - BL180"
+  },
+  {
+    "handle": "rachel-bl178",
+    "product_type": "Shoes",
+    "title": "Rachel - BL178"
+  },
+  {
+    "handle": "lola-sd152",
+    "product_type": "Shoes",
+    "title": "Lola - SD152"
+  },
+  {
+    "handle": "velma-sd143",
+    "product_type": "Shoes",
+    "title": "Velma - SD143"
+  },
+  {
+    "handle": "roxy-sd153",
+    "product_type": "Shoes",
+    "title": "Roxy - SD153"
+  },
+  {
+    "handle": "charity-sd142",
+    "product_type": "Shoes",
+    "title": "Charity - SD142"
+  },
+  {
+    "handle": "taffy-ta11",
+    "product_type": "Shoes",
+    "title": "Taffy - TA11 (Adult)"
+  },
+  {
+    "handle": "jolie-jz44l",
+    "product_type": "Shoes",
+    "title": "Jolie - JZ44L (Adult)"
+  },
+  {
+    "handle": "thalie-ta10",
+    "product_type": "Shoes",
+    "title": "Thalie - TA10 (Child)"
+  },
+  {
+    "handle": "jolie-jz44s",
+    "product_type": "Shoes",
+    "title": "Jolie - JZ44s (Child)"
+  },
+  {
+    "handle": "bl158",
+    "product_type": "Shoes",
+    "title": "Rosa - BL158"
+  },
+  {
+    "handle": "robbie-bl102",
+    "product_type": "Shoes",
+    "title": "Robbie - BL102 (Men)"
+  },
+  {
+    "handle": "cher-ch98",
+    "product_type": "Shoes",
+    "title": "Cher - CH98"
+  },
+  {
+    "handle": "sd18",
+    "product_type": "Shoes",
+    "title": "Bali - SD18"
+  },
+  {
+    "handle": "jinny-jz77s",
+    "product_type": "Shoes",
+    "title": "Jinny - JZ77s (Child)"
+  },
+  {
+    "handle": "jesse-jz76s",
+    "product_type": "Shoes",
+    "title": "Jesse - JZ76s Rubber Sole (Child)"
+  },
+  {
+    "handle": "christiane-ta830cmv",
+    "product_type": "Shoes",
+    "title": "Christiane - TA830"
+  },
+  {
+    "handle": "tiffany-ta57",
+    "product_type": "Shoes",
+    "title": "Tiffany - TA57"
+  },
+  {
+    "handle": "taylor-ta52",
+    "product_type": "Shoes",
+    "title": "Taylor - TA52"
+  },
+  {
+    "handle": "amira-ta49",
+    "product_type": "Shoes",
+    "title": "Tina - TA49"
+  },
+  {
+    "handle": "ta48",
+    "product_type": "Shoes",
+    "title": "Willow - TA48"
+  },
+  {
+    "handle": "zelda-ta44s",
+    "product_type": "Shoes",
+    "title": "Zelda - TA44s (Child)"
+  },
+  {
+    "handle": "temple-ta44l",
+    "product_type": "Shoes",
+    "title": "Temple - TA44L (Adult)"
+  },
+  {
+    "handle": "ta42",
+    "product_type": "Shoes",
+    "title": "Zuri - TA42"
+  },
+  {
+    "handle": "ta20",
+    "product_type": "Shoes",
+    "title": "Trent - TA20"
+  },
+  {
+    "handle": "matilda-ro42",
+    "product_type": "Shoes",
+    "title": "Matilda - RO42 (Adult)"
+  },
+  {
+    "handle": "magdalina-ro02",
+    "product_type": "Shoes",
+    "title": "Magdalina - RO02 (Adult)"
+  },
+  {
+    "handle": "marian-ro01l",
+    "product_type": "Shoes",
+    "title": "Morgan - RO01L (Adult)"
+  },
+  {
+    "handle": "ro01s",
+    "product_type": "Shoes",
+    "title": "Marian - RO01s (Child)"
+  },
+  {
+    "handle": "gabriella-md02",
+    "product_type": "Shoes",
+    "title": "Gabriella - MD02 (Child)"
+  },
+  {
+    "handle": "glenda-md11",
+    "product_type": "Shoes",
+    "title": "Glenda - MD11 (Adult)"
+  },
+  {
+    "handle": "jerry-jz95",
+    "product_type": "Shoes",
+    "title": "Jerry - JZ95"
+  },
+  {
+    "handle": "jayna-slj41",
+    "product_type": "Shoes",
+    "title": "Jayna - SLJ41, SLJ42 (Adult)"
+  },
+  {
+    "handle": "jojo-slj09",
+    "product_type": "Shoes",
+    "title": "Jojo - SLJ09 (Child)"
+  },
+  {
+    "handle": "jean-jz05",
+    "product_type": "Shoes",
+    "title": "Jean - JZ05 (Adult)"
+  },
+  {
+    "handle": "gale-gy03",
+    "product_type": "Shoes",
+    "title": "Gale - GY03 (Adult)"
+  },
+  {
+    "handle": "marisol-fl12",
+    "product_type": "Shoes",
+    "title": "Marisol - FL12"
+  },
+  {
+    "handle": "sonnet-dk70",
+    "product_type": "Shoes",
+    "title": "Sonnet Sneaker - DK70, DK71"
+  },
+  {
+    "handle": "riana-ch791",
+    "product_type": "Shoes",
+    "title": "Riana - CH791"
+  },
+  {
+    "handle": "robin-ch792",
+    "product_type": "Shoes",
+    "title": "Robin - CH792"
+  },
+  {
+    "handle": "vesper-jz75vgs",
+    "product_type": "Shoes",
+    "title": "Vesper - JZ75VGs (Child)"
+  },
+  {
+    "handle": "bliss-sd16-adult",
+    "product_type": "Shoes",
+    "title": "Bliss Stretch Canvas - SD16 (Adult)"
+  },
+  {
+    "handle": "tara-ta55",
+    "product_type": "Shoes",
+    "title": "Tara - TA55"
+  },
+  {
+    "handle": "valiant-ta36",
+    "product_type": "Shoes",
+    "title": "Valiant - TA36 (Adult)"
+  },
+  {
+    "handle": "val-ta35",
+    "product_type": "Shoes",
+    "title": "Val - TA35 (Child)"
+  },
+  {
+    "handle": "ta07",
+    "product_type": "Shoes",
+    "title": "Tracy - TA07 (Adult)"
+  },
+  {
+    "handle": "ta06",
+    "product_type": "Shoes",
+    "title": "Trish - TA06 (Child)"
+  },
+  {
+    "handle": "torrin-ta05",
+    "product_type": "Shoes",
+    "title": "Torrin - TA05 (Adult)"
+  },
+  {
+    "handle": "tabitha-slt33",
+    "product_type": "Shoes",
+    "title": "Tabitha - SLT33 (Child)"
+  },
+  {
+    "handle": "sd69s",
+    "product_type": "Shoes",
+    "title": "Bella - SD69s (Child)"
+  },
+  {
+    "handle": "sd69l",
+    "product_type": "Shoes",
+    "title": "Brittany - SD69L (Adult)"
+  },
+  {
+    "handle": "betty-sd60s",
+    "product_type": "Shoes",
+    "title": "Betty - SD60s (Child)"
+  },
+  {
+    "handle": "brit-sd60l",
+    "product_type": "Shoes",
+    "title": "Brit - SD60L (Adult)"
+  },
+  {
+    "handle": "blossom-sd55s",
+    "product_type": "Shoes",
+    "title": "Blossom - SD55s (Child)"
+  },
+  {
+    "handle": "brice-sd55l",
+    "product_type": "Shoes",
+    "title": "Brice - SD55L (Adult)"
+  },
+  {
+    "handle": "sd16vg",
+    "product_type": "Shoes",
+    "title": "Verdi - SD16VG (Adult)"
+  },
+  {
+    "handle": "violet-sd124vg-adult",
+    "product_type": "Shoes",
+    "title": "Violet - SD124VG (Adult)"
+  },
+  {
+    "handle": "verde-sd122vg",
+    "product_type": "Shoes",
+    "title": "Verde - SD122VG (Adult)"
+  },
+  {
+    "handle": "bellamy-sd122",
+    "product_type": "Shoes",
+    "title": "Bellamy - SD122 (Child)"
+  },
+  {
+    "handle": "bellamy-sd122-adult",
+    "product_type": "Shoes",
+    "title": "Bellamy - SD122 (Adult)"
+  },
+  {
+    "handle": "brio-sd120",
+    "product_type": "Shoes",
+    "title": "Brio - SD120 (Adult)"
+  },
+  {
+    "handle": "bryn-sd110s",
+    "product_type": "Shoes",
+    "title": "Bryn - SD110s (Child)"
+  },
+  {
+    "handle": "md10",
+    "product_type": "Shoes",
+    "title": "Genevieve - MD10 (Adult)"
+  },
+  {
+    "handle": "jen-jz77l",
+    "product_type": "Shoes",
+    "title": "Jen - JZ77L (Adult)"
+  },
+  {
+    "handle": "jesse-jz76l",
+    "product_type": "Shoes",
+    "title": "Jesse - JZ76L Rubber Sole (Adult)"
+  },
+  {
+    "handle": "jude-jz76al",
+    "product_type": "Shoes",
+    "title": "Jude - JZ76AL Suede Sole (Adult)"
+  },
+  {
+    "handle": "jocelyn-jz45a",
+    "product_type": "Shoes",
+    "title": "Jocelyn - JZ45A Suede Sole (Adult)"
+  },
+  {
+    "handle": "janus-jz45",
+    "product_type": "Shoes",
+    "title": "Janus - JZ45 Rubber Sole (Adult)"
+  },
+  {
+    "handle": "jaden-jz40",
+    "product_type": "Shoes",
+    "title": "Jaden - JZ40 (Adult)"
+  },
+  {
+    "handle": "connie-ch57",
+    "product_type": "Shoes",
+    "title": "Connie - CH57 Suede Sole"
+  },
+  {
+    "handle": "clarice-ch56",
+    "product_type": "Shoes",
+    "title": "Clarice - CH56 Leather Sole"
+  },
+  {
+    "handle": "christa-ch54",
+    "product_type": "Shoes",
+    "title": "Christa - CH54"
+  },
+  {
+    "handle": "charlene-ch52",
+    "product_type": "Shoes",
+    "title": "Charlene - CH52"
+  },
+  {
+    "handle": "celine-ch50",
+    "product_type": "Shoes",
+    "title": "Celine - CH50 (Adult)"
+  },
+  {
+    "handle": "candice-ch02",
+    "product_type": "Shoes",
+    "title": "Candice - CH02 (Adult)"
+  },
+  {
+    "handle": "bl162",
+    "product_type": "Shoes",
+    "title": "Rikki - BL162"
+  },
+  {
+    "handle": "rachelle-bl116",
+    "product_type": "Shoes",
+    "title": "Rachelle - BL116"
+  },
+  {
+    "handle": "bullet-ba45",
+    "product_type": "Shoes",
+    "title": "Stretch Canvas Bullet - BA45 (Adult)"
+  },
+  {
+    "handle": "bert-ba26",
+    "product_type": "Shoes",
+    "title": "Bert - BA26 (Men)"
+  },
+  {
+    "handle": "loralee-ba24",
+    "product_type": "Shoes",
+    "title": "Loralee - BA24 (Child)"
+  },
+  {
+    "handle": "vega-jz75vgl",
+    "product_type": "Shoes",
+    "title": "Vega - JZ75VGL (Adult)"
+  },
+  {
+    "handle": "jill-jz75s",
+    "product_type": "Shoes",
+    "title": "Jill - JZ75s (Child)"
+  }
+]

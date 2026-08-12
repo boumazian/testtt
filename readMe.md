@@ -49,3 +49,7 @@ nohup node auto-qa-runner.mjs "https://mpnt2j1w4hdz2k2b-20780321.shopifypreview.
 
 
 tail -f /home/fadouabo/test-qa/fresh-test.log
+
+
+
+nohup sh -c 'rm -rf /home/fadouabo/test-qa/results-rudis && node --max-old-space-size=8192 auto-qa-runner.mjs "https://www.rudis.com/collections/footwear" --settle 25000 --settle-negative 10000 --out-dir /home/fadouabo/test-qa/results-rudis/footwear && node --max-old-space-size=8192 auto-qa-runner.mjs "https://www.rudis.com/" --settle 25000 --settle-negative 10000 --out-dir /home/fadouabo/test-qa/results-rudis/non-footwear' > /home/fadouabo/test-qa/rudis-full-test.log 2>&1 &
