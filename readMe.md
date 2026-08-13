@@ -53,3 +53,7 @@ tail -f /home/fadouabo/test-qa/fresh-test.log
 
 
 nohup sh -c 'rm -rf /home/fadouabo/test-qa/results-rudis && node --max-old-space-size=8192 auto-qa-runner.mjs "https://www.rudis.com/collections/footwear" --settle 25000 --settle-negative 10000 --out-dir /home/fadouabo/test-qa/results-rudis/footwear && node --max-old-space-size=8192 auto-qa-runner.mjs "https://www.rudis.com/" --settle 25000 --settle-negative 10000 --out-dir /home/fadouabo/test-qa/results-rudis/non-footwear' > /home/fadouabo/test-qa/rudis-full-test.log 2>&1 &
+
+
+nohup node auto-qa-runner.mjs "https://rudis.com" --settle 25000 --settle-negative 10000 --all > /home/fadouabo/test-qa/rudis-store-catalog.log 2>&1 &
+tail -f /home/fadouabo/test-qa/rudis-store-catalog.log

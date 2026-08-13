@@ -206,33 +206,82 @@ function parseCsv(text) {
 }
 function readCsvObjects(csvPath) {
   if (!existsSync(csvPath)) return [];
-  return parseCsv(readFileSync(csvPath, 'utf8')).filter((r) => r.length >= COLS.length).slice(1)
+  const rows = parseCsv(readFileSync(csvPath, 'utf8')).filter((r) => r.length >= COLS.length).slice(1)
     .map((r) => { const o = {}; COLS.forEach((k, i) => (o[k] = r[i])); return o; });
+  // CSV is an append-only log — a handle may appear twice (e.g. Phase 1 row,
+  // then a later Phase-2 re-verify update for the same handle). Last write wins.
+  const byHandle = new Map();
+  for (const o of rows) byHandle.set(o.handle, o);
+  return [...byHandle.values()];
+}
+
+// ─── catalog/category grouping (non-footwear split) ──────────────────────────────
+function slugify(s) {
+  return (s || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'uncategorized';
+}
+
+// Groups by product_type, case-insensitively (Shopify catalogs are often entered
+// with inconsistent casing, e.g. "Singlets" vs "SINGLETS" — those are the same
+// catalog and would otherwise fragment into duplicate near-empty reports).
+function groupByCategory(items) {
+  const groups = new Map();
+  for (const item of items) {
+    const raw = (item.product_type || '').trim();
+    const key = raw.toLowerCase() || '(uncategorized)';
+    if (!groups.has(key)) groups.set(key, { label: raw || 'Uncategorized', items: [] });
+    groups.get(key).items.push(item);
+  }
+  return [...groups.values()].sort((a, b) => b.items.length - a.items.length);
+}
+
+// ─── ETA estimate ───────────────────────────────────────────────────────────────
+// Calibrated from this tool's own observed throughput (page nav + networkidle
+// wait + fixed settle checks) — the dominant cost per item is one full settle
+// timeout, since the common case (a correctly-suppressed non-footwear PDP, or a
+// footwear PDP that genuinely renders) waits out `settleMs` on the render probe.
+const PROBE_OVERHEAD_MS = 29000;
+const estimateGroupSeconds = (itemCount, settleMs, concurrency) =>
+  Math.ceil((itemCount / concurrency) * (PROBE_OVERHEAD_MS + settleMs) / 1000);
+function formatDuration(totalSeconds) {
+  const h = Math.floor(totalSeconds / 3600);
+  const m = Math.floor((totalSeconds % 3600) / 60);
+  const s = Math.floor(totalSeconds % 60);
+  if (h) return `${h}h ${m}m`;
+  if (m) return `${m}m ${s}s`;
+  return `${s}s`;
 }
 
 // ─── run group ─────────────────────────────────────────────────────────────────
-async function runGroup({ browser, group, items, stamp }) {
+async function runGroup({ browser, group, items, stamp, expectRender }) {
   const SUFFIX = `-${group}`;
   const CSV_PATH = out(`${SLUG}-realift-sweep${SUFFIX}.csv`);
   const PROGRESS_PATH = out(`${SLUG}-realift-sweep${SUFFIX}.progress`);
-  const expectRender = group === 'footwear';
   const settleMs = expectRender ? SETTLE_MS : SETTLE_NEGATIVE_MS;
 
   const done = new Set();
-  if (existsSync(CSV_PATH)) { for (const o of readCsvObjects(CSV_PATH)) if (o.status !== 'ERROR') done.add(o.handle); }
-  else writeFileSync(CSV_PATH, COLS.join(',') + '\n');
+  const pendingReverify = [];
+  if (existsSync(CSV_PATH)) {
+    for (const o of readCsvObjects(CSV_PATH)) {
+      if (o.status !== 'ERROR') done.add(o.handle);
+      // FAIL rows from a run that got interrupted before Phase 2 never got a
+      // `certified` verdict — re-verify them now instead of silently dropping
+      // them from the report (they won't be in `queue` since they're `done`).
+      if (o.status === 'FAIL' && !o.certified) pendingReverify.push({ item: { handle: o.handle, product_type: o.product_type, why: o.classify_why }, row: o });
+    }
+  } else writeFileSync(CSV_PATH, COLS.join(',') + '\n');
 
   let queue = items.filter((p) => !done.has(p.handle));
   if (Number.isFinite(LIMIT)) queue = queue.slice(0, LIMIT);
 
-  console.log(`\n━━━ ${group.toUpperCase()} pass — ${queue.length} to audit (already done ${done.size}) · concurrency ${CONCURRENCY} · settle ${settleMs}ms ━━━`);
+  const resumeNote = pendingReverify.length ? `, ${pendingReverify.length} pending re-verify from prior run` : '';
+  console.log(`\n━━━ ${group.toUpperCase()} pass — ${queue.length} to audit (already done ${done.size}${resumeNote}) · concurrency ${CONCURRENCY} · settle ${settleMs}ms ━━━`);
 
   const ctx = await browser.newContext({ viewport: { width: 1280, height: 900 } });
   await ctx.clearCookies();
 
   let idx = 0, completed = 0, pass = 0, fail = 0, error = 0;
   const total = queue.length;
-  const flagged = [];
+  const flagged = [...pendingReverify];
 
   async function worker(wid) {
     let page = await ctx.newPage();
@@ -279,7 +328,12 @@ async function runGroup({ browser, group, items, stamp }) {
       const reproduced = passes.every((p) => p === badState);
       const flaky = !reproduced && passes.some((p) => p === badState);
       const cert = reproduced ? 'CONFIRMED' : flaky ? 'FLAKY' : 'CLEARED';
-      certified.push({ ...row, reverify: passes.join('|'), certified: cert });
+      const certRow = { ...row, reverify: passes.join('|'), certified: cert };
+      // Persist this re-verified result immediately — it must not depend on
+      // reaching the end of the flagged list (a dropped connection mid-sweep
+      // used to lose every result that hadn't been batch-written yet).
+      appendFileSync(CSV_PATH, csvRow(certRow) + '\n');
+      certified.push(certRow);
       console.log(`  ${cert === 'CONFIRMED' ? '🔴' : cert === 'FLAKY' ? '🟠' : '🟢'} ${cert.padEnd(9)} ${row.handle} [${passes.join(', ')}]`);
     }
     await rvCtx.close();
@@ -366,15 +420,43 @@ async function main() {
 
   console.log(`👟 Footwear: ${footwearItems.length} | 🚫 Non-Footwear: ${nonFootwearItems.length}`);
 
+  const categories = groupByCategory(nonFootwearItems).map((c) => ({
+    ...c,
+    slug: slugify(c.label),
+    etaSeconds: estimateGroupSeconds(c.items.length, SETTLE_NEGATIVE_MS, CONCURRENCY),
+  }));
+  const totalEtaSeconds = categories.reduce((s, c) => s + c.etaSeconds, 0);
+  console.log(`\n📋 Non-footwear split into ${categories.length} catalog/category group(s):`);
+  for (const c of categories) {
+    console.log(`   • ${c.label.padEnd(30)} ${String(c.items.length).padStart(5)} items  ~${formatDuration(c.etaSeconds).padStart(8)}  → ${SLUG}-realift-sweep-${c.slug}.csv`);
+  }
+  console.log(`   TOTAL estimated Phase-1 time: ~${formatDuration(totalEtaSeconds)} (settle-negative=${SETTLE_NEGATIVE_MS}ms, concurrency=${CONCURRENCY}; excludes the re-verify pass, whose size isn't known until Phase 1 flags failures)\n`);
+
   const browser = await chromium.launch({ headless: !HEADED });
 
-  let footRes, nonfootRes;
+  let footRes;
+  const nonfootResults = [];
   try {
-    footRes = await runGroup({ browser, group: 'footwear', items: footwearItems, stamp });
-    nonfootRes = await runGroup({ browser, group: 'non-footwear', items: nonFootwearItems, stamp });
+    footRes = await runGroup({ browser, group: 'footwear', items: footwearItems, stamp, expectRender: true });
+    for (const c of categories) {
+      console.log(`\n▶ Starting catalog "${c.label}" — ${c.items.length} items — ETA ~${formatDuration(c.etaSeconds)}`);
+      nonfootResults.push(await runGroup({ browser, group: c.slug, items: c.items, stamp, expectRender: false }));
+    }
   } finally {
     await browser.close();
   }
+  const nonfootRes = {
+    summary: {
+      group: 'non-footwear (all catalogs)',
+      audited: nonfootResults.reduce((s, r) => s + r.summary.audited, 0),
+      pass: nonfootResults.reduce((s, r) => s + r.summary.pass, 0),
+      fail: nonfootResults.reduce((s, r) => s + r.summary.fail, 0),
+      error: nonfootResults.reduce((s, r) => s + r.summary.error, 0),
+      csv: nonfootResults.map((r) => r.summary.csv),
+    },
+    certified: nonfootResults.flatMap((r) => r.certified),
+    rows: nonfootResults.flatMap((r) => r.rows),
+  };
 
   const footChart = footRes.rows.find((r) => r.sizeChart)?.sizeChart || '';
   const reportData = { catalog, footCount: footwearItems.length, traps, foot: footRes, nonfoot: nonfootRes, footChart };
